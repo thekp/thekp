@@ -1,5 +1,5 @@
 # Hello, world 
 
-## Today's Random Pokemon is... Lileep
+## Today's random Pokemon is... Raichu
 
-![Lileep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/345.png)
+![Raichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/26.png)
