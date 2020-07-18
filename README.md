@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Leavanny
+# Today's random Pokemon is... Musharna
 
-![Leavanny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
+![Musharna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/518.png)
