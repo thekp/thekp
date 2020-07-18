@@ -1,0 +1,29 @@
+{
+  "name": "thekp",
+  "version": "1.0.0",
+  "description": "Today's Random Pokemon is... {{ pokemon_name }}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thekp/thekp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekp/thekp/issues"
+  },
+  "homepage": "https://github.com/thekp/thekp#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-json": "^2.1.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
