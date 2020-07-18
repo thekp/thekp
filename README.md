@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Musharna
+# Today's random Pokemon is... Arbok
 
-![Musharna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/518.png)
+![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/24.png)
