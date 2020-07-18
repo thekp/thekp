@@ -4,7 +4,8 @@
   "description": "Today's Random Pokemon is... {{ pokemon_name }}",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"updateReadMe": "node ./functions"
   },
   "repository": {
     "type": "git",
