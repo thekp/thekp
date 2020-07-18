@@ -1,5 +1,5 @@
 # Hello, world 
 
-## Today's random Pokemon is... Magnezone
+## Today's random Pokemon is... Magearna
 
-![Magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/462.png)
+![Magearna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/801.png)
