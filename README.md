@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Flaaffy
+# Today's random Pokemon is... Leavanny
 
-![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/180.png)
+![Leavanny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
