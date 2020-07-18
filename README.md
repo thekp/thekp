@@ -1,5 +1,5 @@
 # Hello, world 
 
-## Today's random Pokemon is... Magearna
+## Today's random Pokemon is... Ledian
 
-![Magearna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/801.png)
+![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/166.png)
