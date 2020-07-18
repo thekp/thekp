@@ -1,5 +1,5 @@
 # Hello, world 
 
-## Today's random Pokemon is... Gigalith
+## Today's random Pokemon is... Type-null
 
-![Gigalith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/526.png)
+![Type-null](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/772.png)
