@@ -1,5 +1,5 @@
 # Hello, world 
 
-## Today's random Pokemon is... Type-null
+## Today's random Pokemon is... Magnezone
 
-![Type-null](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/772.png)
+![Magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/462.png)
