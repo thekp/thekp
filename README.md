@@ -1,5 +1,5 @@
 # Hello, world 
 
-## Today's random Pokemon is... Raichu
+## Today's random Pokemon is... Gigalith
 
-![Raichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/26.png)
+![Gigalith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/526.png)
