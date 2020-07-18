@@ -12,6 +12,16 @@ const README_RESET =
 const README_FILE_PATH = './README.md';
 const POKEMON_ENDPOINT = `https://pokeapi.co/api/v2/pokemon/${getPokeNum()}`;
 
+const stageCommitPushChanges = () => {
+  runExec({
+    command: `git add README.md`,
+  })
+    .then(() =>
+      runExec({ command: `git commit -m "chore: update pokemon on README"` }),
+    )
+    .then(() => runExec({ command: `git push origin HEAD` }));
+};
+
 const updateReadMe = async () => {
   updateFile(README_FILE_PATH)(README_RESET);
 
@@ -24,13 +34,7 @@ const updateReadMe = async () => {
 
   updateFile(README_FILE_PATH)(newReadMe);
 
-  runExec({
-    command: `git add README.md`,
-  })
-    .then(() =>
-      runExec({ command: `git commit -m "chore: update pokemon on README"` }),
-    )
-    .then(() => runExec({ command: `git push origin HEAD` }));
+  stageCommitPushChanges();
 };
 
 updateReadMe();
