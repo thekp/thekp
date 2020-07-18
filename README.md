@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Arbok
+# Today's random Pokemon is... Seadra
 
-![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/24.png)
+![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/117.png)
