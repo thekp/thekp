@@ -1,9 +1,9 @@
-const readFile = require('./readFile');
-const updateFile = require('./updateFile');
-const upperFirst = require('./upperFirst');
-const getPokeNum = require('./getPokeNum');
-const fetchPokeData = require('./fetchPokeData');
-const runExec = require('./runExec');
+const readFile = require('./functions/readFile');
+const updateFile = require('./functions/updateFile');
+const upperFirst = require('./functions/upperFirst');
+const getPokeNum = require('./functions/getPokeNum');
+const fetchPokeData = require('./functions/fetchPokeData');
+const runExec = require('./functions/runExec');
 
 const TEMPLATE_POKE_NAME = /{{ pokemon_name }}/g;
 const TEMPLATE_POKE_IMG = /{{ pokemon_img }}/g;
