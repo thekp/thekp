@@ -1,5 +1,3 @@
-# Hello, world 
+# Today's random Pokemon is... Scrafty
 
-## Today's random Pokemon is... Swellow
-
-![Swellow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/277.png)
+![Scrafty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/560.png)
