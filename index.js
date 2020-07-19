@@ -8,7 +8,7 @@ const runExec = require('./functions/runExec');
 const TEMPLATE_POKE_NAME = /{{ pokemon_name }}/g;
 const TEMPLATE_POKE_IMG = /{{ pokemon_img }}/g;
 const README_RESET =
-  "# Today's random Pokemon is... {{ pokemon_name }}\n\n![{{ pokemon_name }}]({{ pokemon_img }})";
+  "# Today's random Pokemon is... {{ pokemon_name }}\n\n![{{ pokemon_name }} shiny sprite]({{ pokemon_img }})";
 const README_FILE_PATH = './README.md';
 const POKEMON_ENDPOINT = `https://pokeapi.co/api/v2/pokemon/${getPokeNum()}`;
 
