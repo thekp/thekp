@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Fearow
+# Today's random Pokemon is... Lanturn
 
-![Fearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png)
+![Lanturn shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/171.png)
