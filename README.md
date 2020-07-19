@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Seadra
+# Today's random Pokemon is... Duosion
 
-![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/117.png)
+![Duosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/578.png)
