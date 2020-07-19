@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Lanturn
+# Today's random Pokemon is... Barbaracle
 
-![Lanturn shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/171.png)
+![Barbaracle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/689.png)
