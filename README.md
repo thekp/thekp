@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Duosion
+# Today's random Pokemon is... Fearow
 
-![Duosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/578.png)
+![Fearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png)
