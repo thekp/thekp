@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Barbaracle
+# Today's random Pokemon is... Houndoom
 
-![Barbaracle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/689.png)
+![Houndoom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/229.png)
