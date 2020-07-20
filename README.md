@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Houndoom
+# Today's random Pokemon is... Hariyama
 
-![Houndoom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/229.png)
+![Hariyama shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/297.png)
