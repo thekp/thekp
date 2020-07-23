@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Garbodor
+# Today's random Pokemon is... Ursaring
 
-![Garbodor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/569.png)
+![Ursaring shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/217.png)
