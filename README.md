@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sunflora
+# Today's random Pokemon is... Starmie
 
-![Sunflora shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/192.png)
+![Starmie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/121.png)
 
 <details>
-<summary>Additional info about Sunflora</summary>
+<summary>Additional info about Starmie</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sunflora back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/192.png) |
-| back_shiny | ![Sunflora back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/192.png) |
-| front_default | ![Sunflora front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png) | </details>
+| back_default | ![Starmie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png) |
+| back_shiny | ![Starmie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/121.png) |
+| front_default | ![Starmie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png) | </details>
