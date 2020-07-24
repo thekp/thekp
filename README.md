@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Starmie
+# Today's random Pokemon is... Sceptile
 
-![Starmie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/121.png)
+![Sceptile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/254.png)
 
 <details>
-<summary>Additional info about Starmie</summary>
+<summary>Additional info about Sceptile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Starmie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png) |
-| back_shiny | ![Starmie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/121.png) |
-| front_default | ![Starmie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png) | </details>
+| back_default | ![Sceptile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/254.png) |
+| back_shiny | ![Sceptile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/254.png) |
+| front_default | ![Sceptile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png) | </details>
