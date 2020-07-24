@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Trubbish
+# Today's random Pokemon is... Cosmoem
 
-![Trubbish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/568.png)
+![Cosmoem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/790.png)
