@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sceptile
+# Today's random Pokemon is... Poochyena
 
-![Sceptile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/254.png)
+![Poochyena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/261.png)
 
 <details>
-<summary>Additional info about Sceptile</summary>
+<summary>Additional info about Poochyena</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sceptile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/254.png) |
-| back_shiny | ![Sceptile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/254.png) |
-| front_default | ![Sceptile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png) | </details>
+| back_default | ![Poochyena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/261.png) |
+| back_shiny | ![Poochyena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/261.png) |
+| front_default | ![Poochyena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png) | </details>
