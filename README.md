@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Swanna
+# Today's random Pokemon is... Swinub
 
-![Swanna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/581.png)
+![Swinub shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/220.png)
