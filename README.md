@@ -1,3 +1,3 @@
-# This week's random Pokemon is... Togekiss
+# This week's random Pokemon is... Ledian
 
-![Togekiss shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/468.png)
+![Ledian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/166.png)
