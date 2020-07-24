@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Ursaring
+# Today's random Pokemon is... Butterfree
 
-![Ursaring shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/217.png)
+![Butterfree shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/12.png)
