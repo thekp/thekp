@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Panpour
+# Today's random Pokemon is... Luvdisc
 
-![Panpour shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/515.png)
+![Luvdisc shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/370.png)
