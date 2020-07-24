@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Panpour
+# Today's random Pokemon is... Parasect
 
-![Panpour shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/515.png)
+![Parasect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png)
