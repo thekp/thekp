@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Ambipom
+# Today's random Pokemon is... Swanna
 
-![Ambipom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/424.png)
+![Swanna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/581.png)
