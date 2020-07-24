@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Swinub
+# Today's random Pokemon is... Toxicroak
 
-![Swinub shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/220.png)
+![Toxicroak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/454.png)
