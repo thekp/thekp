@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Politoed
+# Today's random Pokemon is... Vanilluxe
 
-![Politoed shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/186.png)
+![Vanilluxe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/584.png)
