@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Fearow
+# Today's random Pokemon is... Kyogre
 
-![Fearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png)
+![Kyogre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/382.png)
