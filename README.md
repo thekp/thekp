@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Binacle
+# Today's random Pokemon is... Ambipom
 
-![Binacle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/688.png)
+![Ambipom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/424.png)
