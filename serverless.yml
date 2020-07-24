@@ -1,6 +1,6 @@
 service: kappaphan
 org: thekp
-app: my-lambda-app
+app: thekp-readme
 provider:
   name: aws
   runtime: nodejs12.x
