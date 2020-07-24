@@ -44,7 +44,7 @@ const updateReadme = async () => {
     {
       sha: data.sha,
       path: 'README.md',
-      message: 'chore: update pokemon of the day',
+      message: `chore: Today's Pokemon is ${name}`,
       content: Buffer.from(newReadMe).toString('base64'),
     },
   );
