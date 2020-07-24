@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Kyogre
+# This week's random Pokemon is... Carvanha
 
-![Kyogre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/382.png)
+![Carvanha shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/318.png)
