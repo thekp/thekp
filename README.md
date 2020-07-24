@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sceptile
+# Today's random Pokemon is... Sandshrew
 
-![Sceptile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/254.png)
+![Sandshrew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/27.png)
 
 <details>
-<summary>Additional info about Sceptile</summary>
+<summary>Additional info about Sandshrew</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sceptile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/254.png) |
-| back_shiny | ![Sceptile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/254.png) |
-| front_default | ![Sceptile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png) | </details>
+| back_default | ![Sandshrew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png) |
+| back_shiny | ![Sandshrew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/27.png) |
+| front_default | ![Sandshrew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png) | </details>
