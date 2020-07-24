@@ -1,0 +1,14 @@
+service: kappaphan
+org: thekp
+app: my-lambda-app
+provider:
+  name: aws
+  runtime: nodejs12.x
+functions:
+  updateReadme:
+    handler: handler.updateReadme
+    events:
+      - http:
+          path: update-readme
+          method: get
+      - schedule: rate(24 hours)
