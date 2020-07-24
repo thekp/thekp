@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Cosmoem
+# Today's random Pokemon is... Vikavolt
 
-![Cosmoem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/790.png)
+![Vikavolt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/738.png)
