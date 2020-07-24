@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Fletchinder
+# Today's random Pokemon is... Trubbish
 
-![Fletchinder shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/662.png)
+![Trubbish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/568.png)
