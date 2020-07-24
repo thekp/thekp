@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Butterfree
+# Today's random Pokemon is... Sealeo
 
-![Butterfree shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/12.png)
+![Sealeo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/364.png)
