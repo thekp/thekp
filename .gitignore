@@ -1,2 +1,10 @@
 # package directories
 node_modules
+
+# Serverless directories
+.serverless
+serverless.yml
+
+# secrets
+secrets.json
+

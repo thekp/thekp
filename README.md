@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Binacle
+# Today's random Pokemon is... {{ pokemon_name }}
 
-![Binacle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/688.png)
+![{{ pokemon_name }} shiny sprite]({{ pokemon_img }})
