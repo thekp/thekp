@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Toxicroak
+# Today's random Pokemon is... Skiddo
 
-![Toxicroak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/454.png)
+![Skiddo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/672.png)
