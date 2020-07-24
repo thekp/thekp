@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Skiddo
+# Today's random Pokemon is... Kyogre
 
-![Skiddo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/672.png)
+![Kyogre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/382.png)
