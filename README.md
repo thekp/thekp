@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Brionne
+# Today's random Pokemon is... Dragonair
 
-![Brionne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/729.png)
+![Dragonair shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png)
