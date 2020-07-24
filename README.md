@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Vanilluxe
+# Today's random Pokemon is... Sylveon
 
-![Vanilluxe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/584.png)
+![Sylveon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/700.png)
