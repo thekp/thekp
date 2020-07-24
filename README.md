@@ -1,3 +1,3 @@
-# This week's random Pokemon is... Mewtwo
+# This week's random Pokemon is... Togekiss
 
-![Mewtwo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/150.png)
+![Togekiss shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/468.png)
