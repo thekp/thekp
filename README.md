@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Noibat
+# Today's random Pokemon is... Politoed
 
-![Noibat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/714.png)
+![Politoed shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/186.png)
