@@ -9,7 +9,7 @@ const fetch = require('./lib/nodeFetch');
 const TEMPLATE_POKE_NAME = /{{ pokemon_name }}/g;
 const TEMPLATE_POKE_IMG = /{{ pokemon_img }}/g;
 const TEMPLATE_README =
-  "# This week's random Pokemon is... {{ pokemon_name }}\n\n![{{ pokemon_name }} shiny sprite]({{ pokemon_img }})";
+  "# Today's random Pokemon is... {{ pokemon_name }}\n\n![{{ pokemon_name }} shiny sprite]({{ pokemon_img }})";
 const { GITHUB_TOKEN, GITHUB_USERNAME } = secrets;
 
 const updateReadme = async () => {
