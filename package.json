@@ -1,7 +1,7 @@
 {
   "name": "kappaphan",
   "version": "1.0.0",
-  "description": "Today's Random Pokemon is... {{ pokemon_name }}",
+  "description": "This week's Random Pokemon is... {{ pokemon_name }}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
