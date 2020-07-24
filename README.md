@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Sealeo
+# Today's random Pokemon is... Binacle
 
-![Sealeo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/364.png)
+![Binacle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/688.png)
