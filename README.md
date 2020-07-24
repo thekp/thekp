@@ -1,3 +1,3 @@
-# Today's random Pokemon is... {{ pokemon_name }}
+# Today's random Pokemon is... Dhelmise
 
-![{{ pokemon_name }} shiny sprite]({{ pokemon_img }})
+![Dhelmise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/781.png)

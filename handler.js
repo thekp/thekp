@@ -30,7 +30,7 @@ const updateReadme = async () => {
   );
 
   console.log('Updating Readme with OctoKit...');
-  console.log(`Today new pokemon is ${name}`);
+  console.log(`This week's random pokemon is ${name}`);
   await octokit.request(
     `PUT /repos/${GITHUB_USERNAME}/${GITHUB_USERNAME}/contents/README.md`,
     {
