@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Dhelmise
+# This week's random Pokemon is... Mewtwo
 
-![Dhelmise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/781.png)
+![Mewtwo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/150.png)
