@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Kyogre
+# Today's random Pokemon is... Pawniard
 
-![Kyogre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/382.png)
+![Pawniard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/624.png)
