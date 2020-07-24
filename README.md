@@ -1,3 +1,3 @@
-# Today's random Pokemon is... Parasect
+# Today's random Pokemon is... Fearow
 
-![Parasect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png)
+![Fearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png)
