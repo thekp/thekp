@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poochyena
+# Today's random Pokemon is... Sandshrew
 
-![Poochyena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/261.png)
+![Sandshrew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/27.png)
 
 <details>
-<summary>Additional info about Poochyena</summary>
+<summary>Additional info about Sandshrew</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poochyena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/261.png) |
-| back_shiny | ![Poochyena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/261.png) |
-| front_default | ![Poochyena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png) | </details>
+| back_default | ![Sandshrew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png) |
+| back_shiny | ![Sandshrew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/27.png) |
+| front_default | ![Sandshrew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png) | </details>
