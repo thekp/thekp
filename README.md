@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Brionne
+# Today's random Pokemon is... Voltorb
 
-![Brionne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/729.png)
+![Voltorb shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/100.png)
 
 <details>
-<summary>Additional info about Brionne</summary>
+<summary>Additional info about Voltorb</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Brionne front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png) | </details>
+| back_default | ![Voltorb back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png) |
+| back_shiny | ![Voltorb back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/100.png) |
+| front_default | ![Voltorb front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png) | </details>
