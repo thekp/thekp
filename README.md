@@ -1,10 +1,14 @@
-# Today's random Pokemon is... Trevenant
+# Today's random Pokemon is... Bastiodon
 
-![Trevenant shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/709.png)
+![Bastiodon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/411.png)
 
 <details>
-<summary>Additional info about Trevenant</summary>
+<summary>Additional info about Bastiodon</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Trevenant front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png) | </details>
+| back_default | ![Bastiodon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/411.png) |
+| back_shiny | ![Bastiodon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/411.png) |
+| front_default | ![Bastiodon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png) |
+| other | ![Bastiodon other sprite]([object Object]) |
+| versions | ![Bastiodon versions sprite]([object Object]) | </details>
