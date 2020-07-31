@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Heatmor
+# Today's random Pokemon is... Combee
 
-![Heatmor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/631.png)
+![Combee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/415.png)
 
 <details>
-<summary>Additional info about Heatmor</summary>
+<summary>Additional info about Combee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Heatmor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/631.png) |
-| back_shiny | ![Heatmor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/631.png) |
-| front_default | ![Heatmor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png) | </details>
+| back_default | ![Combee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/415.png) |
+| back_shiny | ![Combee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/415.png) |
+| front_default | ![Combee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png) |
+| front_female | ![Combee front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/415.png) |
+| front_shiny_female | ![Combee front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/415.png) |
+| other | ![Combee other sprite]([object Object]) |
+| versions | ![Combee versions sprite]([object Object]) | </details>
