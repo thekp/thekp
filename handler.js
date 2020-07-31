@@ -2,9 +2,9 @@
 const { Octokit } = require('@octokit/core');
 
 const secrets = require('./secrets.json');
-const upperFirst = require('./lib/upperFirst');
-const getPokeNum = require('./lib/getPokeNum');
-const fetch = require('./lib/nodeFetch');
+const upperFirst = require('./src/upperFirst');
+const getPokeNum = require('./src/getPokeNum');
+const fetch = require('./src/nodeFetch');
 
 const TEMPLATE_POKE_NAME = /{{ pokemon_name }}/g;
 const TEMPLATE_POKE_IMG = /{{ pokemon_img }}/g;
@@ -24,8 +24,9 @@ const updateReadme = async () => {
   const { sprites, name } = await fetch(pokeAPI);
 
   const entries = Object.entries(sprites);
+  const excludedViews = ['front_shiny', 'other', 'versions'];
   for (const [view, link] of entries) {
-    if (link && view !== 'front_shiny') {
+    if (link && !excludedViews.includes(view)) {
       initialTable += `\n| ${view} | ![{{ pokemon_name }} ${view} sprite](${link}) |`;
     }
   }
