@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Vespiquen
+# Today's random Pokemon is... Roserade
 
-![Vespiquen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/416.png)
+![Roserade shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/407.png)
 
 <details>
-<summary>Additional info about Vespiquen</summary>
+<summary>Additional info about Roserade</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vespiquen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/416.png) |
-| back_shiny | ![Vespiquen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/416.png) |
-| front_default | ![Vespiquen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png) | </details>
+| back_default | ![Roserade back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/407.png) |
+| back_female | ![Roserade back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/407.png) |
+| back_shiny | ![Roserade back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/407.png) |
+| back_shiny_female | ![Roserade back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/407.png) |
+| front_default | ![Roserade front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png) |
+| front_female | ![Roserade front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/407.png) |
+| front_shiny_female | ![Roserade front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/407.png) | </details>
