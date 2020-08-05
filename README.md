@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Cherrim
+# Today's random Pokemon is... Clawitzer
 
-![Cherrim shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/421.png)
+![Clawitzer shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/693.png)
 
 <details>
-<summary>Additional info about Cherrim</summary>
+<summary>Additional info about Clawitzer</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cherrim back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/421.png) |
-| back_shiny | ![Cherrim back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/421.png) |
-| front_default | ![Cherrim front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png) | </details>
+| front_default | ![Clawitzer front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png) | </details>
