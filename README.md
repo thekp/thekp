@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Feebas
+# Today's random Pokemon is... Marshtomp
 
-![Feebas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/349.png)
+![Marshtomp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/259.png)
 
 <details>
-<summary>Additional info about Feebas</summary>
+<summary>Additional info about Marshtomp</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Feebas back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/349.png) |
-| back_shiny | ![Feebas back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/349.png) |
-| front_default | ![Feebas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png) | </details>
+| back_default | ![Marshtomp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/259.png) |
+| back_shiny | ![Marshtomp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/259.png) |
+| front_default | ![Marshtomp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png) | </details>
