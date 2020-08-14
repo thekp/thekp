@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elekid
+# Today's random Pokemon is... Dragonair
 
-![Elekid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/239.png)
+![Dragonair shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png)
 
 <details>
-<summary>Additional info about Elekid</summary>
+<summary>Additional info about Dragonair</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Elekid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png) |
-| back_shiny | ![Elekid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/239.png) |
-| front_default | ![Elekid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png) | </details>
+| back_default | ![Dragonair back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png) |
+| back_shiny | ![Dragonair back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/148.png) |
+| front_default | ![Dragonair front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png) | </details>
