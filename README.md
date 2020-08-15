@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dragonair
+# Today's random Pokemon is... Nidoran-m
 
-![Dragonair shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png)
+![Nidoran-m shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/32.png)
 
 <details>
-<summary>Additional info about Dragonair</summary>
+<summary>Additional info about Nidoran-m</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dragonair back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png) |
-| back_shiny | ![Dragonair back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/148.png) |
-| front_default | ![Dragonair front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png) | </details>
+| back_default | ![Nidoran-m back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png) |
+| back_shiny | ![Nidoran-m back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/32.png) |
+| front_default | ![Nidoran-m front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png) | </details>
