@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Hawlucha
+# Today's random Pokemon is... Slugma
 
-![Hawlucha shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/701.png)
+![Slugma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/218.png)
 
 <details>
-<summary>Additional info about Hawlucha</summary>
+<summary>Additional info about Slugma</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Hawlucha front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png) | </details>
+| back_default | ![Slugma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/218.png) |
+| back_shiny | ![Slugma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/218.png) |
+| front_default | ![Slugma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png) | </details>
