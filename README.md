@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Scizor
+# Today's random Pokemon is... Quagsire
 
-![Scizor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/212.png)
+![Quagsire shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/195.png)
 
 <details>
-<summary>Additional info about Scizor</summary>
+<summary>Additional info about Quagsire</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scizor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/212.png) |
-| back_female | ![Scizor back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/212.png) |
-| back_shiny | ![Scizor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/212.png) |
-| back_shiny_female | ![Scizor back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/212.png) |
-| front_default | ![Scizor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png) |
-| front_female | ![Scizor front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/212.png) |
-| front_shiny_female | ![Scizor front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/212.png) | </details>
+| back_default | ![Quagsire back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/195.png) |
+| back_female | ![Quagsire back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/195.png) |
+| back_shiny | ![Quagsire back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/195.png) |
+| back_shiny_female | ![Quagsire back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/195.png) |
+| front_default | ![Quagsire front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png) |
+| front_female | ![Quagsire front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/195.png) |
+| front_shiny_female | ![Quagsire front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/195.png) | </details>
