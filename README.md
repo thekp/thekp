@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pelipper
+# Today's random Pokemon is... Kirlia
 
-![Pelipper shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/279.png)
+![Kirlia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/281.png)
 
 <details>
-<summary>Additional info about Pelipper</summary>
+<summary>Additional info about Kirlia</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pelipper back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/279.png) |
-| back_shiny | ![Pelipper back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/279.png) |
-| front_default | ![Pelipper front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png) | </details>
+| back_default | ![Kirlia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/281.png) |
+| back_shiny | ![Kirlia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/281.png) |
+| front_default | ![Kirlia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png) | </details>
