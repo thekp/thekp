@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Slowbro
+# Today's random Pokemon is... Vulpix
 
-![Slowbro shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/80.png)
+![Vulpix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/37.png)
 
 <details>
-<summary>Additional info about Slowbro</summary>
+<summary>Additional info about Vulpix</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slowbro back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/80.png) |
-| back_shiny | ![Slowbro back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/80.png) |
-| front_default | ![Slowbro front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png) | </details>
+| back_default | ![Vulpix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png) |
+| back_shiny | ![Vulpix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/37.png) |
+| front_default | ![Vulpix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png) | </details>
