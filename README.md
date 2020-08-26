@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Vulpix
+# Today's random Pokemon is... Starly
 
-![Vulpix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/37.png)
+![Starly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/396.png)
 
 <details>
-<summary>Additional info about Vulpix</summary>
+<summary>Additional info about Starly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vulpix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png) |
-| back_shiny | ![Vulpix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/37.png) |
-| front_default | ![Vulpix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png) | </details>
+| back_default | ![Starly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/396.png) |
+| back_female | ![Starly back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/396.png) |
+| back_shiny | ![Starly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/396.png) |
+| back_shiny_female | ![Starly back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/396.png) |
+| front_default | ![Starly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png) |
+| front_female | ![Starly front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/396.png) |
+| front_shiny_female | ![Starly front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/396.png) | </details>
