@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Starly
+# Today's random Pokemon is... Heatmor
 
-![Starly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/396.png)
+![Heatmor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/631.png)
 
 <details>
-<summary>Additional info about Starly</summary>
+<summary>Additional info about Heatmor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Starly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/396.png) |
-| back_female | ![Starly back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/396.png) |
-| back_shiny | ![Starly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/396.png) |
-| back_shiny_female | ![Starly back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/396.png) |
-| front_default | ![Starly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png) |
-| front_female | ![Starly front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/396.png) |
-| front_shiny_female | ![Starly front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/396.png) | </details>
+| back_default | ![Heatmor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/631.png) |
+| back_shiny | ![Heatmor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/631.png) |
+| front_default | ![Heatmor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png) | </details>
