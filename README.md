@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Heatmor
+# Today's random Pokemon is... Makuhita
 
-![Heatmor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/631.png)
+![Makuhita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/296.png)
 
 <details>
-<summary>Additional info about Heatmor</summary>
+<summary>Additional info about Makuhita</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Heatmor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/631.png) |
-| back_shiny | ![Heatmor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/631.png) |
-| front_default | ![Heatmor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png) | </details>
+| back_default | ![Makuhita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/296.png) |
+| back_shiny | ![Makuhita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/296.png) |
+| front_default | ![Makuhita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png) | </details>
