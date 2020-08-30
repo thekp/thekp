@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Masquerain
+# Today's random Pokemon is... Cyndaquil
 
-![Masquerain shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/284.png)
+![Cyndaquil shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/155.png)
 
 <details>
-<summary>Additional info about Masquerain</summary>
+<summary>Additional info about Cyndaquil</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Masquerain back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/284.png) |
-| back_shiny | ![Masquerain back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/284.png) |
-| front_default | ![Masquerain front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png) | </details>
+| back_default | ![Cyndaquil back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/155.png) |
+| back_shiny | ![Cyndaquil back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/155.png) |
+| front_default | ![Cyndaquil front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png) | </details>
