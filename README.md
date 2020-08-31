@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cyndaquil
+# Today's random Pokemon is... Ho-oh
 
-![Cyndaquil shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/155.png)
+![Ho-oh shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/250.png)
 
 <details>
-<summary>Additional info about Cyndaquil</summary>
+<summary>Additional info about Ho-oh</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cyndaquil back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/155.png) |
-| back_shiny | ![Cyndaquil back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/155.png) |
-| front_default | ![Cyndaquil front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png) | </details>
+| back_default | ![Ho-oh back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/250.png) |
+| back_shiny | ![Ho-oh back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/250.png) |
+| front_default | ![Ho-oh front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png) | </details>
