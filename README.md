@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Swirlix
+# Today's random Pokemon is... Terrakion
 
-![Swirlix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/684.png)
+![Terrakion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/639.png)
 
 <details>
-<summary>Additional info about Swirlix</summary>
+<summary>Additional info about Terrakion</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Swirlix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png) | </details>
+| back_default | ![Terrakion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/639.png) |
+| back_shiny | ![Terrakion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/639.png) |
+| front_default | ![Terrakion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png) | </details>
