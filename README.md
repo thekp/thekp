@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Sceptile
+# Today's random Pokemon is... Pyukumuku
 
-![Sceptile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/254.png)
+![Pyukumuku shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/771.png)
 
 <details>
-<summary>Additional info about Sceptile</summary>
+<summary>Additional info about Pyukumuku</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sceptile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/254.png) |
-| back_shiny | ![Sceptile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/254.png) |
-| front_default | ![Sceptile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png) | </details>
+| front_default | ![Pyukumuku front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png) | </details>
