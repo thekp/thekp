@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Pyukumuku
+# Today's random Pokemon is... Duskull
 
-![Pyukumuku shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/771.png)
+![Duskull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/355.png)
 
 <details>
-<summary>Additional info about Pyukumuku</summary>
+<summary>Additional info about Duskull</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Pyukumuku front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png) | </details>
+| back_default | ![Duskull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/355.png) |
+| back_shiny | ![Duskull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/355.png) |
+| front_default | ![Duskull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png) | </details>
