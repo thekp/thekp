@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Duskull
+# Today's random Pokemon is... Simipour
 
-![Duskull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/355.png)
+![Simipour shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/516.png)
 
 <details>
-<summary>Additional info about Duskull</summary>
+<summary>Additional info about Simipour</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Duskull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/355.png) |
-| back_shiny | ![Duskull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/355.png) |
-| front_default | ![Duskull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png) | </details>
+| back_default | ![Simipour back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/516.png) |
+| back_shiny | ![Simipour back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/516.png) |
+| front_default | ![Simipour front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png) | </details>
