@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Steenee
+# Today's random Pokemon is... Crabominable
 
-![Steenee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/762.png)
+![Crabominable shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/740.png)
 
 <details>
-<summary>Additional info about Steenee</summary>
+<summary>Additional info about Crabominable</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Steenee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/762.png) | </details>
+| front_default | ![Crabominable front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | </details>
