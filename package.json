@@ -19,7 +19,7 @@
   "homepage": "https://github.com/thekp/thekp#readme",
   "dependencies": {
     "@octokit/core": "^3.1.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "eslint": "^7.5.0",
