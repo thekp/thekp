@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Crabominable
+# Today's random Pokemon is... Palossand
 
-![Crabominable shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/740.png)
+![Palossand shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/770.png)
 
 <details>
-<summary>Additional info about Crabominable</summary>
+<summary>Additional info about Palossand</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Crabominable front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | </details>
+| front_default | ![Palossand front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png) | </details>
