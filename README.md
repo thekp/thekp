@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Palossand
+# Today's random Pokemon is... Golurk
 
-![Palossand shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/770.png)
+![Golurk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/623.png)
 
 <details>
-<summary>Additional info about Palossand</summary>
+<summary>Additional info about Golurk</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Palossand front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png) | </details>
+| back_default | ![Golurk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/623.png) |
+| back_shiny | ![Golurk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/623.png) |
+| front_default | ![Golurk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png) | </details>
