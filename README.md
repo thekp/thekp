@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Golurk
+# Today's random Pokemon is... Spearow
 
-![Golurk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/623.png)
+![Spearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/21.png)
 
 <details>
-<summary>Additional info about Golurk</summary>
+<summary>Additional info about Spearow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Golurk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/623.png) |
-| back_shiny | ![Golurk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/623.png) |
-| front_default | ![Golurk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png) | </details>
+| back_default | ![Spearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png) |
+| back_shiny | ![Spearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/21.png) |
+| front_default | ![Spearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png) | </details>
