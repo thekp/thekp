@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Magby
+# Today's random Pokemon is... Tynamo
 
-![Magby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/240.png)
+![Tynamo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/602.png)
 
 <details>
-<summary>Additional info about Magby</summary>
+<summary>Additional info about Tynamo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Magby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/240.png) |
-| back_shiny | ![Magby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/240.png) |
-| front_default | ![Magby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png) | </details>
+| back_default | ![Tynamo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/602.png) |
+| back_shiny | ![Tynamo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/602.png) |
+| front_default | ![Tynamo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png) | </details>
