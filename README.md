@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Tynamo
+# Today's random Pokemon is... Tsareena
 
-![Tynamo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/602.png)
+![Tsareena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/763.png)
 
 <details>
-<summary>Additional info about Tynamo</summary>
+<summary>Additional info about Tsareena</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tynamo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/602.png) |
-| back_shiny | ![Tynamo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/602.png) |
-| front_default | ![Tynamo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png) | </details>
+| front_default | ![Tsareena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png) | </details>
