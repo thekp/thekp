@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Tsareena
+# Today's random Pokemon is... Zigzagoon
 
-![Tsareena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/763.png)
+![Zigzagoon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/263.png)
 
 <details>
-<summary>Additional info about Tsareena</summary>
+<summary>Additional info about Zigzagoon</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Tsareena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png) | </details>
+| back_default | ![Zigzagoon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/263.png) |
+| back_shiny | ![Zigzagoon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/263.png) |
+| front_default | ![Zigzagoon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png) | </details>
