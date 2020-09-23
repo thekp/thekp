@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Jolteon
+# Today's random Pokemon is... Natu
 
-![Jolteon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/135.png)
+![Natu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/177.png)
 
 <details>
-<summary>Additional info about Jolteon</summary>
+<summary>Additional info about Natu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Jolteon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png) |
-| back_shiny | ![Jolteon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/135.png) |
-| front_default | ![Jolteon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png) | </details>
+| back_default | ![Natu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/177.png) |
+| back_shiny | ![Natu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/177.png) |
+| front_default | ![Natu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png) | </details>
