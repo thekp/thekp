@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Meowth
+# Today's random Pokemon is... Alomomola
 
-![Meowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/52.png)
+![Alomomola shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/594.png)
 
 <details>
-<summary>Additional info about Meowth</summary>
+<summary>Additional info about Alomomola</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Meowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png) |
-| back_shiny | ![Meowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/52.png) |
-| front_default | ![Meowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | </details>
+| back_default | ![Alomomola back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/594.png) |
+| back_shiny | ![Alomomola back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/594.png) |
+| front_default | ![Alomomola front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png) | </details>
