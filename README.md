@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Alomomola
+# Today's random Pokemon is... Comfey
 
-![Alomomola shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/594.png)
+![Comfey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/764.png)
 
 <details>
-<summary>Additional info about Alomomola</summary>
+<summary>Additional info about Comfey</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Alomomola back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/594.png) |
-| back_shiny | ![Alomomola back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/594.png) |
-| front_default | ![Alomomola front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png) | </details>
+| front_default | ![Comfey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png) | </details>
