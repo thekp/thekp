@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Comfey
+# Today's random Pokemon is... Porygon-z
 
-![Comfey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/764.png)
+![Porygon-z shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/474.png)
 
 <details>
-<summary>Additional info about Comfey</summary>
+<summary>Additional info about Porygon-z</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Comfey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png) | </details>
+| back_default | ![Porygon-z back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/474.png) |
+| back_shiny | ![Porygon-z back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/474.png) |
+| front_default | ![Porygon-z front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png) | </details>
