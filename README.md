@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lillipup
+# Today's random Pokemon is... Duosion
 
-![Lillipup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/506.png)
+![Duosion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/578.png)
 
 <details>
-<summary>Additional info about Lillipup</summary>
+<summary>Additional info about Duosion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lillipup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/506.png) |
-| back_shiny | ![Lillipup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/506.png) |
-| front_default | ![Lillipup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | </details>
+| back_default | ![Duosion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/578.png) |
+| back_shiny | ![Duosion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/578.png) |
+| front_default | ![Duosion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png) | </details>
