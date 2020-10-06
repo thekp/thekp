@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Duosion
+# Today's random Pokemon is... Oddish
 
-![Duosion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/578.png)
+![Oddish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/43.png)
 
 <details>
-<summary>Additional info about Duosion</summary>
+<summary>Additional info about Oddish</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Duosion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/578.png) |
-| back_shiny | ![Duosion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/578.png) |
-| front_default | ![Duosion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png) | </details>
+| back_default | ![Oddish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/43.png) |
+| back_shiny | ![Oddish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/43.png) |
+| front_default | ![Oddish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png) | </details>
