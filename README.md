@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Scatterbug
+# Today's random Pokemon is... Avalugg
 
-![Scatterbug shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/664.png)
+![Avalugg shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/713.png)
 
 <details>
-<summary>Additional info about Scatterbug</summary>
+<summary>Additional info about Avalugg</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Scatterbug front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png) | </details>
+| front_default | ![Avalugg front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png) | </details>
