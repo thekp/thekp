@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Avalugg
+# Today's random Pokemon is... Axew
 
-![Avalugg shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/713.png)
+![Axew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/610.png)
 
 <details>
-<summary>Additional info about Avalugg</summary>
+<summary>Additional info about Axew</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Avalugg front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png) | </details>
+| back_default | ![Axew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/610.png) |
+| back_shiny | ![Axew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/610.png) |
+| front_default | ![Axew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png) | </details>
