@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Azelf
+# Today's random Pokemon is... Gliscor
 
-![Azelf shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/482.png)
+![Gliscor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/472.png)
 
 <details>
-<summary>Additional info about Azelf</summary>
+<summary>Additional info about Gliscor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Azelf back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/482.png) |
-| back_shiny | ![Azelf back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/482.png) |
-| front_default | ![Azelf front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png) | </details>
+| back_default | ![Gliscor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/472.png) |
+| back_shiny | ![Gliscor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/472.png) |
+| front_default | ![Gliscor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png) | </details>
