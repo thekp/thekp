@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Stantler
+# Today's random Pokemon is... Gardevoir
 
-![Stantler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png)
+![Gardevoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png)
 
 <details>
-<summary>Additional info about Stantler</summary>
+<summary>Additional info about Gardevoir</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Stantler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png) |
-| back_shiny | ![Stantler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png) |
-| front_default | ![Stantler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png) | </details>
+| back_default | ![Gardevoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png) |
+| back_shiny | ![Gardevoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png) |
+| front_default | ![Gardevoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png) | </details>
