@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gardevoir
+# Today's random Pokemon is... Eelektross
 
-![Gardevoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png)
+![Eelektross shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/604.png)
 
 <details>
-<summary>Additional info about Gardevoir</summary>
+<summary>Additional info about Eelektross</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gardevoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png) |
-| back_shiny | ![Gardevoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png) |
-| front_default | ![Gardevoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png) | </details>
+| back_default | ![Eelektross back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/604.png) |
+| back_shiny | ![Eelektross back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/604.png) |
+| front_default | ![Eelektross front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png) | </details>
