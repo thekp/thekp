@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Eelektross
+# Today's random Pokemon is... Espurr
 
-![Eelektross shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/604.png)
+![Espurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/677.png)
 
 <details>
-<summary>Additional info about Eelektross</summary>
+<summary>Additional info about Espurr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eelektross back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/604.png) |
-| back_shiny | ![Eelektross back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/604.png) |
-| front_default | ![Eelektross front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png) | </details>
+| front_default | ![Espurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/677.png) | </details>
