@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Gyarados
+# Today's random Pokemon is... Lickilicky
 
-![Gyarados shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/130.png)
+![Lickilicky shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/463.png)
 
 <details>
-<summary>Additional info about Gyarados</summary>
+<summary>Additional info about Lickilicky</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gyarados back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png) |
-| back_female | ![Gyarados back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/130.png) |
-| back_shiny | ![Gyarados back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/130.png) |
-| back_shiny_female | ![Gyarados back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/130.png) |
-| front_default | ![Gyarados front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png) |
-| front_female | ![Gyarados front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/130.png) |
-| front_shiny_female | ![Gyarados front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/130.png) | </details>
+| back_default | ![Lickilicky back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/463.png) |
+| back_shiny | ![Lickilicky back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/463.png) |
+| front_default | ![Lickilicky front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png) | </details>
