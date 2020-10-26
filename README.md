@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lickilicky
+# Today's random Pokemon is... Skuntank
 
-![Lickilicky shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/463.png)
+![Skuntank shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/435.png)
 
 <details>
-<summary>Additional info about Lickilicky</summary>
+<summary>Additional info about Skuntank</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lickilicky back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/463.png) |
-| back_shiny | ![Lickilicky back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/463.png) |
-| front_default | ![Lickilicky front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png) | </details>
+| back_default | ![Skuntank back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/435.png) |
+| back_shiny | ![Skuntank back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/435.png) |
+| front_default | ![Skuntank front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png) | </details>
