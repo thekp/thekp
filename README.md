@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Skuntank
+# Today's random Pokemon is... Yanma
 
-![Skuntank shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/435.png)
+![Yanma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/193.png)
 
 <details>
-<summary>Additional info about Skuntank</summary>
+<summary>Additional info about Yanma</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Skuntank back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/435.png) |
-| back_shiny | ![Skuntank back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/435.png) |
-| front_default | ![Skuntank front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png) | </details>
+| back_default | ![Yanma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/193.png) |
+| back_shiny | ![Yanma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/193.png) |
+| front_default | ![Yanma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png) | </details>
