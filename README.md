@@ -1,12 +1,11 @@
-# Today's random Pokemon is... Slugma
+# Today's random Pokemon is... Oranguru
 
-![Slugma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/218.png)
+![Oranguru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/765.png)
 
 <details>
-<summary>Additional info about Slugma</summary>
+<summary>Additional info about Oranguru</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slugma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/218.png) |
-| back_shiny | ![Slugma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/218.png) |
-| front_default | ![Slugma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png) | </details>
+| back_default | ![Oranguru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/765.png) |
+| front_default | ![Oranguru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png) | </details>
