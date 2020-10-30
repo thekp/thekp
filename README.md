@@ -1,11 +1,11 @@
-# Today's random Pokemon is... Oranguru
+# Today's random Pokemon is... Salazzle
 
-![Oranguru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/765.png)
+![Salazzle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/758.png)
 
 <details>
-<summary>Additional info about Oranguru</summary>
+<summary>Additional info about Salazzle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Oranguru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/765.png) |
-| front_default | ![Oranguru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png) | </details>
+| back_default | ![Salazzle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/758.png) |
+| front_default | ![Salazzle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png) | </details>
