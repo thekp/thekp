@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Doduo
+# Today's random Pokemon is... Gothita
 
-![Doduo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/84.png)
+![Gothita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/574.png)
 
 <details>
-<summary>Additional info about Doduo</summary>
+<summary>Additional info about Gothita</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Doduo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/84.png) |
-| back_female | ![Doduo back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/84.png) |
-| back_shiny | ![Doduo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/84.png) |
-| back_shiny_female | ![Doduo back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/84.png) |
-| front_default | ![Doduo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png) |
-| front_female | ![Doduo front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/84.png) |
-| front_shiny_female | ![Doduo front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/84.png) | </details>
+| back_default | ![Gothita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/574.png) |
+| back_shiny | ![Gothita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/574.png) |
+| front_default | ![Gothita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png) | </details>
