@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gothita
+# Today's random Pokemon is... Nidorino
 
-![Gothita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/574.png)
+![Nidorino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/33.png)
 
 <details>
-<summary>Additional info about Gothita</summary>
+<summary>Additional info about Nidorino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gothita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/574.png) |
-| back_shiny | ![Gothita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/574.png) |
-| front_default | ![Gothita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png) | </details>
+| back_default | ![Nidorino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png) |
+| back_shiny | ![Nidorino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/33.png) |
+| front_default | ![Nidorino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png) | </details>
