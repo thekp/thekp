@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Kyogre
+# Today's random Pokemon is... Phantump
 
-![Kyogre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/382.png)
+![Phantump shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/708.png)
 
 <details>
-<summary>Additional info about Kyogre</summary>
+<summary>Additional info about Phantump</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kyogre back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/382.png) |
-| back_shiny | ![Kyogre back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/382.png) |
-| front_default | ![Kyogre front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png) | </details>
+| front_default | ![Phantump front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png) | </details>
