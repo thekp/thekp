@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Torterra
+# Today's random Pokemon is... Pawniard
 
-![Torterra shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/389.png)
+![Pawniard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/624.png)
 
 <details>
-<summary>Additional info about Torterra</summary>
+<summary>Additional info about Pawniard</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Torterra back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/389.png) |
-| back_shiny | ![Torterra back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/389.png) |
-| front_default | ![Torterra front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png) | </details>
+| back_default | ![Pawniard back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/624.png) |
+| back_shiny | ![Pawniard back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/624.png) |
+| front_default | ![Pawniard front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png) | </details>
