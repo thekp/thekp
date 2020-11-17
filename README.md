@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Voltorb
+# Today's random Pokemon is... Dragonair
 
-![Voltorb shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/100.png)
+![Dragonair shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png)
 
 <details>
-<summary>Additional info about Voltorb</summary>
+<summary>Additional info about Dragonair</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Voltorb back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png) |
-| back_shiny | ![Voltorb back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/100.png) |
-| front_default | ![Voltorb front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png) | </details>
+| back_default | ![Dragonair back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png) |
+| back_shiny | ![Dragonair back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/148.png) |
+| front_default | ![Dragonair front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png) | </details>
