@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lombre
+# Today's random Pokemon is... Zorua
 
-![Lombre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/271.png)
+![Zorua shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/570.png)
 
 <details>
-<summary>Additional info about Lombre</summary>
+<summary>Additional info about Zorua</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lombre back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/271.png) |
-| back_shiny | ![Lombre back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/271.png) |
-| front_default | ![Lombre front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png) | </details>
+| back_default | ![Zorua back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/570.png) |
+| back_shiny | ![Zorua back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/570.png) |
+| front_default | ![Zorua front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png) | </details>
