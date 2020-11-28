@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zorua
+# Today's random Pokemon is... Togepi
 
-![Zorua shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/570.png)
+![Togepi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/175.png)
 
 <details>
-<summary>Additional info about Zorua</summary>
+<summary>Additional info about Togepi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zorua back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/570.png) |
-| back_shiny | ![Zorua back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/570.png) |
-| front_default | ![Zorua front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png) | </details>
+| back_default | ![Togepi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/175.png) |
+| back_shiny | ![Togepi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/175.png) |
+| front_default | ![Togepi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png) | </details>
