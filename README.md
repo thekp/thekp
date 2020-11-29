@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Togepi
+# Today's random Pokemon is... Spinda
 
-![Togepi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/175.png)
+![Spinda shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/327.png)
 
 <details>
-<summary>Additional info about Togepi</summary>
+<summary>Additional info about Spinda</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Togepi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/175.png) |
-| back_shiny | ![Togepi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/175.png) |
-| front_default | ![Togepi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png) | </details>
+| back_default | ![Spinda back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/327.png) |
+| back_shiny | ![Spinda back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/327.png) |
+| front_default | ![Spinda front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png) | </details>
