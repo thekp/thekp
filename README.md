@@ -1,11 +1,12 @@
-# Today's random Pokemon is... Bruxish
+# Today's random Pokemon is... Gothitelle
 
-![Bruxish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/779.png)
+![Gothitelle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/576.png)
 
 <details>
-<summary>Additional info about Bruxish</summary>
+<summary>Additional info about Gothitelle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bruxish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/779.png) |
-| front_default | ![Bruxish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png) | </details>
+| back_default | ![Gothitelle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/576.png) |
+| back_shiny | ![Gothitelle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/576.png) |
+| front_default | ![Gothitelle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png) | </details>
