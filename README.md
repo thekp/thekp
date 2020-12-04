@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kingler
+# Today's random Pokemon is... Reuniclus
 
-![Kingler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/99.png)
+![Reuniclus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/579.png)
 
 <details>
-<summary>Additional info about Kingler</summary>
+<summary>Additional info about Reuniclus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kingler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/99.png) |
-| back_shiny | ![Kingler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/99.png) |
-| front_default | ![Kingler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png) | </details>
+| back_default | ![Reuniclus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/579.png) |
+| back_shiny | ![Reuniclus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/579.png) |
+| front_default | ![Reuniclus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png) | </details>
