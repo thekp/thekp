@@ -1,11 +1,12 @@
-# Today's random Pokemon is... Shiinotic
+# Today's random Pokemon is... Leafeon
 
-![Shiinotic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/756.png)
+![Leafeon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/470.png)
 
 <details>
-<summary>Additional info about Shiinotic</summary>
+<summary>Additional info about Leafeon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shiinotic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/756.png) |
-| front_default | ![Shiinotic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png) | </details>
+| back_default | ![Leafeon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/470.png) |
+| back_shiny | ![Leafeon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/470.png) |
+| front_default | ![Leafeon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png) | </details>
