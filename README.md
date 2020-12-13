@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Hypno
+# Today's random Pokemon is... Cranidos
 
-![Hypno shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/97.png)
+![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
 
 <details>
-<summary>Additional info about Hypno</summary>
+<summary>Additional info about Cranidos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hypno back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/97.png) |
-| back_female | ![Hypno back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/97.png) |
-| back_shiny | ![Hypno back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/97.png) |
-| back_shiny_female | ![Hypno back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/97.png) |
-| front_default | ![Hypno front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png) |
-| front_female | ![Hypno front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/97.png) |
-| front_shiny_female | ![Hypno front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/97.png) | </details>
+| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
+| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
+| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
