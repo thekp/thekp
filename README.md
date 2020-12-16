@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Karrablast
+# Today's random Pokemon is... Trapinch
 
-![Karrablast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/588.png)
+![Trapinch shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/328.png)
 
 <details>
-<summary>Additional info about Karrablast</summary>
+<summary>Additional info about Trapinch</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Karrablast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/588.png) |
-| back_shiny | ![Karrablast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/588.png) |
-| front_default | ![Karrablast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png) | </details>
+| back_default | ![Trapinch back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/328.png) |
+| back_shiny | ![Trapinch back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/328.png) |
+| front_default | ![Trapinch front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | </details>
