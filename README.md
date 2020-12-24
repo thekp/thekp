@@ -1,13 +1,16 @@
-# Today's random Pokemon is... Klefki
+# Today's random Pokemon is... Altaria
 
-![Klefki shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/707.png)
+![Altaria shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/334.png)
 
 <details>
-<summary>Additional info about Klefki</summary>
+<summary>Additional info about Altaria</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Klefki back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png) |
-| back_shiny | ![Klefki back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png) |
-| front_default | ![Klefki front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) |
-| front_default | ![Klefki front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png) | </details>
+| back_default | ![Altaria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png) |
+| back_shiny | ![Altaria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png) |
+| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) |
+| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png) |
+| back_default | ![Altaria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/334.png) |
+| back_shiny | ![Altaria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/334.png) |
+| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png) | </details>
