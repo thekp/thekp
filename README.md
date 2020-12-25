@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Altaria
+# Today's random Pokemon is... Togetic
 
-![Altaria shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/334.png)
+![Togetic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/176.png)
 
 <details>
-<summary>Additional info about Altaria</summary>
+<summary>Additional info about Togetic</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Altaria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png) |
-| back_shiny | ![Altaria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png) |
-| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) |
-| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png) |
-| back_default | ![Altaria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/334.png) |
-| back_shiny | ![Altaria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/334.png) |
-| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png) | </details>
+| back_default | ![Togetic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/176.png) |
+| back_shiny | ![Togetic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/176.png) |
+| front_default | ![Togetic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png) | </details>
