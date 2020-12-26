@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Togetic
+# Today's random Pokemon is... Chikorita
 
-![Togetic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/176.png)
+![Chikorita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/152.png)
 
 <details>
-<summary>Additional info about Togetic</summary>
+<summary>Additional info about Chikorita</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Togetic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/176.png) |
-| back_shiny | ![Togetic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/176.png) |
-| front_default | ![Togetic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png) | </details>
+| back_default | ![Chikorita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/152.png) |
+| back_shiny | ![Chikorita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/152.png) |
+| front_default | ![Chikorita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png) | </details>
