@@ -1,12 +1,14 @@
-# Today's random Pokemon is... Chikorita
+# Today's random Pokemon is... Golbat
 
-![Chikorita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/152.png)
+![Golbat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/42.png)
 
 <details>
-<summary>Additional info about Chikorita</summary>
+<summary>Additional info about Golbat</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chikorita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/152.png) |
-| back_shiny | ![Chikorita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/152.png) |
-| front_default | ![Chikorita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png) | </details>
+| back_default | ![Golbat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png) |
+| back_shiny | ![Golbat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/42.png) |
+| front_default | ![Golbat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png) |
+| front_female | ![Golbat front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/42.png) |
+| front_shiny_female | ![Golbat front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/42.png) | </details>
