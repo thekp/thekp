@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electivire
+# Today's random Pokemon is... Minccino
 
-![Electivire shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/466.png)
+![Minccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/572.png)
 
 <details>
-<summary>Additional info about Electivire</summary>
+<summary>Additional info about Minccino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electivire back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/466.png) |
-| back_shiny | ![Electivire back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/466.png) |
-| front_default | ![Electivire front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png) | </details>
+| back_default | ![Minccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/572.png) |
+| back_shiny | ![Minccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/572.png) |
+| front_default | ![Minccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png) | </details>
