@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Minccino
+# Today's random Pokemon is... Remoraid
 
-![Minccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/572.png)
+![Remoraid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/223.png)
 
 <details>
-<summary>Additional info about Minccino</summary>
+<summary>Additional info about Remoraid</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Minccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/572.png) |
-| back_shiny | ![Minccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/572.png) |
-| front_default | ![Minccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png) | </details>
+| back_default | ![Remoraid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/223.png) |
+| back_shiny | ![Remoraid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/223.png) |
+| front_default | ![Remoraid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png) | </details>
