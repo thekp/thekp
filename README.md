@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Remoraid
+# Today's random Pokemon is... Mareep
 
-![Remoraid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/223.png)
+![Mareep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/179.png)
 
 <details>
-<summary>Additional info about Remoraid</summary>
+<summary>Additional info about Mareep</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Remoraid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/223.png) |
-| back_shiny | ![Remoraid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/223.png) |
-| front_default | ![Remoraid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png) | </details>
+| back_default | ![Mareep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/179.png) |
+| back_shiny | ![Mareep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/179.png) |
+| front_default | ![Mareep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png) | </details>
