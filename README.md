@@ -1,12 +1,11 @@
-# Today's random Pokemon is... Skuntank
+# Today's random Pokemon is... Tapu-fini
 
-![Skuntank shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/435.png)
+![Tapu-fini shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/788.png)
 
 <details>
-<summary>Additional info about Skuntank</summary>
+<summary>Additional info about Tapu-fini</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Skuntank back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/435.png) |
-| back_shiny | ![Skuntank back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/435.png) |
-| front_default | ![Skuntank front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png) | </details>
+| back_default | ![Tapu-fini back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/788.png) |
+| front_default | ![Tapu-fini front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png) | </details>
