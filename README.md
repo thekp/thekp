@@ -1,11 +1,12 @@
-# Today's random Pokemon is... Tapu-fini
+# Today's random Pokemon is... Snorlax
 
-![Tapu-fini shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/788.png)
+![Snorlax shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/143.png)
 
 <details>
-<summary>Additional info about Tapu-fini</summary>
+<summary>Additional info about Snorlax</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tapu-fini back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/788.png) |
-| front_default | ![Tapu-fini front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png) | </details>
+| back_default | ![Snorlax back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png) |
+| back_shiny | ![Snorlax back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/143.png) |
+| front_default | ![Snorlax front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png) | </details>
