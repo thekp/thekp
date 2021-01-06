@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Snorlax
+# Today's random Pokemon is... Sawsbuck
 
-![Snorlax shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/143.png)
+![Sawsbuck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/586.png)
 
 <details>
-<summary>Additional info about Snorlax</summary>
+<summary>Additional info about Sawsbuck</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Snorlax back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png) |
-| back_shiny | ![Snorlax back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/143.png) |
-| front_default | ![Snorlax front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png) | </details>
+| back_default | ![Sawsbuck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/586.png) |
+| back_shiny | ![Sawsbuck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/586.png) |
+| front_default | ![Sawsbuck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png) | </details>
