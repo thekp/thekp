@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Skiddo
+# Today's random Pokemon is... Excadrill
 
-![Skiddo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/672.png)
+![Excadrill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/530.png)
 
 <details>
-<summary>Additional info about Skiddo</summary>
+<summary>Additional info about Excadrill</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Skiddo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png) | </details>
+| back_default | ![Excadrill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/530.png) |
+| back_shiny | ![Excadrill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/530.png) |
+| front_default | ![Excadrill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png) | </details>
