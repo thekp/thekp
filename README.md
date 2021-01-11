@@ -1,11 +1,12 @@
-# Today's random Pokemon is... Shiinotic
+# Today's random Pokemon is... Pineco
 
-![Shiinotic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/756.png)
+![Pineco shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/204.png)
 
 <details>
-<summary>Additional info about Shiinotic</summary>
+<summary>Additional info about Pineco</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shiinotic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/756.png) |
-| front_default | ![Shiinotic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png) | </details>
+| back_default | ![Pineco back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/204.png) |
+| back_shiny | ![Pineco back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/204.png) |
+| front_default | ![Pineco front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png) | </details>
