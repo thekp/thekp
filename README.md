@@ -1,12 +1,11 @@
-# Today's random Pokemon is... Ariados
+# Today's random Pokemon is... Jangmo-o
 
-![Ariados shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/168.png)
+![Jangmo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/782.png)
 
 <details>
-<summary>Additional info about Ariados</summary>
+<summary>Additional info about Jangmo-o</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ariados back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/168.png) |
-| back_shiny | ![Ariados back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/168.png) |
-| front_default | ![Ariados front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png) | </details>
+| back_default | ![Jangmo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/782.png) |
+| front_default | ![Jangmo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png) | </details>
