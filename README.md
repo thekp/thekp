@@ -1,11 +1,12 @@
-# Today's random Pokemon is... Jangmo-o
+# Today's random Pokemon is... Gurdurr
 
-![Jangmo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/782.png)
+![Gurdurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/533.png)
 
 <details>
-<summary>Additional info about Jangmo-o</summary>
+<summary>Additional info about Gurdurr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Jangmo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/782.png) |
-| front_default | ![Jangmo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png) | </details>
+| back_default | ![Gurdurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/533.png) |
+| back_shiny | ![Gurdurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/533.png) |
+| front_default | ![Gurdurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png) | </details>
