@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Yveltal
+# Today's random Pokemon is... Dewgong
 
-![Yveltal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/717.png)
+![Dewgong shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/87.png)
 
 <details>
-<summary>Additional info about Yveltal</summary>
+<summary>Additional info about Dewgong</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Yveltal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png) | </details>
+| back_default | ![Dewgong back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png) |
+| back_shiny | ![Dewgong back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/87.png) |
+| front_default | ![Dewgong front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png) | </details>
