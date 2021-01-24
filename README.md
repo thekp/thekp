@@ -1,12 +1,11 @@
-# Today's random Pokemon is... Dewgong
+# Today's random Pokemon is... Oricorio-baile
 
-![Dewgong shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/87.png)
+![Oricorio-baile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/741.png)
 
 <details>
-<summary>Additional info about Dewgong</summary>
+<summary>Additional info about Oricorio-baile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dewgong back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png) |
-| back_shiny | ![Dewgong back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/87.png) |
-| front_default | ![Dewgong front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png) | </details>
+| back_default | ![Oricorio-baile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/741.png) |
+| front_default | ![Oricorio-baile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png) | </details>
