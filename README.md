@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sandshrew
+# Today's random Pokemon is... Golurk
 
-![Sandshrew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/27.png)
+![Golurk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/623.png)
 
 <details>
-<summary>Additional info about Sandshrew</summary>
+<summary>Additional info about Golurk</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sandshrew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png) |
-| back_shiny | ![Sandshrew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/27.png) |
-| front_default | ![Sandshrew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png) | </details>
+| back_default | ![Golurk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/623.png) |
+| back_shiny | ![Golurk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/623.png) |
+| front_default | ![Golurk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png) | </details>
