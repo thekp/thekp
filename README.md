@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Golurk
+# Today's random Pokemon is... Delphox
 
-![Golurk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/623.png)
+![Delphox shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/655.png)
 
 <details>
-<summary>Additional info about Golurk</summary>
+<summary>Additional info about Delphox</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Golurk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/623.png) |
-| back_shiny | ![Golurk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/623.png) |
-| front_default | ![Golurk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png) | </details>
+| front_default | ![Delphox front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png) | </details>
