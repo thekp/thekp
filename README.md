@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Delphox
+# Today's random Pokemon is... Articuno
 
-![Delphox shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/655.png)
+![Articuno shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/144.png)
 
 <details>
-<summary>Additional info about Delphox</summary>
+<summary>Additional info about Articuno</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Delphox front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png) | </details>
+| back_default | ![Articuno back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png) |
+| back_shiny | ![Articuno back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/144.png) |
+| front_default | ![Articuno front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png) | </details>
