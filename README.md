@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Slurpuff
+# Today's random Pokemon is... Kangaskhan
 
-![Slurpuff shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/685.png)
+![Kangaskhan shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/115.png)
 
 <details>
-<summary>Additional info about Slurpuff</summary>
+<summary>Additional info about Kangaskhan</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Slurpuff front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png) | </details>
+| back_default | ![Kangaskhan back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png) |
+| back_shiny | ![Kangaskhan back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/115.png) |
+| front_default | ![Kangaskhan front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png) | </details>
