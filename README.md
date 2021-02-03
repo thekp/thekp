@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Mudkip
+# Today's random Pokemon is... Camerupt
 
-![Mudkip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/258.png)
+![Camerupt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/323.png)
 
 <details>
-<summary>Additional info about Mudkip</summary>
+<summary>Additional info about Camerupt</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mudkip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/258.png) |
-| back_shiny | ![Mudkip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/258.png) |
-| front_default | ![Mudkip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png) | </details>
+| back_default | ![Camerupt back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/323.png) |
+| back_female | ![Camerupt back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/323.png) |
+| back_shiny | ![Camerupt back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/323.png) |
+| back_shiny_female | ![Camerupt back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/323.png) |
+| front_default | ![Camerupt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png) |
+| front_female | ![Camerupt front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/323.png) |
+| front_shiny_female | ![Camerupt front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/323.png) | </details>
