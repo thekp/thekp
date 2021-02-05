@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poliwrath
+# Today's random Pokemon is... Smoochum
 
-![Poliwrath shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/62.png)
+![Smoochum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/238.png)
 
 <details>
-<summary>Additional info about Poliwrath</summary>
+<summary>Additional info about Smoochum</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poliwrath back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/62.png) |
-| back_shiny | ![Poliwrath back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/62.png) |
-| front_default | ![Poliwrath front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png) | </details>
+| back_default | ![Smoochum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/238.png) |
+| back_shiny | ![Smoochum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/238.png) |
+| front_default | ![Smoochum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | </details>
