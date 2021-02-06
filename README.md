@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Smoochum
+# Today's random Pokemon is... Aron
 
-![Smoochum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/238.png)
+![Aron shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/304.png)
 
 <details>
-<summary>Additional info about Smoochum</summary>
+<summary>Additional info about Aron</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Smoochum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/238.png) |
-| back_shiny | ![Smoochum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/238.png) |
-| front_default | ![Smoochum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | </details>
+| back_default | ![Aron back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/304.png) |
+| back_shiny | ![Aron back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/304.png) |
+| front_default | ![Aron front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png) | </details>
