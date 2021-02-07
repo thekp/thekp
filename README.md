@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Aron
+# Today's random Pokemon is... Clamperl
 
-![Aron shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/304.png)
+![Clamperl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/366.png)
 
 <details>
-<summary>Additional info about Aron</summary>
+<summary>Additional info about Clamperl</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Aron back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/304.png) |
-| back_shiny | ![Aron back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/304.png) |
-| front_default | ![Aron front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png) | </details>
+| back_default | ![Clamperl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/366.png) |
+| back_shiny | ![Clamperl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/366.png) |
+| front_default | ![Clamperl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png) | </details>
