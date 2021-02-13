@@ -1,12 +1,11 @@
-# Today's random Pokemon is... Audino
+# Today's random Pokemon is... Primarina
 
-![Audino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/531.png)
+![Primarina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png)
 
 <details>
-<summary>Additional info about Audino</summary>
+<summary>Additional info about Primarina</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Audino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/531.png) |
-| back_shiny | ![Audino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/531.png) |
-| front_default | ![Audino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png) | </details>
+| back_default | ![Primarina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/730.png) |
+| front_default | ![Primarina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png) | </details>
