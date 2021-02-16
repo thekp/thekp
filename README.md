@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Onix
+# Today's random Pokemon is... Mudkip
 
-![Onix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/95.png)
+![Mudkip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/258.png)
 
 <details>
-<summary>Additional info about Onix</summary>
+<summary>Additional info about Mudkip</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Onix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png) |
-| back_shiny | ![Onix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/95.png) |
-| front_default | ![Onix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png) | </details>
+| back_default | ![Mudkip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/258.png) |
+| back_shiny | ![Mudkip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/258.png) |
+| front_default | ![Mudkip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png) | </details>
