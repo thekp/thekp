@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Nosepass
+# Today's random Pokemon is... Ledian
 
-![Nosepass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/299.png)
+![Ledian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/166.png)
 
 <details>
-<summary>Additional info about Nosepass</summary>
+<summary>Additional info about Ledian</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nosepass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/299.png) |
-| back_shiny | ![Nosepass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/299.png) |
-| front_default | ![Nosepass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png) | </details>
+| back_default | ![Ledian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/166.png) |
+| back_female | ![Ledian back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/166.png) |
+| back_shiny | ![Ledian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/166.png) |
+| back_shiny_female | ![Ledian back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/166.png) |
+| front_default | ![Ledian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png) |
+| front_female | ![Ledian front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/166.png) |
+| front_shiny_female | ![Ledian front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/166.png) | </details>
