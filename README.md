@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Mienshao
+# Today's random Pokemon is... Froakie
 
-![Mienshao shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/620.png)
+![Froakie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/656.png)
 
 <details>
-<summary>Additional info about Mienshao</summary>
+<summary>Additional info about Froakie</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mienshao back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/620.png) |
-| back_shiny | ![Mienshao back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/620.png) |
-| front_default | ![Mienshao front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png) | </details>
+| front_default | ![Froakie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png) | </details>
