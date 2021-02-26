@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Froakie
+# Today's random Pokemon is... Solrock
 
-![Froakie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/656.png)
+![Solrock shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/338.png)
 
 <details>
-<summary>Additional info about Froakie</summary>
+<summary>Additional info about Solrock</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Froakie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png) | </details>
+| back_default | ![Solrock back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/338.png) |
+| back_shiny | ![Solrock back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/338.png) |
+| front_default | ![Solrock front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png) | </details>
