@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Lurantis
+# Today's random Pokemon is... Mamoswine
 
-![Lurantis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/754.png)
+![Mamoswine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/473.png)
 
 <details>
-<summary>Additional info about Lurantis</summary>
+<summary>Additional info about Mamoswine</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lurantis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/754.png) |
-| back_shiny | ![Lurantis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/754.png) |
-| front_default | ![Lurantis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png) | </details>
+| back_default | ![Mamoswine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/473.png) |
+| back_female | ![Mamoswine back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/473.png) |
+| back_shiny | ![Mamoswine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/473.png) |
+| back_shiny_female | ![Mamoswine back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/473.png) |
+| front_default | ![Mamoswine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png) |
+| front_female | ![Mamoswine front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/473.png) |
+| front_shiny_female | ![Mamoswine front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/473.png) | </details>
