@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wailord
+# Today's random Pokemon is... Elekid
 
-![Wailord shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/321.png)
+![Elekid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/239.png)
 
 <details>
-<summary>Additional info about Wailord</summary>
+<summary>Additional info about Elekid</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wailord back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/321.png) |
-| back_shiny | ![Wailord back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/321.png) |
-| front_default | ![Wailord front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png) | </details>
+| back_default | ![Elekid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png) |
+| back_shiny | ![Elekid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/239.png) |
+| front_default | ![Elekid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png) | </details>
