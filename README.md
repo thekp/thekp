@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elekid
+# Today's random Pokemon is... Skiploom
 
-![Elekid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/239.png)
+![Skiploom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/188.png)
 
 <details>
-<summary>Additional info about Elekid</summary>
+<summary>Additional info about Skiploom</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Elekid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png) |
-| back_shiny | ![Elekid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/239.png) |
-| front_default | ![Elekid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png) | </details>
+| back_default | ![Skiploom back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/188.png) |
+| back_shiny | ![Skiploom back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/188.png) |
+| front_default | ![Skiploom front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png) | </details>
