@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Skitty
+# Today's random Pokemon is... Diggersby
 
-![Skitty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/300.png)
+![Diggersby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/660.png)
 
 <details>
-<summary>Additional info about Skitty</summary>
+<summary>Additional info about Diggersby</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Skitty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/300.png) |
-| back_shiny | ![Skitty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/300.png) |
-| front_default | ![Skitty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png) | </details>
+| front_default | ![Diggersby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png) | </details>
