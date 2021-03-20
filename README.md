@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Pangoro
+# Today's random Pokemon is... Gogoat
 
-![Pangoro shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/675.png)
+![Gogoat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/673.png)
 
 <details>
-<summary>Additional info about Pangoro</summary>
+<summary>Additional info about Gogoat</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Pangoro front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png) | </details>
+| front_default | ![Gogoat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/673.png) | </details>
