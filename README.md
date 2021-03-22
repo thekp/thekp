@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lairon
+# Today's random Pokemon is... Hitmonlee
 
-![Lairon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/305.png)
+![Hitmonlee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/106.png)
 
 <details>
-<summary>Additional info about Lairon</summary>
+<summary>Additional info about Hitmonlee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lairon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/305.png) |
-| back_shiny | ![Lairon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/305.png) |
-| front_default | ![Lairon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png) | </details>
+| back_default | ![Hitmonlee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png) |
+| back_shiny | ![Hitmonlee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/106.png) |
+| front_default | ![Hitmonlee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png) | </details>
