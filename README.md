@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hitmonlee
+# Today's random Pokemon is... Hariyama
 
-![Hitmonlee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/106.png)
+![Hariyama shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/297.png)
 
 <details>
-<summary>Additional info about Hitmonlee</summary>
+<summary>Additional info about Hariyama</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hitmonlee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png) |
-| back_shiny | ![Hitmonlee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/106.png) |
-| front_default | ![Hitmonlee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png) | </details>
+| back_default | ![Hariyama back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/297.png) |
+| back_shiny | ![Hariyama back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/297.png) |
+| front_default | ![Hariyama front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png) | </details>
