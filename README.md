@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hariyama
+# Today's random Pokemon is... Deino
 
-![Hariyama shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/297.png)
+![Deino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/633.png)
 
 <details>
-<summary>Additional info about Hariyama</summary>
+<summary>Additional info about Deino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hariyama back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/297.png) |
-| back_shiny | ![Hariyama back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/297.png) |
-| front_default | ![Hariyama front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png) | </details>
+| back_default | ![Deino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/633.png) |
+| back_shiny | ![Deino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/633.png) |
+| front_default | ![Deino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png) | </details>
