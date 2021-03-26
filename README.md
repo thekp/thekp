@@ -1,14 +1,12 @@
-# Today's random Pokemon is... Cacturne
+# Today's random Pokemon is... Stantler
 
-![Cacturne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/332.png)
+![Stantler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png)
 
 <details>
-<summary>Additional info about Cacturne</summary>
+<summary>Additional info about Stantler</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cacturne back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/332.png) |
-| back_shiny | ![Cacturne back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/332.png) |
-| front_default | ![Cacturne front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png) |
-| front_female | ![Cacturne front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/332.png) |
-| front_shiny_female | ![Cacturne front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/332.png) | </details>
+| back_default | ![Stantler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png) |
+| back_shiny | ![Stantler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png) |
+| front_default | ![Stantler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png) | </details>
