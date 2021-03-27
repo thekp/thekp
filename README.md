@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Stantler
+# Today's random Pokemon is... Chingling
 
-![Stantler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png)
+![Chingling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/433.png)
 
 <details>
-<summary>Additional info about Stantler</summary>
+<summary>Additional info about Chingling</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Stantler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png) |
-| back_shiny | ![Stantler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png) |
-| front_default | ![Stantler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png) | </details>
+| back_default | ![Chingling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/433.png) |
+| back_shiny | ![Chingling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/433.png) |
+| front_default | ![Chingling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png) | </details>
