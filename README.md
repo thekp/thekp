@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mantine
+# Today's random Pokemon is... Poliwhirl
 
-![Mantine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/226.png)
+![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
 
 <details>
-<summary>Additional info about Mantine</summary>
+<summary>Additional info about Poliwhirl</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mantine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/226.png) |
-| back_shiny | ![Mantine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/226.png) |
-| front_default | ![Mantine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png) | </details>
+| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
+| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
+| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
