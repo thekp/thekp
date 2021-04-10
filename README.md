@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Floatzel
+# Today's random Pokemon is... Marshadow
 
-![Floatzel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/419.png)
+![Marshadow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/802.png)
 
 <details>
-<summary>Additional info about Floatzel</summary>
+<summary>Additional info about Marshadow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Floatzel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/419.png) |
-| back_female | ![Floatzel back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/419.png) |
-| back_shiny | ![Floatzel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/419.png) |
-| back_shiny_female | ![Floatzel back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/419.png) |
-| front_default | ![Floatzel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png) |
-| front_female | ![Floatzel front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/419.png) |
-| front_shiny_female | ![Floatzel front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/419.png) | </details>
+| back_default | ![Marshadow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/802.png) |
+| back_shiny | ![Marshadow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/802.png) |
+| front_default | ![Marshadow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png) | </details>
