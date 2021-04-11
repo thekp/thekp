@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Marshadow
+# Today's random Pokemon is... Tornadus-incarnate
 
-![Marshadow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/802.png)
+![Tornadus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641.png)
 
 <details>
-<summary>Additional info about Marshadow</summary>
+<summary>Additional info about Tornadus-incarnate</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Marshadow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/802.png) |
-| back_shiny | ![Marshadow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/802.png) |
-| front_default | ![Marshadow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png) | </details>
+| back_default | ![Tornadus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641.png) |
+| back_shiny | ![Tornadus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641.png) |
+| front_default | ![Tornadus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png) | </details>
