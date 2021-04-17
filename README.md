@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elekid
+# Today's random Pokemon is... Togepi
 
-![Elekid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/239.png)
+![Togepi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/175.png)
 
 <details>
-<summary>Additional info about Elekid</summary>
+<summary>Additional info about Togepi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Elekid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png) |
-| back_shiny | ![Elekid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/239.png) |
-| front_default | ![Elekid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png) | </details>
+| back_default | ![Togepi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/175.png) |
+| back_shiny | ![Togepi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/175.png) |
+| front_default | ![Togepi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png) | </details>
