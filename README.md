@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Torchic
+# Today's random Pokemon is... Jangmo-o
 
-![Torchic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/255.png)
+![Jangmo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/782.png)
 
 <details>
-<summary>Additional info about Torchic</summary>
+<summary>Additional info about Jangmo-o</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Torchic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/255.png) |
-| back_female | ![Torchic back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/255.png) |
-| back_shiny | ![Torchic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/255.png) |
-| back_shiny_female | ![Torchic back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/255.png) |
-| front_default | ![Torchic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png) |
-| front_female | ![Torchic front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/255.png) |
-| front_shiny_female | ![Torchic front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/255.png) | </details>
+| back_default | ![Jangmo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/782.png) |
+| back_shiny | ![Jangmo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/782.png) |
+| front_default | ![Jangmo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png) | </details>
