@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Jangmo-o
+# Today's random Pokemon is... Zorua
 
-![Jangmo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/782.png)
+![Zorua shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/570.png)
 
 <details>
-<summary>Additional info about Jangmo-o</summary>
+<summary>Additional info about Zorua</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Jangmo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/782.png) |
-| back_shiny | ![Jangmo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/782.png) |
-| front_default | ![Jangmo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png) | </details>
+| back_default | ![Zorua back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/570.png) |
+| back_shiny | ![Zorua back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/570.png) |
+| front_default | ![Zorua front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png) | </details>
