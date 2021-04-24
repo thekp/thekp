@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Honedge
+# Today's random Pokemon is... Miltank
 
-![Honedge shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/679.png)
+![Miltank shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/241.png)
 
 <details>
-<summary>Additional info about Honedge</summary>
+<summary>Additional info about Miltank</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Honedge front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png) | </details>
+| back_default | ![Miltank back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/241.png) |
+| back_shiny | ![Miltank back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/241.png) |
+| front_default | ![Miltank front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png) | </details>
