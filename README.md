@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Thundurus-incarnate
+# Today's random Pokemon is... Dragonair
 
-![Thundurus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/642.png)
+![Dragonair shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png)
 
 <details>
-<summary>Additional info about Thundurus-incarnate</summary>
+<summary>Additional info about Dragonair</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Thundurus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png) |
-| back_shiny | ![Thundurus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png) |
-| front_default | ![Thundurus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) | </details>
+| back_default | ![Dragonair back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png) |
+| back_shiny | ![Dragonair back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/148.png) |
+| front_default | ![Dragonair front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png) | </details>
