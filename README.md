@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Omastar
+# Today's random Pokemon is... Cofagrigus
 
-![Omastar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/139.png)
+![Cofagrigus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/563.png)
 
 <details>
-<summary>Additional info about Omastar</summary>
+<summary>Additional info about Cofagrigus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Omastar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/139.png) |
-| back_shiny | ![Omastar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/139.png) |
-| front_default | ![Omastar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png) | </details>
+| back_default | ![Cofagrigus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/563.png) |
+| back_shiny | ![Cofagrigus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/563.png) |
+| front_default | ![Cofagrigus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png) | </details>
