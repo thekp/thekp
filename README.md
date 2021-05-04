@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cofagrigus
+# Today's random Pokemon is... Musharna
 
-![Cofagrigus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/563.png)
+![Musharna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/518.png)
 
 <details>
-<summary>Additional info about Cofagrigus</summary>
+<summary>Additional info about Musharna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cofagrigus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/563.png) |
-| back_shiny | ![Cofagrigus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/563.png) |
-| front_default | ![Cofagrigus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png) | </details>
+| back_default | ![Musharna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/518.png) |
+| back_shiny | ![Musharna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/518.png) |
+| front_default | ![Musharna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | </details>
