@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Musharna
+# Today's random Pokemon is... Victreebel
 
-![Musharna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/518.png)
+![Victreebel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/71.png)
 
 <details>
-<summary>Additional info about Musharna</summary>
+<summary>Additional info about Victreebel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Musharna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/518.png) |
-| back_shiny | ![Musharna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/518.png) |
-| front_default | ![Musharna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | </details>
+| back_default | ![Victreebel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/71.png) |
+| back_shiny | ![Victreebel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/71.png) |
+| front_default | ![Victreebel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png) | </details>
