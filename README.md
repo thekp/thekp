@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pansage
+# Today's random Pokemon is... Loudred
 
-![Pansage shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/511.png)
+![Loudred shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/294.png)
 
 <details>
-<summary>Additional info about Pansage</summary>
+<summary>Additional info about Loudred</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pansage back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/511.png) |
-| back_shiny | ![Pansage back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/511.png) |
-| front_default | ![Pansage front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png) | </details>
+| back_default | ![Loudred back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/294.png) |
+| back_shiny | ![Loudred back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/294.png) |
+| front_default | ![Loudred front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png) | </details>
