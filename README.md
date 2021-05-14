@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Kecleon
+# Today's random Pokemon is... Medicham
 
-![Kecleon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/352.png)
+![Medicham shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/308.png)
 
 <details>
-<summary>Additional info about Kecleon</summary>
+<summary>Additional info about Medicham</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kecleon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/352.png) |
-| back_shiny | ![Kecleon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/352.png) |
-| front_default | ![Kecleon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png) | </details>
+| back_default | ![Medicham back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/308.png) |
+| back_female | ![Medicham back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/308.png) |
+| back_shiny | ![Medicham back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/308.png) |
+| back_shiny_female | ![Medicham back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/308.png) |
+| front_default | ![Medicham front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png) |
+| front_female | ![Medicham front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/308.png) |
+| front_shiny_female | ![Medicham front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/308.png) | </details>
