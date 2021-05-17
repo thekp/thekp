@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Amoonguss
+# Today's random Pokemon is... Starly
 
-![Amoonguss shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/591.png)
+![Starly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/396.png)
 
 <details>
-<summary>Additional info about Amoonguss</summary>
+<summary>Additional info about Starly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Amoonguss back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/591.png) |
-| back_shiny | ![Amoonguss back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/591.png) |
-| front_default | ![Amoonguss front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png) | </details>
+| back_default | ![Starly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/396.png) |
+| back_female | ![Starly back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/396.png) |
+| back_shiny | ![Starly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/396.png) |
+| back_shiny_female | ![Starly back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/396.png) |
+| front_default | ![Starly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png) |
+| front_female | ![Starly front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/396.png) |
+| front_shiny_female | ![Starly front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/396.png) | </details>
