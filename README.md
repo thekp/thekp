@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swampert
+# Today's random Pokemon is... Vulpix
 
-![Swampert shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/260.png)
+![Vulpix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/37.png)
 
 <details>
-<summary>Additional info about Swampert</summary>
+<summary>Additional info about Vulpix</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swampert back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/260.png) |
-| back_shiny | ![Swampert back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/260.png) |
-| front_default | ![Swampert front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | </details>
+| back_default | ![Vulpix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png) |
+| back_shiny | ![Vulpix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/37.png) |
+| front_default | ![Vulpix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png) | </details>
