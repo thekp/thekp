@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vulpix
+# Today's random Pokemon is... Litwick
 
-![Vulpix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/37.png)
+![Litwick shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/607.png)
 
 <details>
-<summary>Additional info about Vulpix</summary>
+<summary>Additional info about Litwick</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vulpix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png) |
-| back_shiny | ![Vulpix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/37.png) |
-| front_default | ![Vulpix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png) | </details>
+| back_default | ![Litwick back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/607.png) |
+| back_shiny | ![Litwick back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/607.png) |
+| front_default | ![Litwick front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png) | </details>
