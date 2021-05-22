@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Litwick
+# Today's random Pokemon is... Galvantula
 
-![Litwick shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/607.png)
+![Galvantula shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/596.png)
 
 <details>
-<summary>Additional info about Litwick</summary>
+<summary>Additional info about Galvantula</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Litwick back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/607.png) |
-| back_shiny | ![Litwick back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/607.png) |
-| front_default | ![Litwick front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png) | </details>
+| back_default | ![Galvantula back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/596.png) |
+| back_shiny | ![Galvantula back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/596.png) |
+| front_default | ![Galvantula front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png) | </details>
