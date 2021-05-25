@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Virizion
+# Today's random Pokemon is... Typhlosion
 
-![Virizion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/640.png)
+![Typhlosion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/157.png)
 
 <details>
-<summary>Additional info about Virizion</summary>
+<summary>Additional info about Typhlosion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Virizion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/640.png) |
-| back_shiny | ![Virizion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/640.png) |
-| front_default | ![Virizion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png) | </details>
+| back_default | ![Typhlosion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/157.png) |
+| back_shiny | ![Typhlosion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/157.png) |
+| front_default | ![Typhlosion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | </details>
