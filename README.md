@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Typhlosion
+# Today's random Pokemon is... Floette
 
-![Typhlosion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/157.png)
+![Floette shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/670.png)
 
 <details>
-<summary>Additional info about Typhlosion</summary>
+<summary>Additional info about Floette</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Typhlosion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/157.png) |
-| back_shiny | ![Typhlosion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/157.png) |
-| front_default | ![Typhlosion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | </details>
+| front_default | ![Floette front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png) | </details>
