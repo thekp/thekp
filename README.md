@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tapu-koko
+# Today's random Pokemon is... Dunsparce
 
-![Tapu-koko shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png)
+![Dunsparce shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/206.png)
 
 <details>
-<summary>Additional info about Tapu-koko</summary>
+<summary>Additional info about Dunsparce</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tapu-koko back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/785.png) |
-| back_shiny | ![Tapu-koko back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/785.png) |
-| front_default | ![Tapu-koko front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png) | </details>
+| back_default | ![Dunsparce back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/206.png) |
+| back_shiny | ![Dunsparce back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/206.png) |
+| front_default | ![Dunsparce front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png) | </details>
