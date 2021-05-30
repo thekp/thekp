@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Rufflet
+# Today's random Pokemon is... Palpitoad
 
-![Rufflet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/627.png)
+![Palpitoad shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/536.png)
 
 <details>
-<summary>Additional info about Rufflet</summary>
+<summary>Additional info about Palpitoad</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Rufflet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/627.png) |
-| back_shiny | ![Rufflet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/627.png) |
-| front_default | ![Rufflet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png) | </details>
+| back_default | ![Palpitoad back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/536.png) |
+| back_shiny | ![Palpitoad back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/536.png) |
+| front_default | ![Palpitoad front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png) | </details>
