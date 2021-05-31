@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Palpitoad
+# Today's random Pokemon is... Maractus
 
-![Palpitoad shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/536.png)
+![Maractus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/556.png)
 
 <details>
-<summary>Additional info about Palpitoad</summary>
+<summary>Additional info about Maractus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Palpitoad back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/536.png) |
-| back_shiny | ![Palpitoad back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/536.png) |
-| front_default | ![Palpitoad front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png) | </details>
+| back_default | ![Maractus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/556.png) |
+| back_shiny | ![Maractus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/556.png) |
+| front_default | ![Maractus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png) | </details>
