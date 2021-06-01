@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Maractus
+# Today's random Pokemon is... Krokorok
 
-![Maractus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/556.png)
+![Krokorok shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/552.png)
 
 <details>
-<summary>Additional info about Maractus</summary>
+<summary>Additional info about Krokorok</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Maractus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/556.png) |
-| back_shiny | ![Maractus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/556.png) |
-| front_default | ![Maractus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png) | </details>
+| back_default | ![Krokorok back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/552.png) |
+| back_shiny | ![Krokorok back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/552.png) |
+| front_default | ![Krokorok front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png) | </details>
