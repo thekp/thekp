@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Krokorok
+# Today's random Pokemon is... Drowzee
 
-![Krokorok shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/552.png)
+![Drowzee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/96.png)
 
 <details>
-<summary>Additional info about Krokorok</summary>
+<summary>Additional info about Drowzee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Krokorok back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/552.png) |
-| back_shiny | ![Krokorok back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/552.png) |
-| front_default | ![Krokorok front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png) | </details>
+| back_default | ![Drowzee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png) |
+| back_shiny | ![Drowzee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/96.png) |
+| front_default | ![Drowzee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png) | </details>
