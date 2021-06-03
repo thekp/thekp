@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Drowzee
+# Today's random Pokemon is... Audino
 
-![Drowzee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/96.png)
+![Audino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/531.png)
 
 <details>
-<summary>Additional info about Drowzee</summary>
+<summary>Additional info about Audino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Drowzee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png) |
-| back_shiny | ![Drowzee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/96.png) |
-| front_default | ![Drowzee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png) | </details>
+| back_default | ![Audino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/531.png) |
+| back_shiny | ![Audino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/531.png) |
+| front_default | ![Audino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png) | </details>
