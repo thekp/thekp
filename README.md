@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shellos
+# Today's random Pokemon is... Celebi
 
-![Shellos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/422.png)
+![Celebi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/251.png)
 
 <details>
-<summary>Additional info about Shellos</summary>
+<summary>Additional info about Celebi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shellos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/422.png) |
-| back_shiny | ![Shellos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/422.png) |
-| front_default | ![Shellos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png) | </details>
+| back_default | ![Celebi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png) |
+| back_shiny | ![Celebi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/251.png) |
+| front_default | ![Celebi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png) | </details>
