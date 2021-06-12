@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spinarak
+# Today's random Pokemon is... Galvantula
 
-![Spinarak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/167.png)
+![Galvantula shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/596.png)
 
 <details>
-<summary>Additional info about Spinarak</summary>
+<summary>Additional info about Galvantula</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spinarak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/167.png) |
-| back_shiny | ![Spinarak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/167.png) |
-| front_default | ![Spinarak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png) | </details>
+| back_default | ![Galvantula back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/596.png) |
+| back_shiny | ![Galvantula back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/596.png) |
+| front_default | ![Galvantula front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png) | </details>
