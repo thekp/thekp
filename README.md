@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Galvantula
+# Today's random Pokemon is... Treecko
 
-![Galvantula shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/596.png)
+![Treecko shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/252.png)
 
 <details>
-<summary>Additional info about Galvantula</summary>
+<summary>Additional info about Treecko</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Galvantula back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/596.png) |
-| back_shiny | ![Galvantula back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/596.png) |
-| front_default | ![Galvantula front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png) | </details>
+| back_default | ![Treecko back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/252.png) |
+| back_shiny | ![Treecko back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/252.png) |
+| front_default | ![Treecko front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png) | </details>
