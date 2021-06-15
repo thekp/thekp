@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hoppip
+# Today's random Pokemon is... Teddiursa
 
-![Hoppip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/187.png)
+![Teddiursa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/216.png)
 
 <details>
-<summary>Additional info about Hoppip</summary>
+<summary>Additional info about Teddiursa</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hoppip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/187.png) |
-| back_shiny | ![Hoppip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/187.png) |
-| front_default | ![Hoppip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png) | </details>
+| back_default | ![Teddiursa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/216.png) |
+| back_shiny | ![Teddiursa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/216.png) |
+| front_default | ![Teddiursa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png) | </details>
