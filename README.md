@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Druddigon
+# Today's random Pokemon is... Wurmple
 
-![Druddigon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/621.png)
+![Wurmple shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/265.png)
 
 <details>
-<summary>Additional info about Druddigon</summary>
+<summary>Additional info about Wurmple</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Druddigon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/621.png) |
-| back_shiny | ![Druddigon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/621.png) |
-| front_default | ![Druddigon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png) | </details>
+| back_default | ![Wurmple back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/265.png) |
+| back_shiny | ![Wurmple back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/265.png) |
+| front_default | ![Wurmple front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png) | </details>
