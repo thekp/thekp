@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wurmple
+# Today's random Pokemon is... Crustle
 
-![Wurmple shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/265.png)
+![Crustle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/558.png)
 
 <details>
-<summary>Additional info about Wurmple</summary>
+<summary>Additional info about Crustle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wurmple back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/265.png) |
-| back_shiny | ![Wurmple back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/265.png) |
-| front_default | ![Wurmple front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png) | </details>
+| back_default | ![Crustle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/558.png) |
+| back_shiny | ![Crustle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/558.png) |
+| front_default | ![Crustle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png) | </details>
