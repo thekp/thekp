@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Mienshao
+# Today's random Pokemon is... Doublade
 
-![Mienshao shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/620.png)
+![Doublade shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/680.png)
 
 <details>
-<summary>Additional info about Mienshao</summary>
+<summary>Additional info about Doublade</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mienshao back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/620.png) |
-| back_shiny | ![Mienshao back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/620.png) |
-| front_default | ![Mienshao front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png) | </details>
+| front_default | ![Doublade front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png) | </details>
