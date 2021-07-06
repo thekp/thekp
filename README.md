@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mudkip
+# Today's random Pokemon is... Rayquaza
 
-![Mudkip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/258.png)
+![Rayquaza shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/384.png)
 
 <details>
-<summary>Additional info about Mudkip</summary>
+<summary>Additional info about Rayquaza</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mudkip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/258.png) |
-| back_shiny | ![Mudkip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/258.png) |
-| front_default | ![Mudkip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png) | </details>
+| back_default | ![Rayquaza back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/384.png) |
+| back_shiny | ![Rayquaza back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/384.png) |
+| front_default | ![Rayquaza front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png) | </details>
