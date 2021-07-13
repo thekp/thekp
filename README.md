@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Galvantula
+# Today's random Pokemon is... Vaporeon
 
-![Galvantula shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/596.png)
+![Vaporeon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/134.png)
 
 <details>
-<summary>Additional info about Galvantula</summary>
+<summary>Additional info about Vaporeon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Galvantula back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/596.png) |
-| back_shiny | ![Galvantula back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/596.png) |
-| front_default | ![Galvantula front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png) | </details>
+| back_default | ![Vaporeon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png) |
+| back_shiny | ![Vaporeon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/134.png) |
+| front_default | ![Vaporeon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png) | </details>
