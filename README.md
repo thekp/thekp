@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vaporeon
+# Today's random Pokemon is... Exeggutor
 
-![Vaporeon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/134.png)
+![Exeggutor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/103.png)
 
 <details>
-<summary>Additional info about Vaporeon</summary>
+<summary>Additional info about Exeggutor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vaporeon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png) |
-| back_shiny | ![Vaporeon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/134.png) |
-| front_default | ![Vaporeon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png) | </details>
+| back_default | ![Exeggutor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png) |
+| back_shiny | ![Exeggutor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/103.png) |
+| front_default | ![Exeggutor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png) | </details>
