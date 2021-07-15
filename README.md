@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Exeggutor
+# Today's random Pokemon is... Bellsprout
 
-![Exeggutor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/103.png)
+![Bellsprout shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/69.png)
 
 <details>
-<summary>Additional info about Exeggutor</summary>
+<summary>Additional info about Bellsprout</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Exeggutor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png) |
-| back_shiny | ![Exeggutor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/103.png) |
-| front_default | ![Exeggutor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png) | </details>
+| back_default | ![Bellsprout back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png) |
+| back_shiny | ![Bellsprout back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/69.png) |
+| front_default | ![Bellsprout front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png) | </details>
