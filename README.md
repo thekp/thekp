@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Diglett
+# Today's random Pokemon is... Buzzwole
 
-![Diglett shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/50.png)
+![Buzzwole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/794.png)
 
 <details>
-<summary>Additional info about Diglett</summary>
+<summary>Additional info about Buzzwole</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Diglett back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/50.png) |
-| back_shiny | ![Diglett back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/50.png) |
-| front_default | ![Diglett front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png) | </details>
+| back_default | ![Buzzwole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/794.png) |
+| back_shiny | ![Buzzwole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/794.png) |
+| front_default | ![Buzzwole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png) | </details>
