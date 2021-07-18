@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Buzzwole
+# Today's random Pokemon is... Parasect
 
-![Buzzwole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/794.png)
+![Parasect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png)
 
 <details>
-<summary>Additional info about Buzzwole</summary>
+<summary>Additional info about Parasect</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Buzzwole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/794.png) |
-| back_shiny | ![Buzzwole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/794.png) |
-| front_default | ![Buzzwole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png) | </details>
+| back_default | ![Parasect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png) |
+| back_shiny | ![Parasect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/47.png) |
+| front_default | ![Parasect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png) | </details>
