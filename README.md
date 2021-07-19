@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Parasect
+# Today's random Pokemon is... Chimchar
 
-![Parasect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png)
+![Chimchar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/390.png)
 
 <details>
-<summary>Additional info about Parasect</summary>
+<summary>Additional info about Chimchar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Parasect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png) |
-| back_shiny | ![Parasect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/47.png) |
-| front_default | ![Parasect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png) | </details>
+| back_default | ![Chimchar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/390.png) |
+| back_shiny | ![Chimchar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/390.png) |
+| front_default | ![Chimchar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png) | </details>
