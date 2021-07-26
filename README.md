@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Bunnelby
+# Today's random Pokemon is... Sliggoo
 
-![Bunnelby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/659.png)
+![Sliggoo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/705.png)
 
 <details>
-<summary>Additional info about Bunnelby</summary>
+<summary>Additional info about Sliggoo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bunnelby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/659.png) |
-| back_shiny | ![Bunnelby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/659.png) |
-| front_default | ![Bunnelby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png) | </details>
+| front_default | ![Sliggoo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png) | </details>
