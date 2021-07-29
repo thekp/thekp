@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Articuno
+# Today's random Pokemon is... Drilbur
 
-![Articuno shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/144.png)
+![Drilbur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/529.png)
 
 <details>
-<summary>Additional info about Articuno</summary>
+<summary>Additional info about Drilbur</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Articuno back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png) |
-| back_shiny | ![Articuno back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/144.png) |
-| front_default | ![Articuno front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png) | </details>
+| back_default | ![Drilbur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/529.png) |
+| back_shiny | ![Drilbur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/529.png) |
+| front_default | ![Drilbur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png) | </details>
