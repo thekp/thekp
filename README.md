@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ducklett
+# Today's random Pokemon is... Wormadam-plant
 
-![Ducklett shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/580.png)
+![Wormadam-plant shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/413.png)
 
 <details>
-<summary>Additional info about Ducklett</summary>
+<summary>Additional info about Wormadam-plant</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ducklett back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/580.png) |
-| back_shiny | ![Ducklett back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/580.png) |
-| front_default | ![Ducklett front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png) | </details>
+| back_default | ![Wormadam-plant back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/413.png) |
+| back_shiny | ![Wormadam-plant back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/413.png) |
+| front_default | ![Wormadam-plant front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png) | </details>
