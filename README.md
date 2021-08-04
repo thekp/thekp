@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Bidoof
+# Today's random Pokemon is... Murkrow
 
-![Bidoof shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/399.png)
+![Murkrow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/198.png)
 
 <details>
-<summary>Additional info about Bidoof</summary>
+<summary>Additional info about Murkrow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bidoof back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/399.png) |
-| back_female | ![Bidoof back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/399.png) |
-| back_shiny | ![Bidoof back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/399.png) |
-| back_shiny_female | ![Bidoof back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/399.png) |
-| front_default | ![Bidoof front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png) |
-| front_female | ![Bidoof front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/399.png) |
-| front_shiny_female | ![Bidoof front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/399.png) | </details>
+| back_default | ![Murkrow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/198.png) |
+| back_female | ![Murkrow back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/198.png) |
+| back_shiny | ![Murkrow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/198.png) |
+| back_shiny_female | ![Murkrow back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/198.png) |
+| front_default | ![Murkrow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png) |
+| front_female | ![Murkrow front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/198.png) |
+| front_shiny_female | ![Murkrow front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/198.png) | </details>
