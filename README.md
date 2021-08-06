@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Croconaw
+# Today's random Pokemon is... Xerneas
 
-![Croconaw shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/159.png)
+![Xerneas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/716.png)
 
 <details>
-<summary>Additional info about Croconaw</summary>
+<summary>Additional info about Xerneas</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Croconaw back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/159.png) |
-| back_shiny | ![Croconaw back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/159.png) |
-| front_default | ![Croconaw front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png) | </details>
+| front_default | ![Xerneas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png) | </details>
