@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Meloetta-aria
+# Today's random Pokemon is... Darumaka
 
-![Meloetta-aria shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/648.png)
+![Darumaka shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/554.png)
 
 <details>
-<summary>Additional info about Meloetta-aria</summary>
+<summary>Additional info about Darumaka</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Meloetta-aria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/648.png) |
-| back_shiny | ![Meloetta-aria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/648.png) |
-| front_default | ![Meloetta-aria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png) | </details>
+| back_default | ![Darumaka back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/554.png) |
+| back_shiny | ![Darumaka back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/554.png) |
+| front_default | ![Darumaka front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png) | </details>
