@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Darumaka
+# Today's random Pokemon is... Mienshao
 
-![Darumaka shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/554.png)
+![Mienshao shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/620.png)
 
 <details>
-<summary>Additional info about Darumaka</summary>
+<summary>Additional info about Mienshao</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Darumaka back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/554.png) |
-| back_shiny | ![Darumaka back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/554.png) |
-| front_default | ![Darumaka front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png) | </details>
+| back_default | ![Mienshao back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/620.png) |
+| back_shiny | ![Mienshao back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/620.png) |
+| front_default | ![Mienshao front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png) | </details>
