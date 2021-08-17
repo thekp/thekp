@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wormadam-plant
+# Today's random Pokemon is... Maractus
 
-![Wormadam-plant shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/413.png)
+![Maractus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/556.png)
 
 <details>
-<summary>Additional info about Wormadam-plant</summary>
+<summary>Additional info about Maractus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wormadam-plant back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/413.png) |
-| back_shiny | ![Wormadam-plant back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/413.png) |
-| front_default | ![Wormadam-plant front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png) | </details>
+| back_default | ![Maractus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/556.png) |
+| back_shiny | ![Maractus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/556.png) |
+| front_default | ![Maractus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png) | </details>
