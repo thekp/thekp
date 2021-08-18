@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Maractus
+# Today's random Pokemon is... Scatterbug
 
-![Maractus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/556.png)
+![Scatterbug shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/664.png)
 
 <details>
-<summary>Additional info about Maractus</summary>
+<summary>Additional info about Scatterbug</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Maractus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/556.png) |
-| back_shiny | ![Maractus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/556.png) |
-| front_default | ![Maractus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png) | </details>
+| front_default | ![Scatterbug front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png) | </details>
