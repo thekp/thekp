@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Scatterbug
+# Today's random Pokemon is... Beedrill
 
-![Scatterbug shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/664.png)
+![Beedrill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/15.png)
 
 <details>
-<summary>Additional info about Scatterbug</summary>
+<summary>Additional info about Beedrill</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Scatterbug front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png) | </details>
+| back_default | ![Beedrill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png) |
+| back_shiny | ![Beedrill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/15.png) |
+| front_default | ![Beedrill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png) | </details>
