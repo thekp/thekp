@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Beedrill
+# Today's random Pokemon is... Gallade
 
-![Beedrill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/15.png)
+![Gallade shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/475.png)
 
 <details>
-<summary>Additional info about Beedrill</summary>
+<summary>Additional info about Gallade</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Beedrill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png) |
-| back_shiny | ![Beedrill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/15.png) |
-| front_default | ![Beedrill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png) | </details>
+| back_default | ![Gallade back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/475.png) |
+| back_shiny | ![Gallade back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/475.png) |
+| front_default | ![Gallade front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png) | </details>
