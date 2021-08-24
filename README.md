@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tyrantrum
+# Today's random Pokemon is... Emboar
 
-![Tyrantrum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/697.png)
+![Emboar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/500.png)
 
 <details>
-<summary>Additional info about Tyrantrum</summary>
+<summary>Additional info about Emboar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tyrantrum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/697.png) |
-| back_shiny | ![Tyrantrum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/697.png) |
-| front_default | ![Tyrantrum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png) | </details>
+| back_default | ![Emboar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/500.png) |
+| back_shiny | ![Emboar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/500.png) |
+| front_default | ![Emboar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png) | </details>
