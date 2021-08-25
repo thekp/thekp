@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Emboar
+# Today's random Pokemon is... Chansey
 
-![Emboar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/500.png)
+![Chansey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/113.png)
 
 <details>
-<summary>Additional info about Emboar</summary>
+<summary>Additional info about Chansey</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Emboar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/500.png) |
-| back_shiny | ![Emboar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/500.png) |
-| front_default | ![Emboar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png) | </details>
+| back_default | ![Chansey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png) |
+| back_shiny | ![Chansey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/113.png) |
+| front_default | ![Chansey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png) | </details>
