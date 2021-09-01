@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hakamo-o
+# Today's random Pokemon is... Paras
 
-![Hakamo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/783.png)
+![Paras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/46.png)
 
 <details>
-<summary>Additional info about Hakamo-o</summary>
+<summary>Additional info about Paras</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hakamo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/783.png) |
-| back_shiny | ![Hakamo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/783.png) |
-| front_default | ![Hakamo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png) | </details>
+| back_default | ![Paras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png) |
+| back_shiny | ![Paras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/46.png) |
+| front_default | ![Paras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png) | </details>
