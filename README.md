@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Paras
+# Today's random Pokemon is... Gardevoir
 
-![Paras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/46.png)
+![Gardevoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png)
 
 <details>
-<summary>Additional info about Paras</summary>
+<summary>Additional info about Gardevoir</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Paras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png) |
-| back_shiny | ![Paras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/46.png) |
-| front_default | ![Paras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png) | </details>
+| back_default | ![Gardevoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png) |
+| back_shiny | ![Gardevoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png) |
+| front_default | ![Gardevoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png) | </details>
