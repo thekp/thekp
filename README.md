@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gardevoir
+# Today's random Pokemon is... Gastrodon
 
-![Gardevoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png)
+![Gastrodon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/423.png)
 
 <details>
-<summary>Additional info about Gardevoir</summary>
+<summary>Additional info about Gastrodon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gardevoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png) |
-| back_shiny | ![Gardevoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png) |
-| front_default | ![Gardevoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png) | </details>
+| back_default | ![Gastrodon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/423.png) |
+| back_shiny | ![Gastrodon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/423.png) |
+| front_default | ![Gastrodon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png) | </details>
