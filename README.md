@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Magnemite
+# Today's random Pokemon is... Pichu
 
-![Magnemite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/81.png)
+![Pichu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/172.png)
 
 <details>
-<summary>Additional info about Magnemite</summary>
+<summary>Additional info about Pichu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Magnemite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png) |
-| back_shiny | ![Magnemite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/81.png) |
-| front_default | ![Magnemite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png) | </details>
+| back_default | ![Pichu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/172.png) |
+| back_shiny | ![Pichu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/172.png) |
+| front_default | ![Pichu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png) | </details>
