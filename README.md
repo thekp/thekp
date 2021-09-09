@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pichu
+# Today's random Pokemon is... Dunsparce
 
-![Pichu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/172.png)
+![Dunsparce shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/206.png)
 
 <details>
-<summary>Additional info about Pichu</summary>
+<summary>Additional info about Dunsparce</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pichu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/172.png) |
-| back_shiny | ![Pichu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/172.png) |
-| front_default | ![Pichu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png) | </details>
+| back_default | ![Dunsparce back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/206.png) |
+| back_shiny | ![Dunsparce back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/206.png) |
+| front_default | ![Dunsparce front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png) | </details>
