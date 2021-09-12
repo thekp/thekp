@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Volcanion
+# Today's random Pokemon is... Metagross
 
-![Volcanion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/721.png)
+![Metagross shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/376.png)
 
 <details>
-<summary>Additional info about Volcanion</summary>
+<summary>Additional info about Metagross</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Volcanion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png) | </details>
+| back_default | ![Metagross back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/376.png) |
+| back_shiny | ![Metagross back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/376.png) |
+| front_default | ![Metagross front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png) | </details>
