@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Anorith
+# Today's random Pokemon is... Crustle
 
-![Anorith shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/347.png)
+![Crustle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/558.png)
 
 <details>
-<summary>Additional info about Anorith</summary>
+<summary>Additional info about Crustle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Anorith back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/347.png) |
-| back_shiny | ![Anorith back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/347.png) |
-| front_default | ![Anorith front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png) | </details>
+| back_default | ![Crustle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/558.png) |
+| back_shiny | ![Crustle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/558.png) |
+| front_default | ![Crustle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png) | </details>
