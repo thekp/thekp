@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zangoose
+# Today's random Pokemon is... Blastoise
 
-![Zangoose shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/335.png)
+![Blastoise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/9.png)
 
 <details>
-<summary>Additional info about Zangoose</summary>
+<summary>Additional info about Blastoise</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zangoose back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/335.png) |
-| back_shiny | ![Zangoose back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/335.png) |
-| front_default | ![Zangoose front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png) | </details>
+| back_default | ![Blastoise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png) |
+| back_shiny | ![Blastoise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/9.png) |
+| front_default | ![Blastoise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | </details>
