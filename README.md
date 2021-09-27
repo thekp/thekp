@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lapras
+# Today's random Pokemon is... Terrakion
 
-![Lapras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png)
+![Terrakion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/639.png)
 
 <details>
-<summary>Additional info about Lapras</summary>
+<summary>Additional info about Terrakion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lapras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png) |
-| back_shiny | ![Lapras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png) |
-| front_default | ![Lapras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png) | </details>
+| back_default | ![Terrakion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/639.png) |
+| back_shiny | ![Terrakion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/639.png) |
+| front_default | ![Terrakion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png) | </details>
