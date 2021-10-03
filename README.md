@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Tangrowth
+# Today's random Pokemon is... Meditite
 
-![Tangrowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/465.png)
+![Meditite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/307.png)
 
 <details>
-<summary>Additional info about Tangrowth</summary>
+<summary>Additional info about Meditite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tangrowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/465.png) |
-| back_female | ![Tangrowth back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/465.png) |
-| back_shiny | ![Tangrowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/465.png) |
-| back_shiny_female | ![Tangrowth back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/465.png) |
-| front_default | ![Tangrowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png) |
-| front_female | ![Tangrowth front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/465.png) |
-| front_shiny_female | ![Tangrowth front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/465.png) | </details>
+| back_default | ![Meditite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/307.png) |
+| back_female | ![Meditite back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/307.png) |
+| back_shiny | ![Meditite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/307.png) |
+| back_shiny_female | ![Meditite back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/307.png) |
+| front_default | ![Meditite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png) |
+| front_female | ![Meditite front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/307.png) |
+| front_shiny_female | ![Meditite front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/307.png) | </details>
