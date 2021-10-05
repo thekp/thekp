@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Venonat
+# Today's random Pokemon is... Exeggutor
 
-![Venonat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/48.png)
+![Exeggutor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/103.png)
 
 <details>
-<summary>Additional info about Venonat</summary>
+<summary>Additional info about Exeggutor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Venonat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/48.png) |
-| back_shiny | ![Venonat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/48.png) |
-| front_default | ![Venonat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png) | </details>
+| back_default | ![Exeggutor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png) |
+| back_shiny | ![Exeggutor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/103.png) |
+| front_default | ![Exeggutor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png) | </details>
