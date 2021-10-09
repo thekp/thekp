@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Talonflame
+# Today's random Pokemon is... Yamask
 
-![Talonflame shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/663.png)
+![Yamask shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/562.png)
 
 <details>
-<summary>Additional info about Talonflame</summary>
+<summary>Additional info about Yamask</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Talonflame back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/663.png) |
-| back_shiny | ![Talonflame back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/663.png) |
-| front_default | ![Talonflame front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png) | </details>
+| back_default | ![Yamask back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/562.png) |
+| back_shiny | ![Yamask back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/562.png) |
+| front_default | ![Yamask front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png) | </details>
