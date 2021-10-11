@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Diancie
+# Today's random Pokemon is... Florges
 
-![Diancie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/719.png)
+![Florges shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/671.png)
 
 <details>
-<summary>Additional info about Diancie</summary>
+<summary>Additional info about Florges</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Diancie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png) | </details>
+| front_default | ![Florges front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png) | </details>
