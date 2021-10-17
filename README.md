@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Azumarill
+# Today's random Pokemon is... Pancham
 
-![Azumarill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/184.png)
+![Pancham shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/674.png)
 
 <details>
-<summary>Additional info about Azumarill</summary>
+<summary>Additional info about Pancham</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Azumarill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/184.png) |
-| back_shiny | ![Azumarill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/184.png) |
-| front_default | ![Azumarill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png) | </details>
+| back_default | ![Pancham back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/674.png) |
+| back_shiny | ![Pancham back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/674.png) |
+| front_default | ![Pancham front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png) | </details>
