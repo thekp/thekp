@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mareanie
+# Today's random Pokemon is... Minior-red-meteor
 
-![Mareanie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/747.png)
+![Minior-red-meteor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/774.png)
 
 <details>
-<summary>Additional info about Mareanie</summary>
+<summary>Additional info about Minior-red-meteor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mareanie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/747.png) |
-| back_shiny | ![Mareanie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/747.png) |
-| front_default | ![Mareanie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/747.png) | </details>
+| back_default | ![Minior-red-meteor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/774.png) |
+| back_shiny | ![Minior-red-meteor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/774.png) |
+| front_default | ![Minior-red-meteor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png) | </details>
