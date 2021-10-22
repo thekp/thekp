@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Koffing
+# Today's random Pokemon is... Mudkip
 
-![Koffing shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/109.png)
+![Mudkip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/258.png)
 
 <details>
-<summary>Additional info about Koffing</summary>
+<summary>Additional info about Mudkip</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Koffing back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png) |
-| back_shiny | ![Koffing back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/109.png) |
-| front_default | ![Koffing front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png) | </details>
+| back_default | ![Mudkip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/258.png) |
+| back_shiny | ![Mudkip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/258.png) |
+| front_default | ![Mudkip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png) | </details>
