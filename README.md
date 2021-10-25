@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mudbray
+# Today's random Pokemon is... Farfetchd
 
-![Mudbray shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/749.png)
+![Farfetchd shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/83.png)
 
 <details>
-<summary>Additional info about Mudbray</summary>
+<summary>Additional info about Farfetchd</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mudbray back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/749.png) |
-| back_shiny | ![Mudbray back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/749.png) |
-| front_default | ![Mudbray front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png) | </details>
+| back_default | ![Farfetchd back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png) |
+| back_shiny | ![Farfetchd back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/83.png) |
+| front_default | ![Farfetchd front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png) | </details>
