@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Farfetchd
+# Today's random Pokemon is... Swirlix
 
-![Farfetchd shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/83.png)
+![Swirlix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/684.png)
 
 <details>
-<summary>Additional info about Farfetchd</summary>
+<summary>Additional info about Swirlix</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Farfetchd back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png) |
-| back_shiny | ![Farfetchd back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/83.png) |
-| front_default | ![Farfetchd front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png) | </details>
+| back_default | ![Swirlix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/684.png) |
+| back_shiny | ![Swirlix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/684.png) |
+| front_default | ![Swirlix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png) | </details>
