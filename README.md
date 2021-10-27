@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swirlix
+# Today's random Pokemon is... Throh
 
-![Swirlix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/684.png)
+![Throh shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/538.png)
 
 <details>
-<summary>Additional info about Swirlix</summary>
+<summary>Additional info about Throh</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swirlix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/684.png) |
-| back_shiny | ![Swirlix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/684.png) |
-| front_default | ![Swirlix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png) | </details>
+| back_default | ![Throh back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/538.png) |
+| back_shiny | ![Throh back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/538.png) |
+| front_default | ![Throh front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png) | </details>
