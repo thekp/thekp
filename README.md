@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Throh
+# Today's random Pokemon is... Pidove
 
-![Throh shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/538.png)
+![Pidove shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/519.png)
 
 <details>
-<summary>Additional info about Throh</summary>
+<summary>Additional info about Pidove</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Throh back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/538.png) |
-| back_shiny | ![Throh back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/538.png) |
-| front_default | ![Throh front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png) | </details>
+| back_default | ![Pidove back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/519.png) |
+| back_shiny | ![Pidove back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/519.png) |
+| front_default | ![Pidove front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png) | </details>
