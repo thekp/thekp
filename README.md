@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pidove
+# Today's random Pokemon is... Grumpig
 
-![Pidove shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/519.png)
+![Grumpig shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/326.png)
 
 <details>
-<summary>Additional info about Pidove</summary>
+<summary>Additional info about Grumpig</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pidove back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/519.png) |
-| back_shiny | ![Pidove back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/519.png) |
-| front_default | ![Pidove front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png) | </details>
+| back_default | ![Grumpig back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/326.png) |
+| back_shiny | ![Grumpig back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/326.png) |
+| front_default | ![Grumpig front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png) | </details>
