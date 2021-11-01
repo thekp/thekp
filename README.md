@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Slurpuff
+# Today's random Pokemon is... Dartrix
 
-![Slurpuff shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/685.png)
+![Dartrix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/723.png)
 
 <details>
-<summary>Additional info about Slurpuff</summary>
+<summary>Additional info about Dartrix</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slurpuff back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/685.png) |
-| back_shiny | ![Slurpuff back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/685.png) |
-| front_default | ![Slurpuff front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png) | </details>
+| back_default | ![Dartrix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/723.png) |
+| back_shiny | ![Dartrix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/723.png) |
+| front_default | ![Dartrix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png) | </details>
