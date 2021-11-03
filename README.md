@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mismagius
+# Today's random Pokemon is... Infernape
 
-![Mismagius shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/429.png)
+![Infernape shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/392.png)
 
 <details>
-<summary>Additional info about Mismagius</summary>
+<summary>Additional info about Infernape</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mismagius back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/429.png) |
-| back_shiny | ![Mismagius back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/429.png) |
-| front_default | ![Mismagius front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png) | </details>
+| back_default | ![Infernape back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/392.png) |
+| back_shiny | ![Infernape back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/392.png) |
+| front_default | ![Infernape front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png) | </details>
