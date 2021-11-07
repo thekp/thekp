@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tentacool
+# Today's random Pokemon is... Pawniard
 
-![Tentacool shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/72.png)
+![Pawniard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/624.png)
 
 <details>
-<summary>Additional info about Tentacool</summary>
+<summary>Additional info about Pawniard</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tentacool back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png) |
-| back_shiny | ![Tentacool back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/72.png) |
-| front_default | ![Tentacool front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png) | </details>
+| back_default | ![Pawniard back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/624.png) |
+| back_shiny | ![Pawniard back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/624.png) |
+| front_default | ![Pawniard front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png) | </details>
