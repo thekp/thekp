@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Tyrunt
+# Today's random Pokemon is... Palpitoad
 
-![Tyrunt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/696.png)
+![Palpitoad shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/536.png)
 
 <details>
-<summary>Additional info about Tyrunt</summary>
+<summary>Additional info about Palpitoad</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Tyrunt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/696.png) | </details>
+| back_default | ![Palpitoad back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/536.png) |
+| back_shiny | ![Palpitoad back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/536.png) |
+| front_default | ![Palpitoad front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png) | </details>
