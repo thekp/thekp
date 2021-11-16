@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gigalith
+# Today's random Pokemon is... Cranidos
 
-![Gigalith shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/526.png)
+![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
 
 <details>
-<summary>Additional info about Gigalith</summary>
+<summary>Additional info about Cranidos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gigalith back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/526.png) |
-| back_shiny | ![Gigalith back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/526.png) |
-| front_default | ![Gigalith front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png) | </details>
+| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
+| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
+| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
