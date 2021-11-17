@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cranidos
+# Today's random Pokemon is... Spearow
 
-![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
+![Spearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/21.png)
 
 <details>
-<summary>Additional info about Cranidos</summary>
+<summary>Additional info about Spearow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
-| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
-| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
+| back_default | ![Spearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png) |
+| back_shiny | ![Spearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/21.png) |
+| front_default | ![Spearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png) | </details>
