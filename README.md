@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spearow
+# Today's random Pokemon is... Metang
 
-![Spearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/21.png)
+![Metang shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/375.png)
 
 <details>
-<summary>Additional info about Spearow</summary>
+<summary>Additional info about Metang</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png) |
-| back_shiny | ![Spearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/21.png) |
-| front_default | ![Spearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png) | </details>
+| back_default | ![Metang back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/375.png) |
+| back_shiny | ![Metang back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/375.png) |
+| front_default | ![Metang front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png) | </details>
