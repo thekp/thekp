@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Meowth
+# Today's random Pokemon is... Porygon-z
 
-![Meowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/52.png)
+![Porygon-z shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/474.png)
 
 <details>
-<summary>Additional info about Meowth</summary>
+<summary>Additional info about Porygon-z</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Meowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png) |
-| back_shiny | ![Meowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/52.png) |
-| front_default | ![Meowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | </details>
+| back_default | ![Porygon-z back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/474.png) |
+| back_shiny | ![Porygon-z back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/474.png) |
+| front_default | ![Porygon-z front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png) | </details>
