@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Piplup
+# Today's random Pokemon is... Pinsir
 
-![Piplup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/393.png)
+![Pinsir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/127.png)
 
 <details>
-<summary>Additional info about Piplup</summary>
+<summary>Additional info about Pinsir</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Piplup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/393.png) |
-| back_shiny | ![Piplup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/393.png) |
-| front_default | ![Piplup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png) | </details>
+| back_default | ![Pinsir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png) |
+| back_shiny | ![Pinsir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/127.png) |
+| front_default | ![Pinsir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png) | </details>
