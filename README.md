@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Scraggy
+# Today's random Pokemon is... Magearna
 
-![Scraggy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/559.png)
+![Magearna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/801.png)
 
 <details>
-<summary>Additional info about Scraggy</summary>
+<summary>Additional info about Magearna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scraggy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/559.png) |
-| back_shiny | ![Scraggy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/559.png) |
-| front_default | ![Scraggy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png) | </details>
+| back_default | ![Magearna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/801.png) |
+| back_shiny | ![Magearna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/801.png) |
+| front_default | ![Magearna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png) | </details>
