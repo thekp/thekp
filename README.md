@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Magearna
+# Today's random Pokemon is... Delcatty
 
-![Magearna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/801.png)
+![Delcatty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/301.png)
 
 <details>
-<summary>Additional info about Magearna</summary>
+<summary>Additional info about Delcatty</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Magearna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/801.png) |
-| back_shiny | ![Magearna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/801.png) |
-| front_default | ![Magearna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png) | </details>
+| back_default | ![Delcatty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/301.png) |
+| back_shiny | ![Delcatty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/301.png) |
+| front_default | ![Delcatty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png) | </details>
