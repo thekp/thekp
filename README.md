@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pumpkaboo-average
+# Today's random Pokemon is... Breloom
 
-![Pumpkaboo-average shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/710.png)
+![Breloom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/286.png)
 
 <details>
-<summary>Additional info about Pumpkaboo-average</summary>
+<summary>Additional info about Breloom</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pumpkaboo-average back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/710.png) |
-| back_shiny | ![Pumpkaboo-average back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/710.png) |
-| front_default | ![Pumpkaboo-average front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710.png) | </details>
+| back_default | ![Breloom back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/286.png) |
+| back_shiny | ![Breloom back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/286.png) |
+| front_default | ![Breloom front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png) | </details>
