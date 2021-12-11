@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Primarina
+# Today's random Pokemon is... Slowpoke
 
-![Primarina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png)
+![Slowpoke shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/79.png)
 
 <details>
-<summary>Additional info about Primarina</summary>
+<summary>Additional info about Slowpoke</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Primarina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/730.png) |
-| back_shiny | ![Primarina back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/730.png) |
-| front_default | ![Primarina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png) | </details>
+| back_default | ![Slowpoke back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/79.png) |
+| back_shiny | ![Slowpoke back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/79.png) |
+| front_default | ![Slowpoke front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png) | </details>
