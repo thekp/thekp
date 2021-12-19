@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Escavalier
+# Today's random Pokemon is... Machoke
 
-![Escavalier shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/589.png)
+![Machoke shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/67.png)
 
 <details>
-<summary>Additional info about Escavalier</summary>
+<summary>Additional info about Machoke</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Escavalier back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/589.png) |
-| back_shiny | ![Escavalier back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/589.png) |
-| front_default | ![Escavalier front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png) | </details>
+| back_default | ![Machoke back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png) |
+| back_shiny | ![Machoke back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/67.png) |
+| front_default | ![Machoke front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png) | </details>
