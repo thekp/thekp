@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Machoke
+# Today's random Pokemon is... Ribombee
 
-![Machoke shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/67.png)
+![Ribombee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/743.png)
 
 <details>
-<summary>Additional info about Machoke</summary>
+<summary>Additional info about Ribombee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Machoke back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png) |
-| back_shiny | ![Machoke back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/67.png) |
-| front_default | ![Machoke front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png) | </details>
+| back_default | ![Ribombee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/743.png) |
+| back_shiny | ![Ribombee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/743.png) |
+| front_default | ![Ribombee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png) | </details>
