@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ribombee
+# Today's random Pokemon is... Gardevoir
 
-![Ribombee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/743.png)
+![Gardevoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png)
 
 <details>
-<summary>Additional info about Ribombee</summary>
+<summary>Additional info about Gardevoir</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ribombee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/743.png) |
-| back_shiny | ![Ribombee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/743.png) |
-| front_default | ![Ribombee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png) | </details>
+| back_default | ![Gardevoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png) |
+| back_shiny | ![Gardevoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png) |
+| front_default | ![Gardevoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png) | </details>
