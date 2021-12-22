@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gardevoir
+# Today's random Pokemon is... Typhlosion
 
-![Gardevoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png)
+![Typhlosion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/157.png)
 
 <details>
-<summary>Additional info about Gardevoir</summary>
+<summary>Additional info about Typhlosion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gardevoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png) |
-| back_shiny | ![Gardevoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png) |
-| front_default | ![Gardevoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png) | </details>
+| back_default | ![Typhlosion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/157.png) |
+| back_shiny | ![Typhlosion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/157.png) |
+| front_default | ![Typhlosion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png) | </details>
