@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Forretress
+# Today's random Pokemon is... Golisopod
 
-![Forretress shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/205.png)
+![Golisopod shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/768.png)
 
 <details>
-<summary>Additional info about Forretress</summary>
+<summary>Additional info about Golisopod</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Forretress back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/205.png) |
-| back_shiny | ![Forretress back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/205.png) |
-| front_default | ![Forretress front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png) | </details>
+| back_default | ![Golisopod back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/768.png) |
+| back_shiny | ![Golisopod back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/768.png) |
+| front_default | ![Golisopod front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png) | </details>
