@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sandygast
+# Today's random Pokemon is... Flaaffy
 
-![Sandygast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/769.png)
+![Flaaffy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/180.png)
 
 <details>
-<summary>Additional info about Sandygast</summary>
+<summary>Additional info about Flaaffy</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sandygast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/769.png) |
-| back_shiny | ![Sandygast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/769.png) |
-| front_default | ![Sandygast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png) | </details>
+| back_default | ![Flaaffy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/180.png) |
+| back_shiny | ![Flaaffy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/180.png) |
+| front_default | ![Flaaffy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png) | </details>
