@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Flaaffy
+# Today's random Pokemon is... Nuzleaf
 
-![Flaaffy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/180.png)
+![Nuzleaf shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/274.png)
 
 <details>
-<summary>Additional info about Flaaffy</summary>
+<summary>Additional info about Nuzleaf</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Flaaffy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/180.png) |
-| back_shiny | ![Flaaffy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/180.png) |
-| front_default | ![Flaaffy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png) | </details>
+| back_default | ![Nuzleaf back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/274.png) |
+| back_female | ![Nuzleaf back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/274.png) |
+| back_shiny | ![Nuzleaf back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/274.png) |
+| back_shiny_female | ![Nuzleaf back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/274.png) |
+| front_default | ![Nuzleaf front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png) |
+| front_female | ![Nuzleaf front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/274.png) |
+| front_shiny_female | ![Nuzleaf front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/274.png) | </details>
