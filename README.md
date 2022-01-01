@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poliwhirl
+# Today's random Pokemon is... Misdreavus
 
-![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
+![Misdreavus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/200.png)
 
 <details>
-<summary>Additional info about Poliwhirl</summary>
+<summary>Additional info about Misdreavus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
-| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
-| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
+| back_default | ![Misdreavus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/200.png) |
+| back_shiny | ![Misdreavus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/200.png) |
+| front_default | ![Misdreavus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png) | </details>
