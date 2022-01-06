@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cranidos
+# Today's random Pokemon is... Shroomish
 
-![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
+![Shroomish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/285.png)
 
 <details>
-<summary>Additional info about Cranidos</summary>
+<summary>Additional info about Shroomish</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
-| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
-| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
+| back_default | ![Shroomish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/285.png) |
+| back_shiny | ![Shroomish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/285.png) |
+| front_default | ![Shroomish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png) | </details>
