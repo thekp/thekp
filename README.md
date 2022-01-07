@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shroomish
+# Today's random Pokemon is... Tirtouga
 
-![Shroomish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/285.png)
+![Tirtouga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/564.png)
 
 <details>
-<summary>Additional info about Shroomish</summary>
+<summary>Additional info about Tirtouga</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shroomish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/285.png) |
-| back_shiny | ![Shroomish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/285.png) |
-| front_default | ![Shroomish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png) | </details>
+| back_default | ![Tirtouga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/564.png) |
+| back_shiny | ![Tirtouga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/564.png) |
+| front_default | ![Tirtouga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png) | </details>
