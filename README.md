@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sandygast
+# Today's random Pokemon is... Cobalion
 
-![Sandygast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/769.png)
+![Cobalion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/638.png)
 
 <details>
-<summary>Additional info about Sandygast</summary>
+<summary>Additional info about Cobalion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sandygast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/769.png) |
-| back_shiny | ![Sandygast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/769.png) |
-| front_default | ![Sandygast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png) | </details>
+| back_default | ![Cobalion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/638.png) |
+| back_shiny | ![Cobalion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/638.png) |
+| front_default | ![Cobalion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png) | </details>
