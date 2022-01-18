@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Grimer
+# Today's random Pokemon is... Lapras
 
-![Grimer shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/88.png)
+![Lapras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png)
 
 <details>
-<summary>Additional info about Grimer</summary>
+<summary>Additional info about Lapras</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Grimer back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png) |
-| back_shiny | ![Grimer back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/88.png) |
-| front_default | ![Grimer front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png) | </details>
+| back_default | ![Lapras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png) |
+| back_shiny | ![Lapras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png) |
+| front_default | ![Lapras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png) | </details>
