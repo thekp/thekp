@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lapras
+# Today's random Pokemon is... Meowth
 
-![Lapras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png)
+![Meowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/52.png)
 
 <details>
-<summary>Additional info about Lapras</summary>
+<summary>Additional info about Meowth</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lapras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png) |
-| back_shiny | ![Lapras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png) |
-| front_default | ![Lapras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png) | </details>
+| back_default | ![Meowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png) |
+| back_shiny | ![Meowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/52.png) |
+| front_default | ![Meowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | </details>
