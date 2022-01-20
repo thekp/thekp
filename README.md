@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Meowth
+# Today's random Pokemon is... Aggron
 
-![Meowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/52.png)
+![Aggron shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/306.png)
 
 <details>
-<summary>Additional info about Meowth</summary>
+<summary>Additional info about Aggron</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Meowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png) |
-| back_shiny | ![Meowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/52.png) |
-| front_default | ![Meowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | </details>
+| back_default | ![Aggron back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/306.png) |
+| back_shiny | ![Aggron back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/306.png) |
+| front_default | ![Aggron front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png) | </details>
