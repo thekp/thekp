@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Aggron
+# Today's random Pokemon is... Rufflet
 
-![Aggron shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/306.png)
+![Rufflet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/627.png)
 
 <details>
-<summary>Additional info about Aggron</summary>
+<summary>Additional info about Rufflet</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Aggron back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/306.png) |
-| back_shiny | ![Aggron back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/306.png) |
-| front_default | ![Aggron front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png) | </details>
+| back_default | ![Rufflet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/627.png) |
+| back_shiny | ![Rufflet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/627.png) |
+| front_default | ![Rufflet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png) | </details>
