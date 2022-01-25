@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Drilbur
+# Today's random Pokemon is... Walrein
 
-![Drilbur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/529.png)
+![Walrein shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/365.png)
 
 <details>
-<summary>Additional info about Drilbur</summary>
+<summary>Additional info about Walrein</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Drilbur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/529.png) |
-| back_shiny | ![Drilbur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/529.png) |
-| front_default | ![Drilbur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png) | </details>
+| back_default | ![Walrein back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/365.png) |
+| back_shiny | ![Walrein back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/365.png) |
+| front_default | ![Walrein front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png) | </details>
