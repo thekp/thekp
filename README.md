@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Walrein
+# Today's random Pokemon is... Scrafty
 
-![Walrein shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/365.png)
+![Scrafty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/560.png)
 
 <details>
-<summary>Additional info about Walrein</summary>
+<summary>Additional info about Scrafty</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Walrein back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/365.png) |
-| back_shiny | ![Walrein back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/365.png) |
-| front_default | ![Walrein front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png) | </details>
+| back_default | ![Scrafty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/560.png) |
+| back_shiny | ![Scrafty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/560.png) |
+| front_default | ![Scrafty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png) | </details>
