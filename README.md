@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Primarina
+# Today's random Pokemon is... Masquerain
 
-![Primarina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png)
+![Masquerain shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/284.png)
 
 <details>
-<summary>Additional info about Primarina</summary>
+<summary>Additional info about Masquerain</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Primarina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/730.png) |
-| back_shiny | ![Primarina back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/730.png) |
-| front_default | ![Primarina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png) | </details>
+| back_default | ![Masquerain back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/284.png) |
+| back_shiny | ![Masquerain back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/284.png) |
+| front_default | ![Masquerain front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png) | </details>
