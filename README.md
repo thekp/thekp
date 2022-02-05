@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Diggersby
+# Today's random Pokemon is... Corsola
 
-![Diggersby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/660.png)
+![Corsola shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/222.png)
 
 <details>
-<summary>Additional info about Diggersby</summary>
+<summary>Additional info about Corsola</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Diggersby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png) | </details>
+| back_default | ![Corsola back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png) |
+| back_shiny | ![Corsola back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/222.png) |
+| front_default | ![Corsola front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png) | </details>
