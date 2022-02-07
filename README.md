@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Snivy
+# Today's random Pokemon is... Munna
 
-![Snivy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/495.png)
+![Munna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/517.png)
 
 <details>
-<summary>Additional info about Snivy</summary>
+<summary>Additional info about Munna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Snivy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/495.png) |
-| back_shiny | ![Snivy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/495.png) |
-| front_default | ![Snivy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png) | </details>
+| back_default | ![Munna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/517.png) |
+| back_shiny | ![Munna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/517.png) |
+| front_default | ![Munna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png) | </details>
