@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cottonee
+# Today's random Pokemon is... Purugly
 
-![Cottonee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/546.png)
+![Purugly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/432.png)
 
 <details>
-<summary>Additional info about Cottonee</summary>
+<summary>Additional info about Purugly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cottonee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/546.png) |
-| back_shiny | ![Cottonee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/546.png) |
-| front_default | ![Cottonee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png) | </details>
+| back_default | ![Purugly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/432.png) |
+| back_shiny | ![Purugly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/432.png) |
+| front_default | ![Purugly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png) | </details>
