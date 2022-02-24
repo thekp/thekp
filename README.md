@@ -1,12 +1,11 @@
-# Today's random Pokemon is... Mime-jr
+# Today's random Pokemon is... Silvally
 
-![Mime-jr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/439.png)
+![Silvally shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/773.png)
 
 <details>
-<summary>Additional info about Mime-jr</summary>
+<summary>Additional info about Silvally</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mime-jr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/439.png) |
-| back_shiny | ![Mime-jr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/439.png) |
-| front_default | ![Mime-jr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png) | </details>
+| back_default | ![Silvally back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/773.png) |
+| front_default | ![Silvally front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png) | </details>
