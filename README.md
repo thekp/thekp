@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poliwhirl
+# Today's random Pokemon is... Oshawott
 
-![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
+![Oshawott shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/501.png)
 
 <details>
-<summary>Additional info about Poliwhirl</summary>
+<summary>Additional info about Oshawott</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
-| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
-| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
+| back_default | ![Oshawott back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/501.png) |
+| back_shiny | ![Oshawott back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/501.png) |
+| front_default | ![Oshawott front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png) | </details>
