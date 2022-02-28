@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Oshawott
+# Today's random Pokemon is... Necrozma
 
-![Oshawott shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/501.png)
+![Necrozma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/800.png)
 
 <details>
-<summary>Additional info about Oshawott</summary>
+<summary>Additional info about Necrozma</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Oshawott back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/501.png) |
-| back_shiny | ![Oshawott back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/501.png) |
-| front_default | ![Oshawott front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png) | </details>
+| back_default | ![Necrozma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/800.png) |
+| back_shiny | ![Necrozma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/800.png) |
+| front_default | ![Necrozma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png) | </details>
