@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cresselia
+# Today's random Pokemon is... Claydol
 
-![Cresselia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/488.png)
+![Claydol shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/344.png)
 
 <details>
-<summary>Additional info about Cresselia</summary>
+<summary>Additional info about Claydol</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cresselia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/488.png) |
-| back_shiny | ![Cresselia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/488.png) |
-| front_default | ![Cresselia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png) | </details>
+| back_default | ![Claydol back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/344.png) |
+| back_shiny | ![Claydol back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/344.png) |
+| front_default | ![Claydol front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png) | </details>
