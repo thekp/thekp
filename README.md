@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Claydol
+# Today's random Pokemon is... Blacephalon
 
-![Claydol shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/344.png)
+![Blacephalon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/806.png)
 
 <details>
-<summary>Additional info about Claydol</summary>
+<summary>Additional info about Blacephalon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Claydol back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/344.png) |
-| back_shiny | ![Claydol back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/344.png) |
-| front_default | ![Claydol front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png) | </details>
+| back_default | ![Blacephalon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/806.png) |
+| back_shiny | ![Blacephalon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/806.png) |
+| front_default | ![Blacephalon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png) | </details>
