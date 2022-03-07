@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cranidos
+# Today's random Pokemon is... Zigzagoon
 
-![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
+![Zigzagoon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/263.png)
 
 <details>
-<summary>Additional info about Cranidos</summary>
+<summary>Additional info about Zigzagoon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
-| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
-| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
+| back_default | ![Zigzagoon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/263.png) |
+| back_shiny | ![Zigzagoon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/263.png) |
+| front_default | ![Zigzagoon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png) | </details>
