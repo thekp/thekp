@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zigzagoon
+# Today's random Pokemon is... Hydreigon
 
-![Zigzagoon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/263.png)
+![Hydreigon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/635.png)
 
 <details>
-<summary>Additional info about Zigzagoon</summary>
+<summary>Additional info about Hydreigon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zigzagoon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/263.png) |
-| back_shiny | ![Zigzagoon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/263.png) |
-| front_default | ![Zigzagoon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png) | </details>
+| back_default | ![Hydreigon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/635.png) |
+| back_shiny | ![Hydreigon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/635.png) |
+| front_default | ![Hydreigon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png) | </details>
