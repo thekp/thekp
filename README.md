@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hydreigon
+# Today's random Pokemon is... Omanyte
 
-![Hydreigon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/635.png)
+![Omanyte shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/138.png)
 
 <details>
-<summary>Additional info about Hydreigon</summary>
+<summary>Additional info about Omanyte</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hydreigon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/635.png) |
-| back_shiny | ![Hydreigon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/635.png) |
-| front_default | ![Hydreigon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png) | </details>
+| back_default | ![Omanyte back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png) |
+| back_shiny | ![Omanyte back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/138.png) |
+| front_default | ![Omanyte front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png) | </details>
