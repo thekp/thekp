@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dhelmise
+# Today's random Pokemon is... Trapinch
 
-![Dhelmise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/781.png)
+![Trapinch shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/328.png)
 
 <details>
-<summary>Additional info about Dhelmise</summary>
+<summary>Additional info about Trapinch</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dhelmise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/781.png) |
-| back_shiny | ![Dhelmise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/781.png) |
-| front_default | ![Dhelmise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png) | </details>
+| back_default | ![Trapinch back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/328.png) |
+| back_shiny | ![Trapinch back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/328.png) |
+| front_default | ![Trapinch front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | </details>
