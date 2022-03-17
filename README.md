@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lilligant
+# Today's random Pokemon is... Sandshrew
 
-![Lilligant shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/549.png)
+![Sandshrew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/27.png)
 
 <details>
-<summary>Additional info about Lilligant</summary>
+<summary>Additional info about Sandshrew</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lilligant back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/549.png) |
-| back_shiny | ![Lilligant back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/549.png) |
-| front_default | ![Lilligant front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png) | </details>
+| back_default | ![Sandshrew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png) |
+| back_shiny | ![Sandshrew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/27.png) |
+| front_default | ![Sandshrew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png) | </details>
