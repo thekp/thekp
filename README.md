@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Sandshrew
+# Today's random Pokemon is... Croagunk
 
-![Sandshrew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/27.png)
+![Croagunk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/453.png)
 
 <details>
-<summary>Additional info about Sandshrew</summary>
+<summary>Additional info about Croagunk</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sandshrew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png) |
-| back_shiny | ![Sandshrew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/27.png) |
-| front_default | ![Sandshrew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png) | </details>
+| back_default | ![Croagunk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/453.png) |
+| back_female | ![Croagunk back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/453.png) |
+| back_shiny | ![Croagunk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/453.png) |
+| back_shiny_female | ![Croagunk back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/453.png) |
+| front_default | ![Croagunk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png) |
+| front_female | ![Croagunk front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/453.png) |
+| front_shiny_female | ![Croagunk front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/453.png) | </details>
