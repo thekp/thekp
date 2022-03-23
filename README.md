@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Magby
+# Today's random Pokemon is... Toxapex
 
-![Magby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/240.png)
+![Toxapex shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/748.png)
 
 <details>
-<summary>Additional info about Magby</summary>
+<summary>Additional info about Toxapex</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Magby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/240.png) |
-| back_shiny | ![Magby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/240.png) |
-| front_default | ![Magby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png) | </details>
+| back_default | ![Toxapex back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/748.png) |
+| back_shiny | ![Toxapex back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/748.png) |
+| front_default | ![Toxapex front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png) | </details>
