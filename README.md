@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Toxapex
+# Today's random Pokemon is... Beheeyem
 
-![Toxapex shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/748.png)
+![Beheeyem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/606.png)
 
 <details>
-<summary>Additional info about Toxapex</summary>
+<summary>Additional info about Beheeyem</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Toxapex back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/748.png) |
-| back_shiny | ![Toxapex back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/748.png) |
-| front_default | ![Toxapex front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png) | </details>
+| back_default | ![Beheeyem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/606.png) |
+| back_shiny | ![Beheeyem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/606.png) |
+| front_default | ![Beheeyem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png) | </details>
