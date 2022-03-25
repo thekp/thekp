@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Beheeyem
+# Today's random Pokemon is... Azumarill
 
-![Beheeyem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/606.png)
+![Azumarill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/184.png)
 
 <details>
-<summary>Additional info about Beheeyem</summary>
+<summary>Additional info about Azumarill</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Beheeyem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/606.png) |
-| back_shiny | ![Beheeyem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/606.png) |
-| front_default | ![Beheeyem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png) | </details>
+| back_default | ![Azumarill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/184.png) |
+| back_shiny | ![Azumarill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/184.png) |
+| front_default | ![Azumarill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png) | </details>
