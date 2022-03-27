@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chinchou
+# Today's random Pokemon is... Toucannon
 
-![Chinchou shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/170.png)
+![Toucannon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/733.png)
 
 <details>
-<summary>Additional info about Chinchou</summary>
+<summary>Additional info about Toucannon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chinchou back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/170.png) |
-| back_shiny | ![Chinchou back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/170.png) |
-| front_default | ![Chinchou front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png) | </details>
+| back_default | ![Toucannon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/733.png) |
+| back_shiny | ![Toucannon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/733.png) |
+| front_default | ![Toucannon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png) | </details>
