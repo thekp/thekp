@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Toucannon
+# Today's random Pokemon is... Carnivine
 
-![Toucannon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/733.png)
+![Carnivine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/455.png)
 
 <details>
-<summary>Additional info about Toucannon</summary>
+<summary>Additional info about Carnivine</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Toucannon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/733.png) |
-| back_shiny | ![Toucannon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/733.png) |
-| front_default | ![Toucannon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png) | </details>
+| back_default | ![Carnivine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/455.png) |
+| back_shiny | ![Carnivine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/455.png) |
+| front_default | ![Carnivine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png) | </details>
