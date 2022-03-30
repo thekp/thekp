@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Scraggy
+# Today's random Pokemon is... Lileep
 
-![Scraggy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/559.png)
+![Lileep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/345.png)
 
 <details>
-<summary>Additional info about Scraggy</summary>
+<summary>Additional info about Lileep</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scraggy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/559.png) |
-| back_shiny | ![Scraggy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/559.png) |
-| front_default | ![Scraggy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png) | </details>
+| back_default | ![Lileep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/345.png) |
+| back_shiny | ![Lileep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/345.png) |
+| front_default | ![Lileep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png) | </details>
