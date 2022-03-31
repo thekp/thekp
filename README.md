@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lileep
+# Today's random Pokemon is... Musharna
 
-![Lileep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/345.png)
+![Musharna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/518.png)
 
 <details>
-<summary>Additional info about Lileep</summary>
+<summary>Additional info about Musharna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lileep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/345.png) |
-| back_shiny | ![Lileep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/345.png) |
-| front_default | ![Lileep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png) | </details>
+| back_default | ![Musharna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/518.png) |
+| back_shiny | ![Musharna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/518.png) |
+| front_default | ![Musharna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | </details>
