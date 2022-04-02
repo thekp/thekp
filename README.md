@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Carracosta
+# Today's random Pokemon is... Mienfoo
 
-![Carracosta shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/565.png)
+![Mienfoo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/619.png)
 
 <details>
-<summary>Additional info about Carracosta</summary>
+<summary>Additional info about Mienfoo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Carracosta back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/565.png) |
-| back_shiny | ![Carracosta back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/565.png) |
-| front_default | ![Carracosta front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png) | </details>
+| back_default | ![Mienfoo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/619.png) |
+| back_shiny | ![Mienfoo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/619.png) |
+| front_default | ![Mienfoo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png) | </details>
