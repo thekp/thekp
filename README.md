@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lombre
+# Today's random Pokemon is... Aggron
 
-![Lombre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/271.png)
+![Aggron shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/306.png)
 
 <details>
-<summary>Additional info about Lombre</summary>
+<summary>Additional info about Aggron</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lombre back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/271.png) |
-| back_shiny | ![Lombre back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/271.png) |
-| front_default | ![Lombre front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png) | </details>
+| back_default | ![Aggron back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/306.png) |
+| back_shiny | ![Aggron back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/306.png) |
+| front_default | ![Aggron front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png) | </details>
