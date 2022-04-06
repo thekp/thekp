@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Aggron
+# Today's random Pokemon is... Hitmonchan
 
-![Aggron shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/306.png)
+![Hitmonchan shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/107.png)
 
 <details>
-<summary>Additional info about Aggron</summary>
+<summary>Additional info about Hitmonchan</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Aggron back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/306.png) |
-| back_shiny | ![Aggron back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/306.png) |
-| front_default | ![Aggron front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png) | </details>
+| back_default | ![Hitmonchan back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png) |
+| back_shiny | ![Hitmonchan back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/107.png) |
+| front_default | ![Hitmonchan front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png) | </details>
