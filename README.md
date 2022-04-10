@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mr-mime
+# Today's random Pokemon is... Spewpa
 
-![Mr-mime shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/122.png)
+![Spewpa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/665.png)
 
 <details>
-<summary>Additional info about Mr-mime</summary>
+<summary>Additional info about Spewpa</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mr-mime back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png) |
-| back_shiny | ![Mr-mime back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/122.png) |
-| front_default | ![Mr-mime front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png) | </details>
+| back_default | ![Spewpa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/665.png) |
+| back_shiny | ![Spewpa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/665.png) |
+| front_default | ![Spewpa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png) | </details>
