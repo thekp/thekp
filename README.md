@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tyrogue
+# Today's random Pokemon is... Probopass
 
-![Tyrogue shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/236.png)
+![Probopass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/476.png)
 
 <details>
-<summary>Additional info about Tyrogue</summary>
+<summary>Additional info about Probopass</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tyrogue back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/236.png) |
-| back_shiny | ![Tyrogue back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/236.png) |
-| front_default | ![Tyrogue front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png) | </details>
+| back_default | ![Probopass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/476.png) |
+| back_shiny | ![Probopass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/476.png) |
+| front_default | ![Probopass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | </details>
