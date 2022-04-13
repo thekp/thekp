@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Probopass
+# Today's random Pokemon is... Kyurem
 
-![Probopass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/476.png)
+![Kyurem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/646.png)
 
 <details>
-<summary>Additional info about Probopass</summary>
+<summary>Additional info about Kyurem</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Probopass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/476.png) |
-| back_shiny | ![Probopass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/476.png) |
-| front_default | ![Probopass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | </details>
+| back_default | ![Kyurem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/646.png) |
+| back_shiny | ![Kyurem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/646.png) |
+| front_default | ![Kyurem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png) | </details>
