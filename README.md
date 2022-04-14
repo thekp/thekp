@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kyurem
+# Today's random Pokemon is... Litwick
 
-![Kyurem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/646.png)
+![Litwick shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/607.png)
 
 <details>
-<summary>Additional info about Kyurem</summary>
+<summary>Additional info about Litwick</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kyurem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/646.png) |
-| back_shiny | ![Kyurem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/646.png) |
-| front_default | ![Kyurem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png) | </details>
+| back_default | ![Litwick back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/607.png) |
+| back_shiny | ![Litwick back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/607.png) |
+| front_default | ![Litwick front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png) | </details>
