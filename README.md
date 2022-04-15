@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Litwick
+# Today's random Pokemon is... Slaking
 
-![Litwick shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/607.png)
+![Slaking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/289.png)
 
 <details>
-<summary>Additional info about Litwick</summary>
+<summary>Additional info about Slaking</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Litwick back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/607.png) |
-| back_shiny | ![Litwick back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/607.png) |
-| front_default | ![Litwick front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png) | </details>
+| back_default | ![Slaking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/289.png) |
+| back_shiny | ![Slaking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/289.png) |
+| front_default | ![Slaking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png) | </details>
