@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Smoochum
+# Today's random Pokemon is... Persian
 
-![Smoochum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/238.png)
+![Persian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/53.png)
 
 <details>
-<summary>Additional info about Smoochum</summary>
+<summary>Additional info about Persian</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Smoochum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/238.png) |
-| back_shiny | ![Smoochum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/238.png) |
-| front_default | ![Smoochum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | </details>
+| back_default | ![Persian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/53.png) |
+| back_shiny | ![Persian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/53.png) |
+| front_default | ![Persian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png) | </details>
