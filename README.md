@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Honchkrow
+# Today's random Pokemon is... Klink
 
-![Honchkrow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/430.png)
+![Klink shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/599.png)
 
 <details>
-<summary>Additional info about Honchkrow</summary>
+<summary>Additional info about Klink</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Honchkrow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/430.png) |
-| back_shiny | ![Honchkrow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/430.png) |
-| front_default | ![Honchkrow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png) | </details>
+| back_default | ![Klink back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/599.png) |
+| back_shiny | ![Klink back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/599.png) |
+| front_default | ![Klink front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png) | </details>
