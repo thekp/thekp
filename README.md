@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Plusle
+# Today's random Pokemon is... Lapras
 
-![Plusle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/311.png)
+![Lapras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png)
 
 <details>
-<summary>Additional info about Plusle</summary>
+<summary>Additional info about Lapras</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Plusle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/311.png) |
-| back_shiny | ![Plusle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/311.png) |
-| front_default | ![Plusle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png) | </details>
+| back_default | ![Lapras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png) |
+| back_shiny | ![Lapras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png) |
+| front_default | ![Lapras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png) | </details>
