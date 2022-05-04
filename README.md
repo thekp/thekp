@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pikipek
+# Today's random Pokemon is... Cosmog
 
-![Pikipek shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/731.png)
+![Cosmog shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/789.png)
 
 <details>
-<summary>Additional info about Pikipek</summary>
+<summary>Additional info about Cosmog</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pikipek back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/731.png) |
-| back_shiny | ![Pikipek back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/731.png) |
-| front_default | ![Pikipek front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/731.png) | </details>
+| back_default | ![Cosmog back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/789.png) |
+| back_shiny | ![Cosmog back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/789.png) |
+| front_default | ![Cosmog front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png) | </details>
