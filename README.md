@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cosmog
+# Today's random Pokemon is... Pansear
 
-![Cosmog shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/789.png)
+![Pansear shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/513.png)
 
 <details>
-<summary>Additional info about Cosmog</summary>
+<summary>Additional info about Pansear</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cosmog back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/789.png) |
-| back_shiny | ![Cosmog back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/789.png) |
-| front_default | ![Cosmog front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png) | </details>
+| back_default | ![Pansear back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/513.png) |
+| back_shiny | ![Pansear back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/513.png) |
+| front_default | ![Pansear front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png) | </details>
