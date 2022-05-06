@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pansear
+# Today's random Pokemon is... Golisopod
 
-![Pansear shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/513.png)
+![Golisopod shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/768.png)
 
 <details>
-<summary>Additional info about Pansear</summary>
+<summary>Additional info about Golisopod</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pansear back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/513.png) |
-| back_shiny | ![Pansear back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/513.png) |
-| front_default | ![Pansear front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png) | </details>
+| back_default | ![Golisopod back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/768.png) |
+| back_shiny | ![Golisopod back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/768.png) |
+| front_default | ![Golisopod front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png) | </details>
