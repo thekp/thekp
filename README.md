@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Golisopod
+# Today's random Pokemon is... Larvesta
 
-![Golisopod shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/768.png)
+![Larvesta shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/636.png)
 
 <details>
-<summary>Additional info about Golisopod</summary>
+<summary>Additional info about Larvesta</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Golisopod back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/768.png) |
-| back_shiny | ![Golisopod back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/768.png) |
-| front_default | ![Golisopod front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png) | </details>
+| back_default | ![Larvesta back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/636.png) |
+| back_shiny | ![Larvesta back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/636.png) |
+| front_default | ![Larvesta front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png) | </details>
