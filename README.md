@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Larvesta
+# Today's random Pokemon is... Pheromosa
 
-![Larvesta shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/636.png)
+![Pheromosa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/795.png)
 
 <details>
-<summary>Additional info about Larvesta</summary>
+<summary>Additional info about Pheromosa</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Larvesta back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/636.png) |
-| back_shiny | ![Larvesta back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/636.png) |
-| front_default | ![Larvesta front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png) | </details>
+| back_default | ![Pheromosa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/795.png) |
+| back_shiny | ![Pheromosa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/795.png) |
+| front_default | ![Pheromosa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png) | </details>
