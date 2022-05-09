@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pheromosa
+# Today's random Pokemon is... Sawk
 
-![Pheromosa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/795.png)
+![Sawk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/539.png)
 
 <details>
-<summary>Additional info about Pheromosa</summary>
+<summary>Additional info about Sawk</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pheromosa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/795.png) |
-| back_shiny | ![Pheromosa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/795.png) |
-| front_default | ![Pheromosa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png) | </details>
+| back_default | ![Sawk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/539.png) |
+| back_shiny | ![Sawk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/539.png) |
+| front_default | ![Sawk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png) | </details>
