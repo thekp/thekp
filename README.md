@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sawk
+# Today's random Pokemon is... Poliwhirl
 
-![Sawk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/539.png)
+![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
 
 <details>
-<summary>Additional info about Sawk</summary>
+<summary>Additional info about Poliwhirl</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sawk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/539.png) |
-| back_shiny | ![Sawk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/539.png) |
-| front_default | ![Sawk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png) | </details>
+| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
+| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
+| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
