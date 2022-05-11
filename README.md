@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poliwhirl
+# Today's random Pokemon is... Magearna
 
-![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
+![Magearna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/801.png)
 
 <details>
-<summary>Additional info about Poliwhirl</summary>
+<summary>Additional info about Magearna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
-| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
-| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
+| back_default | ![Magearna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/801.png) |
+| back_shiny | ![Magearna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/801.png) |
+| front_default | ![Magearna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png) | </details>
