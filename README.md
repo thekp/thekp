@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Magearna
+# Today's random Pokemon is... Pyroar
 
-![Magearna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/801.png)
+![Pyroar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/668.png)
 
 <details>
-<summary>Additional info about Magearna</summary>
+<summary>Additional info about Pyroar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Magearna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/801.png) |
-| back_shiny | ![Magearna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/801.png) |
-| front_default | ![Magearna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png) | </details>
+| front_default | ![Pyroar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png) |
+| front_female | ![Pyroar front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/668.png) |
+| front_shiny_female | ![Pyroar front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/668.png) | </details>
