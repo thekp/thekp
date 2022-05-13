@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pyroar
+# Today's random Pokemon is... Tirtouga
 
-![Pyroar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/668.png)
+![Tirtouga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/564.png)
 
 <details>
-<summary>Additional info about Pyroar</summary>
+<summary>Additional info about Tirtouga</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Pyroar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png) |
-| front_female | ![Pyroar front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/668.png) |
-| front_shiny_female | ![Pyroar front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/668.png) | </details>
+| back_default | ![Tirtouga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/564.png) |
+| back_shiny | ![Tirtouga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/564.png) |
+| front_default | ![Tirtouga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png) | </details>
