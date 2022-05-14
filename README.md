@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tirtouga
+# Today's random Pokemon is... Gumshoos
 
-![Tirtouga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/564.png)
+![Gumshoos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/735.png)
 
 <details>
-<summary>Additional info about Tirtouga</summary>
+<summary>Additional info about Gumshoos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tirtouga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/564.png) |
-| back_shiny | ![Tirtouga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/564.png) |
-| front_default | ![Tirtouga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png) | </details>
+| back_default | ![Gumshoos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/735.png) |
+| back_shiny | ![Gumshoos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/735.png) |
+| front_default | ![Gumshoos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png) | </details>
