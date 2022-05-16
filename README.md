@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chatot
+# Today's random Pokemon is... Accelgor
 
-![Chatot shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/441.png)
+![Accelgor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/617.png)
 
 <details>
-<summary>Additional info about Chatot</summary>
+<summary>Additional info about Accelgor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chatot back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/441.png) |
-| back_shiny | ![Chatot back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/441.png) |
-| front_default | ![Chatot front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | </details>
+| back_default | ![Accelgor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/617.png) |
+| back_shiny | ![Accelgor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/617.png) |
+| front_default | ![Accelgor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png) | </details>
