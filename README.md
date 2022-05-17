@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Accelgor
+# Today's random Pokemon is... Totodile
 
-![Accelgor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/617.png)
+![Totodile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/158.png)
 
 <details>
-<summary>Additional info about Accelgor</summary>
+<summary>Additional info about Totodile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Accelgor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/617.png) |
-| back_shiny | ![Accelgor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/617.png) |
-| front_default | ![Accelgor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png) | </details>
+| back_default | ![Totodile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/158.png) |
+| back_shiny | ![Totodile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/158.png) |
+| front_default | ![Totodile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png) | </details>
