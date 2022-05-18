@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Totodile
+# Today's random Pokemon is... Phione
 
-![Totodile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/158.png)
+![Phione shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/489.png)
 
 <details>
-<summary>Additional info about Totodile</summary>
+<summary>Additional info about Phione</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Totodile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/158.png) |
-| back_shiny | ![Totodile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/158.png) |
-| front_default | ![Totodile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png) | </details>
+| back_default | ![Phione back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/489.png) |
+| back_shiny | ![Phione back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/489.png) |
+| front_default | ![Phione front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png) | </details>
