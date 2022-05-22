@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Blastoise
+# Today's random Pokemon is... Clefable
 
-![Blastoise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/9.png)
+![Clefable shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/36.png)
 
 <details>
-<summary>Additional info about Blastoise</summary>
+<summary>Additional info about Clefable</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Blastoise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png) |
-| back_shiny | ![Blastoise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/9.png) |
-| front_default | ![Blastoise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | </details>
+| back_default | ![Clefable back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/36.png) |
+| back_shiny | ![Clefable back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/36.png) |
+| front_default | ![Clefable front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png) | </details>
