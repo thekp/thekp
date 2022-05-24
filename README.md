@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wimpod
+# Today's random Pokemon is... Larvitar
 
-![Wimpod shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/767.png)
+![Larvitar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/246.png)
 
 <details>
-<summary>Additional info about Wimpod</summary>
+<summary>Additional info about Larvitar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wimpod back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/767.png) |
-| back_shiny | ![Wimpod back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/767.png) |
-| front_default | ![Wimpod front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/767.png) | </details>
+| back_default | ![Larvitar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/246.png) |
+| back_shiny | ![Larvitar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/246.png) |
+| front_default | ![Larvitar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png) | </details>
