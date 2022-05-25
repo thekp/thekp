@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Larvitar
+# Today's random Pokemon is... Remoraid
 
-![Larvitar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/246.png)
+![Remoraid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/223.png)
 
 <details>
-<summary>Additional info about Larvitar</summary>
+<summary>Additional info about Remoraid</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Larvitar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/246.png) |
-| back_shiny | ![Larvitar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/246.png) |
-| front_default | ![Larvitar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png) | </details>
+| back_default | ![Remoraid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/223.png) |
+| back_shiny | ![Remoraid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/223.png) |
+| front_default | ![Remoraid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png) | </details>
