@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Remoraid
+# Today's random Pokemon is... Lillipup
 
-![Remoraid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/223.png)
+![Lillipup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/506.png)
 
 <details>
-<summary>Additional info about Remoraid</summary>
+<summary>Additional info about Lillipup</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Remoraid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/223.png) |
-| back_shiny | ![Remoraid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/223.png) |
-| front_default | ![Remoraid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png) | </details>
+| back_default | ![Lillipup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/506.png) |
+| back_shiny | ![Lillipup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/506.png) |
+| front_default | ![Lillipup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | </details>
