@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pansear
+# Today's random Pokemon is... Stufful
 
-![Pansear shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/513.png)
+![Stufful shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/759.png)
 
 <details>
-<summary>Additional info about Pansear</summary>
+<summary>Additional info about Stufful</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pansear back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/513.png) |
-| back_shiny | ![Pansear back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/513.png) |
-| front_default | ![Pansear front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png) | </details>
+| back_default | ![Stufful back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/759.png) |
+| back_shiny | ![Stufful back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/759.png) |
+| front_default | ![Stufful front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png) | </details>
