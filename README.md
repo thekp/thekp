@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Minun
+# Today's random Pokemon is... Hitmonlee
 
-![Minun shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/312.png)
+![Hitmonlee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/106.png)
 
 <details>
-<summary>Additional info about Minun</summary>
+<summary>Additional info about Hitmonlee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Minun back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/312.png) |
-| back_shiny | ![Minun back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/312.png) |
-| front_default | ![Minun front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png) | </details>
+| back_default | ![Hitmonlee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png) |
+| back_shiny | ![Hitmonlee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/106.png) |
+| front_default | ![Hitmonlee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png) | </details>
