@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Scyther
+# Today's random Pokemon is... Probopass
 
-![Scyther shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/123.png)
+![Probopass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/476.png)
 
 <details>
-<summary>Additional info about Scyther</summary>
+<summary>Additional info about Probopass</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scyther back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/123.png) |
-| back_female | ![Scyther back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/123.png) |
-| back_shiny | ![Scyther back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/123.png) |
-| back_shiny_female | ![Scyther back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/123.png) |
-| front_default | ![Scyther front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png) |
-| front_female | ![Scyther front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/123.png) |
-| front_shiny_female | ![Scyther front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/123.png) | </details>
+| back_default | ![Probopass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/476.png) |
+| back_shiny | ![Probopass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/476.png) |
+| front_default | ![Probopass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | </details>
