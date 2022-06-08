@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Accelgor
+# Today's random Pokemon is... Tornadus-incarnate
 
-![Accelgor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/617.png)
+![Tornadus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641.png)
 
 <details>
-<summary>Additional info about Accelgor</summary>
+<summary>Additional info about Tornadus-incarnate</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Accelgor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/617.png) |
-| back_shiny | ![Accelgor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/617.png) |
-| front_default | ![Accelgor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png) | </details>
+| back_default | ![Tornadus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641.png) |
+| back_shiny | ![Tornadus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641.png) |
+| front_default | ![Tornadus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png) | </details>
