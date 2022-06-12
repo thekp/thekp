@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Quagsire
+# Today's random Pokemon is... Whiscash
 
-![Quagsire shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/195.png)
+![Whiscash shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/340.png)
 
 <details>
-<summary>Additional info about Quagsire</summary>
+<summary>Additional info about Whiscash</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Quagsire back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/195.png) |
-| back_female | ![Quagsire back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/195.png) |
-| back_shiny | ![Quagsire back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/195.png) |
-| back_shiny_female | ![Quagsire back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/195.png) |
-| front_default | ![Quagsire front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png) |
-| front_female | ![Quagsire front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/195.png) |
-| front_shiny_female | ![Quagsire front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/195.png) | </details>
+| back_default | ![Whiscash back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/340.png) |
+| back_shiny | ![Whiscash back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/340.png) |
+| front_default | ![Whiscash front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png) | </details>
