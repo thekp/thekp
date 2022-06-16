@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Krokorok
+# Today's random Pokemon is... Tympole
 
-![Krokorok shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/552.png)
+![Tympole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/535.png)
 
 <details>
-<summary>Additional info about Krokorok</summary>
+<summary>Additional info about Tympole</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Krokorok back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/552.png) |
-| back_shiny | ![Krokorok back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/552.png) |
-| front_default | ![Krokorok front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png) | </details>
+| back_default | ![Tympole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/535.png) |
+| back_shiny | ![Tympole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/535.png) |
+| front_default | ![Tympole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png) | </details>
