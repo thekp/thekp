@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tympole
+# Today's random Pokemon is... Squirtle
 
-![Tympole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/535.png)
+![Squirtle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/7.png)
 
 <details>
-<summary>Additional info about Tympole</summary>
+<summary>Additional info about Squirtle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tympole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/535.png) |
-| back_shiny | ![Tympole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/535.png) |
-| front_default | ![Tympole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png) | </details>
+| back_default | ![Squirtle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png) |
+| back_shiny | ![Squirtle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/7.png) |
+| front_default | ![Squirtle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png) | </details>
