@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Squirtle
+# Today's random Pokemon is... Venipede
 
-![Squirtle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/7.png)
+![Venipede shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/543.png)
 
 <details>
-<summary>Additional info about Squirtle</summary>
+<summary>Additional info about Venipede</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Squirtle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png) |
-| back_shiny | ![Squirtle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/7.png) |
-| front_default | ![Squirtle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png) | </details>
+| back_default | ![Venipede back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/543.png) |
+| back_shiny | ![Venipede back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/543.png) |
+| front_default | ![Venipede front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png) | </details>
