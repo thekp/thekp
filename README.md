@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lairon
+# Today's random Pokemon is... Galvantula
 
-![Lairon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/305.png)
+![Galvantula shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/596.png)
 
 <details>
-<summary>Additional info about Lairon</summary>
+<summary>Additional info about Galvantula</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lairon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/305.png) |
-| back_shiny | ![Lairon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/305.png) |
-| front_default | ![Lairon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png) | </details>
+| back_default | ![Galvantula back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/596.png) |
+| back_shiny | ![Galvantula back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/596.png) |
+| front_default | ![Galvantula front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png) | </details>
