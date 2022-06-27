@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Trubbish
+# Today's random Pokemon is... Sentret
 
-![Trubbish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/568.png)
+![Sentret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/161.png)
 
 <details>
-<summary>Additional info about Trubbish</summary>
+<summary>Additional info about Sentret</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Trubbish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/568.png) |
-| back_shiny | ![Trubbish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/568.png) |
-| front_default | ![Trubbish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png) | </details>
+| back_default | ![Sentret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/161.png) |
+| back_shiny | ![Sentret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/161.png) |
+| front_default | ![Sentret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png) | </details>
