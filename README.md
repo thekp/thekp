@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Galvantula
+# Today's random Pokemon is... Cradily
 
-![Galvantula shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/596.png)
+![Cradily shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/346.png)
 
 <details>
-<summary>Additional info about Galvantula</summary>
+<summary>Additional info about Cradily</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Galvantula back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/596.png) |
-| back_shiny | ![Galvantula back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/596.png) |
-| front_default | ![Galvantula front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png) | </details>
+| back_default | ![Cradily back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/346.png) |
+| back_shiny | ![Cradily back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/346.png) |
+| front_default | ![Cradily front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png) | </details>
