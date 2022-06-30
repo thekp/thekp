@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cradily
+# Today's random Pokemon is... Krookodile
 
-![Cradily shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/346.png)
+![Krookodile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/553.png)
 
 <details>
-<summary>Additional info about Cradily</summary>
+<summary>Additional info about Krookodile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cradily back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/346.png) |
-| back_shiny | ![Cradily back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/346.png) |
-| front_default | ![Cradily front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png) | </details>
+| back_default | ![Krookodile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/553.png) |
+| back_shiny | ![Krookodile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/553.png) |
+| front_default | ![Krookodile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png) | </details>
