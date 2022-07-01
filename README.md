@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Krookodile
+# Today's random Pokemon is... Tentacruel
 
-![Krookodile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/553.png)
+![Tentacruel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/73.png)
 
 <details>
-<summary>Additional info about Krookodile</summary>
+<summary>Additional info about Tentacruel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Krookodile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/553.png) |
-| back_shiny | ![Krookodile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/553.png) |
-| front_default | ![Krookodile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png) | </details>
+| back_default | ![Tentacruel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/73.png) |
+| back_shiny | ![Tentacruel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/73.png) |
+| front_default | ![Tentacruel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png) | </details>
