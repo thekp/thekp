@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Machop
+# Today's random Pokemon is... Bellsprout
 
-![Machop shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/66.png)
+![Bellsprout shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/69.png)
 
 <details>
-<summary>Additional info about Machop</summary>
+<summary>Additional info about Bellsprout</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Machop back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png) |
-| back_shiny | ![Machop back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/66.png) |
-| front_default | ![Machop front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png) | </details>
+| back_default | ![Bellsprout back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png) |
+| back_shiny | ![Bellsprout back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/69.png) |
+| front_default | ![Bellsprout front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png) | </details>
