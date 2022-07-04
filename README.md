@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bellsprout
+# Today's random Pokemon is... Mantine
 
-![Bellsprout shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/69.png)
+![Mantine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/226.png)
 
 <details>
-<summary>Additional info about Bellsprout</summary>
+<summary>Additional info about Mantine</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bellsprout back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png) |
-| back_shiny | ![Bellsprout back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/69.png) |
-| front_default | ![Bellsprout front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png) | </details>
+| back_default | ![Mantine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/226.png) |
+| back_shiny | ![Mantine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/226.png) |
+| front_default | ![Mantine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png) | </details>
