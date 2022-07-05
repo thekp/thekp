@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mantine
+# Today's random Pokemon is... Delcatty
 
-![Mantine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/226.png)
+![Delcatty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/301.png)
 
 <details>
-<summary>Additional info about Mantine</summary>
+<summary>Additional info about Delcatty</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mantine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/226.png) |
-| back_shiny | ![Mantine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/226.png) |
-| front_default | ![Mantine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png) | </details>
+| back_default | ![Delcatty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/301.png) |
+| back_shiny | ![Delcatty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/301.png) |
+| front_default | ![Delcatty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png) | </details>
