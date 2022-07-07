@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Sylveon
+# Today's random Pokemon is... Bastiodon
 
-![Sylveon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/700.png)
+![Bastiodon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/411.png)
 
 <details>
-<summary>Additional info about Sylveon</summary>
+<summary>Additional info about Bastiodon</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Sylveon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png) | </details>
+| back_default | ![Bastiodon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/411.png) |
+| back_shiny | ![Bastiodon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/411.png) |
+| front_default | ![Bastiodon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png) | </details>
