@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bastiodon
+# Today's random Pokemon is... Swoobat
 
-![Bastiodon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/411.png)
+![Swoobat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/528.png)
 
 <details>
-<summary>Additional info about Bastiodon</summary>
+<summary>Additional info about Swoobat</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bastiodon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/411.png) |
-| back_shiny | ![Bastiodon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/411.png) |
-| front_default | ![Bastiodon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png) | </details>
+| back_default | ![Swoobat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/528.png) |
+| back_shiny | ![Swoobat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/528.png) |
+| front_default | ![Swoobat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png) | </details>
