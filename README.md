@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swoobat
+# Today's random Pokemon is... Hawlucha
 
-![Swoobat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/528.png)
+![Hawlucha shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/701.png)
 
 <details>
-<summary>Additional info about Swoobat</summary>
+<summary>Additional info about Hawlucha</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swoobat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/528.png) |
-| back_shiny | ![Swoobat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/528.png) |
-| front_default | ![Swoobat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png) | </details>
+| back_default | ![Hawlucha back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/701.png) |
+| back_shiny | ![Hawlucha back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/701.png) |
+| front_default | ![Hawlucha front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png) | </details>
