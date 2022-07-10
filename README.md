@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hawlucha
+# Today's random Pokemon is... Staryu
 
-![Hawlucha shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/701.png)
+![Staryu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/120.png)
 
 <details>
-<summary>Additional info about Hawlucha</summary>
+<summary>Additional info about Staryu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hawlucha back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/701.png) |
-| back_shiny | ![Hawlucha back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/701.png) |
-| front_default | ![Hawlucha front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png) | </details>
+| back_default | ![Staryu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png) |
+| back_shiny | ![Staryu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/120.png) |
+| front_default | ![Staryu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png) | </details>
