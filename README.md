@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Furret
+# Today's random Pokemon is... Tapu-bulu
 
-![Furret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/162.png)
+![Tapu-bulu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/787.png)
 
 <details>
-<summary>Additional info about Furret</summary>
+<summary>Additional info about Tapu-bulu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Furret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/162.png) |
-| back_shiny | ![Furret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/162.png) |
-| front_default | ![Furret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png) | </details>
+| back_default | ![Tapu-bulu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/787.png) |
+| back_shiny | ![Tapu-bulu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/787.png) |
+| front_default | ![Tapu-bulu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png) | </details>
