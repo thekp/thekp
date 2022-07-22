@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Primarina
+# Today's random Pokemon is... Tapu-lele
 
-![Primarina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png)
+![Tapu-lele shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/786.png)
 
 <details>
-<summary>Additional info about Primarina</summary>
+<summary>Additional info about Tapu-lele</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Primarina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/730.png) |
-| back_shiny | ![Primarina back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/730.png) |
-| front_default | ![Primarina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png) | </details>
+| back_default | ![Tapu-lele back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/786.png) |
+| back_shiny | ![Tapu-lele back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/786.png) |
+| front_default | ![Tapu-lele front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png) | </details>
