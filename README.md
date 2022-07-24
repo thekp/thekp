@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mienfoo
+# Today's random Pokemon is... Scolipede
 
-![Mienfoo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/619.png)
+![Scolipede shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/545.png)
 
 <details>
-<summary>Additional info about Mienfoo</summary>
+<summary>Additional info about Scolipede</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mienfoo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/619.png) |
-| back_shiny | ![Mienfoo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/619.png) |
-| front_default | ![Mienfoo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png) | </details>
+| back_default | ![Scolipede back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/545.png) |
+| back_shiny | ![Scolipede back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/545.png) |
+| front_default | ![Scolipede front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png) | </details>
