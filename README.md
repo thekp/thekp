@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Scolipede
+# Today's random Pokemon is... Mime-jr
 
-![Scolipede shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/545.png)
+![Mime-jr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/439.png)
 
 <details>
-<summary>Additional info about Scolipede</summary>
+<summary>Additional info about Mime-jr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scolipede back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/545.png) |
-| back_shiny | ![Scolipede back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/545.png) |
-| front_default | ![Scolipede front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png) | </details>
+| back_default | ![Mime-jr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/439.png) |
+| back_shiny | ![Mime-jr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/439.png) |
+| front_default | ![Mime-jr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png) | </details>
