@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mime-jr
+# Today's random Pokemon is... Solrock
 
-![Mime-jr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/439.png)
+![Solrock shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/338.png)
 
 <details>
-<summary>Additional info about Mime-jr</summary>
+<summary>Additional info about Solrock</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mime-jr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/439.png) |
-| back_shiny | ![Mime-jr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/439.png) |
-| front_default | ![Mime-jr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png) | </details>
+| back_default | ![Solrock back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/338.png) |
+| back_shiny | ![Solrock back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/338.png) |
+| front_default | ![Solrock front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png) | </details>
