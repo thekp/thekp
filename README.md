@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Trapinch
+# Today's random Pokemon is... Dusclops
 
-![Trapinch shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/328.png)
+![Dusclops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/356.png)
 
 <details>
-<summary>Additional info about Trapinch</summary>
+<summary>Additional info about Dusclops</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Trapinch back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/328.png) |
-| back_shiny | ![Trapinch back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/328.png) |
-| front_default | ![Trapinch front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | </details>
+| back_default | ![Dusclops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/356.png) |
+| back_shiny | ![Dusclops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/356.png) |
+| front_default | ![Dusclops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png) | </details>
