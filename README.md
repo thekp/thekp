@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gengar
+# Today's random Pokemon is... Chinchou
 
-![Gengar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/94.png)
+![Chinchou shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/170.png)
 
 <details>
-<summary>Additional info about Gengar</summary>
+<summary>Additional info about Chinchou</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gengar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png) |
-| back_shiny | ![Gengar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/94.png) |
-| front_default | ![Gengar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | </details>
+| back_default | ![Chinchou back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/170.png) |
+| back_shiny | ![Chinchou back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/170.png) |
+| front_default | ![Chinchou front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png) | </details>
