@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chinchou
+# Today's random Pokemon is... Spearow
 
-![Chinchou shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/170.png)
+![Spearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/21.png)
 
 <details>
-<summary>Additional info about Chinchou</summary>
+<summary>Additional info about Spearow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chinchou back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/170.png) |
-| back_shiny | ![Chinchou back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/170.png) |
-| front_default | ![Chinchou front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png) | </details>
+| back_default | ![Spearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png) |
+| back_shiny | ![Spearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/21.png) |
+| front_default | ![Spearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png) | </details>
