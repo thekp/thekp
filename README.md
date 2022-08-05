@@ -1,16 +1,11 @@
-# Today's random Pokemon is... Zubat
+# Today's random Pokemon is... Silvally
 
-![Zubat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/41.png)
+![Silvally shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/773.png)
 
 <details>
-<summary>Additional info about Zubat</summary>
+<summary>Additional info about Silvally</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zubat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/41.png) |
-| back_female | ![Zubat back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/41.png) |
-| back_shiny | ![Zubat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/41.png) |
-| back_shiny_female | ![Zubat back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/41.png) |
-| front_default | ![Zubat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png) |
-| front_female | ![Zubat front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/41.png) |
-| front_shiny_female | ![Zubat front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/41.png) | </details>
+| back_default | ![Silvally back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/773.png) |
+| front_default | ![Silvally front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png) | </details>
