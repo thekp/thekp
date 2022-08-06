@@ -1,11 +1,12 @@
-# Today's random Pokemon is... Silvally
+# Today's random Pokemon is... Treecko
 
-![Silvally shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/773.png)
+![Treecko shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/252.png)
 
 <details>
-<summary>Additional info about Silvally</summary>
+<summary>Additional info about Treecko</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Silvally back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/773.png) |
-| front_default | ![Silvally front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png) | </details>
+| back_default | ![Treecko back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/252.png) |
+| back_shiny | ![Treecko back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/252.png) |
+| front_default | ![Treecko front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png) | </details>
