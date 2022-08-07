@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Treecko
+# Today's random Pokemon is... Paras
 
-![Treecko shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/252.png)
+![Paras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/46.png)
 
 <details>
-<summary>Additional info about Treecko</summary>
+<summary>Additional info about Paras</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Treecko back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/252.png) |
-| back_shiny | ![Treecko back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/252.png) |
-| front_default | ![Treecko front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png) | </details>
+| back_default | ![Paras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png) |
+| back_shiny | ![Paras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/46.png) |
+| front_default | ![Paras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png) | </details>
