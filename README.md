@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Paras
+# Today's random Pokemon is... Dusclops
 
-![Paras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/46.png)
+![Dusclops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/356.png)
 
 <details>
-<summary>Additional info about Paras</summary>
+<summary>Additional info about Dusclops</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Paras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png) |
-| back_shiny | ![Paras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/46.png) |
-| front_default | ![Paras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png) | </details>
+| back_default | ![Dusclops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/356.png) |
+| back_shiny | ![Dusclops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/356.png) |
+| front_default | ![Dusclops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png) | </details>
