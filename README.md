@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dusclops
+# Today's random Pokemon is... Oranguru
 
-![Dusclops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/356.png)
+![Oranguru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/765.png)
 
 <details>
-<summary>Additional info about Dusclops</summary>
+<summary>Additional info about Oranguru</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dusclops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/356.png) |
-| back_shiny | ![Dusclops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/356.png) |
-| front_default | ![Dusclops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png) | </details>
+| back_default | ![Oranguru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/765.png) |
+| back_shiny | ![Oranguru back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/765.png) |
+| front_default | ![Oranguru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png) | </details>
