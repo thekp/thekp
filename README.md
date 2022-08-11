@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Turtonator
+# Today's random Pokemon is... Froslass
 
-![Turtonator shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/776.png)
+![Froslass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/478.png)
 
 <details>
-<summary>Additional info about Turtonator</summary>
+<summary>Additional info about Froslass</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Turtonator back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/776.png) |
-| back_shiny | ![Turtonator back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/776.png) |
-| front_default | ![Turtonator front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png) | </details>
+| back_default | ![Froslass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/478.png) |
+| back_shiny | ![Froslass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/478.png) |
+| front_default | ![Froslass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png) | </details>
