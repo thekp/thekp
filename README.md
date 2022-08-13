@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Axew
+# Today's random Pokemon is... Huntail
 
-![Axew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/610.png)
+![Huntail shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/367.png)
 
 <details>
-<summary>Additional info about Axew</summary>
+<summary>Additional info about Huntail</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Axew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/610.png) |
-| back_shiny | ![Axew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/610.png) |
-| front_default | ![Axew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png) | </details>
+| back_default | ![Huntail back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/367.png) |
+| back_shiny | ![Huntail back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/367.png) |
+| front_default | ![Huntail front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png) | </details>
