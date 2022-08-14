@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Huntail
+# Today's random Pokemon is... Meowth
 
-![Huntail shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/367.png)
+![Meowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/52.png)
 
 <details>
-<summary>Additional info about Huntail</summary>
+<summary>Additional info about Meowth</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Huntail back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/367.png) |
-| back_shiny | ![Huntail back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/367.png) |
-| front_default | ![Huntail front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png) | </details>
+| back_default | ![Meowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png) |
+| back_shiny | ![Meowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/52.png) |
+| front_default | ![Meowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | </details>
