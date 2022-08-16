@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tepig
+# Today's random Pokemon is... Hoppip
 
-![Tepig shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/498.png)
+![Hoppip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/187.png)
 
 <details>
-<summary>Additional info about Tepig</summary>
+<summary>Additional info about Hoppip</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tepig back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/498.png) |
-| back_shiny | ![Tepig back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/498.png) |
-| front_default | ![Tepig front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png) | </details>
+| back_default | ![Hoppip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/187.png) |
+| back_shiny | ![Hoppip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/187.png) |
+| front_default | ![Hoppip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png) | </details>
