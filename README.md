@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cyndaquil
+# Today's random Pokemon is... Deerling
 
-![Cyndaquil shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/155.png)
+![Deerling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/585.png)
 
 <details>
-<summary>Additional info about Cyndaquil</summary>
+<summary>Additional info about Deerling</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cyndaquil back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/155.png) |
-| back_shiny | ![Cyndaquil back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/155.png) |
-| front_default | ![Cyndaquil front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png) | </details>
+| back_default | ![Deerling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/585.png) |
+| back_shiny | ![Deerling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/585.png) |
+| front_default | ![Deerling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png) | </details>
