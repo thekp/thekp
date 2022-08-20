@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Latias
+# Today's random Pokemon is... Cherubi
 
-![Latias shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/380.png)
+![Cherubi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/420.png)
 
 <details>
-<summary>Additional info about Latias</summary>
+<summary>Additional info about Cherubi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Latias back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/380.png) |
-| back_shiny | ![Latias back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/380.png) |
-| front_default | ![Latias front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png) | </details>
+| back_default | ![Cherubi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/420.png) |
+| back_shiny | ![Cherubi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/420.png) |
+| front_default | ![Cherubi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png) | </details>
