@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cherubi
+# Today's random Pokemon is... Swellow
 
-![Cherubi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/420.png)
+![Swellow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/277.png)
 
 <details>
-<summary>Additional info about Cherubi</summary>
+<summary>Additional info about Swellow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cherubi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/420.png) |
-| back_shiny | ![Cherubi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/420.png) |
-| front_default | ![Cherubi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png) | </details>
+| back_default | ![Swellow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/277.png) |
+| back_shiny | ![Swellow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/277.png) |
+| front_default | ![Swellow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png) | </details>
