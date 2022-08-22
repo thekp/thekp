@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swellow
+# Today's random Pokemon is... Psyduck
 
-![Swellow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/277.png)
+![Psyduck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png)
 
 <details>
-<summary>Additional info about Swellow</summary>
+<summary>Additional info about Psyduck</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swellow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/277.png) |
-| back_shiny | ![Swellow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/277.png) |
-| front_default | ![Swellow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png) | </details>
+| back_default | ![Psyduck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png) |
+| back_shiny | ![Psyduck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/54.png) |
+| front_default | ![Psyduck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png) | </details>
