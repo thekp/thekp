@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hoothoot
+# Today's random Pokemon is... Psyduck
 
-![Hoothoot shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/163.png)
+![Psyduck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png)
 
 <details>
-<summary>Additional info about Hoothoot</summary>
+<summary>Additional info about Psyduck</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hoothoot back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/163.png) |
-| back_shiny | ![Hoothoot back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/163.png) |
-| front_default | ![Hoothoot front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png) | </details>
+| back_default | ![Psyduck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png) |
+| back_shiny | ![Psyduck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/54.png) |
+| front_default | ![Psyduck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png) | </details>
