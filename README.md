@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dugtrio
+# Today's random Pokemon is... Gastly
 
-![Dugtrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/51.png)
+![Gastly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/92.png)
 
 <details>
-<summary>Additional info about Dugtrio</summary>
+<summary>Additional info about Gastly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dugtrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png) |
-| back_shiny | ![Dugtrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/51.png) |
-| front_default | ![Dugtrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png) | </details>
+| back_default | ![Gastly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png) |
+| back_shiny | ![Gastly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/92.png) |
+| front_default | ![Gastly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png) | </details>
