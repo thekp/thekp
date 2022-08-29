@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gastly
+# Today's random Pokemon is... Shelmet
 
-![Gastly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/92.png)
+![Shelmet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/616.png)
 
 <details>
-<summary>Additional info about Gastly</summary>
+<summary>Additional info about Shelmet</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gastly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png) |
-| back_shiny | ![Gastly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/92.png) |
-| front_default | ![Gastly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png) | </details>
+| back_default | ![Shelmet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/616.png) |
+| back_shiny | ![Shelmet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/616.png) |
+| front_default | ![Shelmet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png) | </details>
