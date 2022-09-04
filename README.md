@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Torkoal
+# Today's random Pokemon is... Weepinbell
 
-![Torkoal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/324.png)
+![Weepinbell shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/70.png)
 
 <details>
-<summary>Additional info about Torkoal</summary>
+<summary>Additional info about Weepinbell</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Torkoal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/324.png) |
-| back_shiny | ![Torkoal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/324.png) |
-| front_default | ![Torkoal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png) | </details>
+| back_default | ![Weepinbell back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png) |
+| back_shiny | ![Weepinbell back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/70.png) |
+| front_default | ![Weepinbell front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png) | </details>
