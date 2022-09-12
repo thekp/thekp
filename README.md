@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gallade
+# Today's random Pokemon is... Passimian
 
-![Gallade shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/475.png)
+![Passimian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/766.png)
 
 <details>
-<summary>Additional info about Gallade</summary>
+<summary>Additional info about Passimian</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gallade back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/475.png) |
-| back_shiny | ![Gallade back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/475.png) |
-| front_default | ![Gallade front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png) | </details>
+| back_default | ![Passimian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/766.png) |
+| back_shiny | ![Passimian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/766.png) |
+| front_default | ![Passimian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png) | </details>
