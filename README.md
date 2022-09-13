@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Passimian
+# Today's random Pokemon is... Stantler
 
-![Passimian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/766.png)
+![Stantler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png)
 
 <details>
-<summary>Additional info about Passimian</summary>
+<summary>Additional info about Stantler</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Passimian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/766.png) |
-| back_shiny | ![Passimian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/766.png) |
-| front_default | ![Passimian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png) | </details>
+| back_default | ![Stantler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png) |
+| back_shiny | ![Stantler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png) |
+| front_default | ![Stantler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png) | </details>
