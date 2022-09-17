@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Flareon
+# Today's random Pokemon is... Petilil
 
-![Flareon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/136.png)
+![Petilil shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/548.png)
 
 <details>
-<summary>Additional info about Flareon</summary>
+<summary>Additional info about Petilil</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Flareon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/136.png) |
-| back_shiny | ![Flareon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/136.png) |
-| front_default | ![Flareon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png) | </details>
+| back_default | ![Petilil back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/548.png) |
+| back_shiny | ![Petilil back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/548.png) |
+| front_default | ![Petilil front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png) | </details>
