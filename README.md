@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bayleef
+# Today's random Pokemon is... Magmar
 
-![Bayleef shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/153.png)
+![Magmar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/126.png)
 
 <details>
-<summary>Additional info about Bayleef</summary>
+<summary>Additional info about Magmar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bayleef back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/153.png) |
-| back_shiny | ![Bayleef back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/153.png) |
-| front_default | ![Bayleef front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png) | </details>
+| back_default | ![Magmar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/126.png) |
+| back_shiny | ![Magmar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/126.png) |
+| front_default | ![Magmar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png) | </details>
