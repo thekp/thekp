@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Staryu
+# Today's random Pokemon is... Beartic
 
-![Staryu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/120.png)
+![Beartic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/614.png)
 
 <details>
-<summary>Additional info about Staryu</summary>
+<summary>Additional info about Beartic</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Staryu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png) |
-| back_shiny | ![Staryu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/120.png) |
-| front_default | ![Staryu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png) | </details>
+| back_default | ![Beartic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/614.png) |
+| back_shiny | ![Beartic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/614.png) |
+| front_default | ![Beartic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png) | </details>
