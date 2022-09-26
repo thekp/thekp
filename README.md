@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Beartic
+# Today's random Pokemon is... Glalie
 
-![Beartic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/614.png)
+![Glalie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/362.png)
 
 <details>
-<summary>Additional info about Beartic</summary>
+<summary>Additional info about Glalie</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Beartic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/614.png) |
-| back_shiny | ![Beartic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/614.png) |
-| front_default | ![Beartic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png) | </details>
+| back_default | ![Glalie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/362.png) |
+| back_shiny | ![Glalie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/362.png) |
+| front_default | ![Glalie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png) | </details>
