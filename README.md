@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Glalie
+# Today's random Pokemon is... Whismur
 
-![Glalie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/362.png)
+![Whismur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/293.png)
 
 <details>
-<summary>Additional info about Glalie</summary>
+<summary>Additional info about Whismur</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Glalie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/362.png) |
-| back_shiny | ![Glalie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/362.png) |
-| front_default | ![Glalie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png) | </details>
+| back_default | ![Whismur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/293.png) |
+| back_shiny | ![Whismur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/293.png) |
+| front_default | ![Whismur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png) | </details>
