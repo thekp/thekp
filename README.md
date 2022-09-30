@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tropius
+# Today's random Pokemon is... Shedinja
 
-![Tropius shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/357.png)
+![Shedinja shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/292.png)
 
 <details>
-<summary>Additional info about Tropius</summary>
+<summary>Additional info about Shedinja</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tropius back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/357.png) |
-| back_shiny | ![Tropius back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/357.png) |
-| front_default | ![Tropius front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png) | </details>
+| back_default | ![Shedinja back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/292.png) |
+| back_shiny | ![Shedinja back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/292.png) |
+| front_default | ![Shedinja front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png) | </details>
