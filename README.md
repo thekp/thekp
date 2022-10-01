@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shedinja
+# Today's random Pokemon is... Reshiram
 
-![Shedinja shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/292.png)
+![Reshiram shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/643.png)
 
 <details>
-<summary>Additional info about Shedinja</summary>
+<summary>Additional info about Reshiram</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shedinja back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/292.png) |
-| back_shiny | ![Shedinja back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/292.png) |
-| front_default | ![Shedinja front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png) | </details>
+| back_default | ![Reshiram back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/643.png) |
+| back_shiny | ![Reshiram back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/643.png) |
+| front_default | ![Reshiram front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png) | </details>
