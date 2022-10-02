@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Reshiram
+# Today's random Pokemon is... Rampardos
 
-![Reshiram shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/643.png)
+![Rampardos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/409.png)
 
 <details>
-<summary>Additional info about Reshiram</summary>
+<summary>Additional info about Rampardos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Reshiram back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/643.png) |
-| back_shiny | ![Reshiram back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/643.png) |
-| front_default | ![Reshiram front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png) | </details>
+| back_default | ![Rampardos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/409.png) |
+| back_shiny | ![Rampardos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/409.png) |
+| front_default | ![Rampardos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png) | </details>
