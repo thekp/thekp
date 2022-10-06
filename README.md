@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Corsola
+# Today's random Pokemon is... Decidueye
 
-![Corsola shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/222.png)
+![Decidueye shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/724.png)
 
 <details>
-<summary>Additional info about Corsola</summary>
+<summary>Additional info about Decidueye</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Corsola back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png) |
-| back_shiny | ![Corsola back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/222.png) |
-| front_default | ![Corsola front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png) | </details>
+| back_default | ![Decidueye back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/724.png) |
+| back_shiny | ![Decidueye back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/724.png) |
+| front_default | ![Decidueye front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png) | </details>
