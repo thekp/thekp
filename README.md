@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poipole
+# Today's random Pokemon is... Purugly
 
-![Poipole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/803.png)
+![Purugly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/432.png)
 
 <details>
-<summary>Additional info about Poipole</summary>
+<summary>Additional info about Purugly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poipole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/803.png) |
-| back_shiny | ![Poipole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/803.png) |
-| front_default | ![Poipole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png) | </details>
+| back_default | ![Purugly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/432.png) |
+| back_shiny | ![Purugly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/432.png) |
+| front_default | ![Purugly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png) | </details>
