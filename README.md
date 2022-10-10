@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Purugly
+# Today's random Pokemon is... Samurott
 
-![Purugly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/432.png)
+![Samurott shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/503.png)
 
 <details>
-<summary>Additional info about Purugly</summary>
+<summary>Additional info about Samurott</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Purugly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/432.png) |
-| back_shiny | ![Purugly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/432.png) |
-| front_default | ![Purugly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png) | </details>
+| back_default | ![Samurott back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/503.png) |
+| back_shiny | ![Samurott back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/503.png) |
+| front_default | ![Samurott front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png) | </details>
