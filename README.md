@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Rufflet
+# Today's random Pokemon is... Gengar
 
-![Rufflet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/627.png)
+![Gengar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/94.png)
 
 <details>
-<summary>Additional info about Rufflet</summary>
+<summary>Additional info about Gengar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Rufflet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/627.png) |
-| back_shiny | ![Rufflet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/627.png) |
-| front_default | ![Rufflet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png) | </details>
+| back_default | ![Gengar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png) |
+| back_shiny | ![Gengar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/94.png) |
+| front_default | ![Gengar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | </details>
