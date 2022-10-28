@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gengar
+# Today's random Pokemon is... Eelektrik
 
-![Gengar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/94.png)
+![Eelektrik shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/603.png)
 
 <details>
-<summary>Additional info about Gengar</summary>
+<summary>Additional info about Eelektrik</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gengar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png) |
-| back_shiny | ![Gengar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/94.png) |
-| front_default | ![Gengar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | </details>
+| back_default | ![Eelektrik back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/603.png) |
+| back_shiny | ![Eelektrik back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/603.png) |
+| front_default | ![Eelektrik front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png) | </details>
