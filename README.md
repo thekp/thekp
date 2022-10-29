@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Eelektrik
+# Today's random Pokemon is... Decidueye
 
-![Eelektrik shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/603.png)
+![Decidueye shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/724.png)
 
 <details>
-<summary>Additional info about Eelektrik</summary>
+<summary>Additional info about Decidueye</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eelektrik back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/603.png) |
-| back_shiny | ![Eelektrik back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/603.png) |
-| front_default | ![Eelektrik front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png) | </details>
+| back_default | ![Decidueye back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/724.png) |
+| back_shiny | ![Decidueye back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/724.png) |
+| front_default | ![Decidueye front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png) | </details>
