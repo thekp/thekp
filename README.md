@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Decidueye
+# Today's random Pokemon is... Sandile
 
-![Decidueye shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/724.png)
+![Sandile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/551.png)
 
 <details>
-<summary>Additional info about Decidueye</summary>
+<summary>Additional info about Sandile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Decidueye back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/724.png) |
-| back_shiny | ![Decidueye back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/724.png) |
-| front_default | ![Decidueye front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png) | </details>
+| back_default | ![Sandile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/551.png) |
+| back_shiny | ![Sandile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/551.png) |
+| front_default | ![Sandile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png) | </details>
