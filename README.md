@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sandile
+# Today's random Pokemon is... Tynamo
 
-![Sandile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/551.png)
+![Tynamo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/602.png)
 
 <details>
-<summary>Additional info about Sandile</summary>
+<summary>Additional info about Tynamo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sandile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/551.png) |
-| back_shiny | ![Sandile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/551.png) |
-| front_default | ![Sandile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png) | </details>
+| back_default | ![Tynamo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/602.png) |
+| back_shiny | ![Tynamo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/602.png) |
+| front_default | ![Tynamo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png) | </details>
