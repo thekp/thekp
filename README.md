@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tynamo
+# Today's random Pokemon is... Deino
 
-![Tynamo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/602.png)
+![Deino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/633.png)
 
 <details>
-<summary>Additional info about Tynamo</summary>
+<summary>Additional info about Deino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tynamo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/602.png) |
-| back_shiny | ![Tynamo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/602.png) |
-| front_default | ![Tynamo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png) | </details>
+| back_default | ![Deino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/633.png) |
+| back_shiny | ![Deino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/633.png) |
+| front_default | ![Deino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png) | </details>
