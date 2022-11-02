@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Deino
+# Today's random Pokemon is... Gengar
 
-![Deino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/633.png)
+![Gengar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/94.png)
 
 <details>
-<summary>Additional info about Deino</summary>
+<summary>Additional info about Gengar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Deino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/633.png) |
-| back_shiny | ![Deino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/633.png) |
-| front_default | ![Deino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png) | </details>
+| back_default | ![Gengar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png) |
+| back_shiny | ![Gengar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/94.png) |
+| front_default | ![Gengar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | </details>
