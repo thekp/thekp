@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gengar
+# Today's random Pokemon is... Celebi
 
-![Gengar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/94.png)
+![Celebi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/251.png)
 
 <details>
-<summary>Additional info about Gengar</summary>
+<summary>Additional info about Celebi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gengar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png) |
-| back_shiny | ![Gengar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/94.png) |
-| front_default | ![Gengar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | </details>
+| back_default | ![Celebi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png) |
+| back_shiny | ![Celebi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/251.png) |
+| front_default | ![Celebi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png) | </details>
