@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Celebi
+# Today's random Pokemon is... Deino
 
-![Celebi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/251.png)
+![Deino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/633.png)
 
 <details>
-<summary>Additional info about Celebi</summary>
+<summary>Additional info about Deino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Celebi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png) |
-| back_shiny | ![Celebi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/251.png) |
-| front_default | ![Celebi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png) | </details>
+| back_default | ![Deino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/633.png) |
+| back_shiny | ![Deino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/633.png) |
+| front_default | ![Deino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png) | </details>
