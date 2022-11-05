@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Deino
+# Today's random Pokemon is... Wingull
 
-![Deino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/633.png)
+![Wingull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/278.png)
 
 <details>
-<summary>Additional info about Deino</summary>
+<summary>Additional info about Wingull</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Deino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/633.png) |
-| back_shiny | ![Deino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/633.png) |
-| front_default | ![Deino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png) | </details>
+| back_default | ![Wingull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/278.png) |
+| back_shiny | ![Wingull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/278.png) |
+| front_default | ![Wingull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png) | </details>
