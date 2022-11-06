@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wingull
+# Today's random Pokemon is... Beartic
 
-![Wingull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/278.png)
+![Beartic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/614.png)
 
 <details>
-<summary>Additional info about Wingull</summary>
+<summary>Additional info about Beartic</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wingull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/278.png) |
-| back_shiny | ![Wingull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/278.png) |
-| front_default | ![Wingull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png) | </details>
+| back_default | ![Beartic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/614.png) |
+| back_shiny | ![Beartic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/614.png) |
+| front_default | ![Beartic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png) | </details>
