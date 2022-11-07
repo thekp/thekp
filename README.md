@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Beartic
+# Today's random Pokemon is... Magnemite
 
-![Beartic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/614.png)
+![Magnemite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/81.png)
 
 <details>
-<summary>Additional info about Beartic</summary>
+<summary>Additional info about Magnemite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Beartic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/614.png) |
-| back_shiny | ![Beartic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/614.png) |
-| front_default | ![Beartic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png) | </details>
+| back_default | ![Magnemite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png) |
+| back_shiny | ![Magnemite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/81.png) |
+| front_default | ![Magnemite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png) | </details>
