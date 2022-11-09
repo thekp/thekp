@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Clamperl
+# Today's random Pokemon is... Celebi
 
-![Clamperl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/366.png)
+![Celebi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/251.png)
 
 <details>
-<summary>Additional info about Clamperl</summary>
+<summary>Additional info about Celebi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Clamperl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/366.png) |
-| back_shiny | ![Clamperl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/366.png) |
-| front_default | ![Clamperl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png) | </details>
+| back_default | ![Celebi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png) |
+| back_shiny | ![Celebi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/251.png) |
+| front_default | ![Celebi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png) | </details>
