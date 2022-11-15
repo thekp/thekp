@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dragonite
+# Today's random Pokemon is... Dedenne
 
-![Dragonite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/149.png)
+![Dedenne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/702.png)
 
 <details>
-<summary>Additional info about Dragonite</summary>
+<summary>Additional info about Dedenne</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dragonite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png) |
-| back_shiny | ![Dragonite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/149.png) |
-| front_default | ![Dragonite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png) | </details>
+| back_default | ![Dedenne back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/702.png) |
+| back_shiny | ![Dedenne back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/702.png) |
+| front_default | ![Dedenne front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png) | </details>
