@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vigoroth
+# Today's random Pokemon is... Latias
 
-![Vigoroth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/288.png)
+![Latias shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/380.png)
 
 <details>
-<summary>Additional info about Vigoroth</summary>
+<summary>Additional info about Latias</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vigoroth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/288.png) |
-| back_shiny | ![Vigoroth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/288.png) |
-| front_default | ![Vigoroth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | </details>
+| back_default | ![Latias back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/380.png) |
+| back_shiny | ![Latias back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/380.png) |
+| front_default | ![Latias front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png) | </details>
