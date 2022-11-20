@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Barbaracle
+# Today's random Pokemon is... Amaura
 
-![Barbaracle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/689.png)
+![Amaura shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/698.png)
 
 <details>
-<summary>Additional info about Barbaracle</summary>
+<summary>Additional info about Amaura</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Barbaracle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png) | </details>
+| front_default | ![Amaura front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png) | </details>
