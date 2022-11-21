@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Amaura
+# Today's random Pokemon is... Drifloon
 
-![Amaura shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/698.png)
+![Drifloon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/425.png)
 
 <details>
-<summary>Additional info about Amaura</summary>
+<summary>Additional info about Drifloon</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Amaura front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png) | </details>
+| back_default | ![Drifloon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/425.png) |
+| back_shiny | ![Drifloon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/425.png) |
+| front_default | ![Drifloon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png) | </details>
