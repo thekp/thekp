@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Golisopod
+# Today's random Pokemon is... Delphox
 
-![Golisopod shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/768.png)
+![Delphox shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/655.png)
 
 <details>
-<summary>Additional info about Golisopod</summary>
+<summary>Additional info about Delphox</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Golisopod back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/768.png) |
-| back_shiny | ![Golisopod back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/768.png) |
-| front_default | ![Golisopod front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png) | </details>
+| front_default | ![Delphox front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png) | </details>
