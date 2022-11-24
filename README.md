@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Delphox
+# Today's random Pokemon is... Dwebble
 
-![Delphox shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/655.png)
+![Dwebble shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/557.png)
 
 <details>
-<summary>Additional info about Delphox</summary>
+<summary>Additional info about Dwebble</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Delphox front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png) | </details>
+| back_default | ![Dwebble back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/557.png) |
+| back_shiny | ![Dwebble back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/557.png) |
+| front_default | ![Dwebble front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png) | </details>
