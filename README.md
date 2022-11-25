@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dwebble
+# Today's random Pokemon is... Smoochum
 
-![Dwebble shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/557.png)
+![Smoochum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/238.png)
 
 <details>
-<summary>Additional info about Dwebble</summary>
+<summary>Additional info about Smoochum</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dwebble back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/557.png) |
-| back_shiny | ![Dwebble back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/557.png) |
-| front_default | ![Dwebble front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png) | </details>
+| back_default | ![Smoochum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/238.png) |
+| back_shiny | ![Smoochum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/238.png) |
+| front_default | ![Smoochum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | </details>
