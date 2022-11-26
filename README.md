@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Smoochum
+# Today's random Pokemon is... Pangoro
 
-![Smoochum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/238.png)
+![Pangoro shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/675.png)
 
 <details>
-<summary>Additional info about Smoochum</summary>
+<summary>Additional info about Pangoro</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Smoochum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/238.png) |
-| back_shiny | ![Smoochum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/238.png) |
-| front_default | ![Smoochum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png) | </details>
+| front_default | ![Pangoro front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png) | </details>
