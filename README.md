@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Minccino
+# Today's random Pokemon is... Woobat
 
-![Minccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/572.png)
+![Woobat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/527.png)
 
 <details>
-<summary>Additional info about Minccino</summary>
+<summary>Additional info about Woobat</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Minccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/572.png) |
-| back_shiny | ![Minccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/572.png) |
-| front_default | ![Minccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png) | </details>
+| back_default | ![Woobat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/527.png) |
+| back_shiny | ![Woobat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/527.png) |
+| front_default | ![Woobat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png) | </details>
