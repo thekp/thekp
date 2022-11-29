@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Woobat
+# Today's random Pokemon is... Garbodor
 
-![Woobat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/527.png)
+![Garbodor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/569.png)
 
 <details>
-<summary>Additional info about Woobat</summary>
+<summary>Additional info about Garbodor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Woobat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/527.png) |
-| back_shiny | ![Woobat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/527.png) |
-| front_default | ![Woobat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png) | </details>
+| back_default | ![Garbodor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/569.png) |
+| back_shiny | ![Garbodor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/569.png) |
+| front_default | ![Garbodor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png) | </details>
