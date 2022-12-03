@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Crawdaunt
+# Today's random Pokemon is... Kommo-o
 
-![Crawdaunt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/342.png)
+![Kommo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/784.png)
 
 <details>
-<summary>Additional info about Crawdaunt</summary>
+<summary>Additional info about Kommo-o</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Crawdaunt back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/342.png) |
-| back_shiny | ![Crawdaunt back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/342.png) |
-| front_default | ![Crawdaunt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png) | </details>
+| back_default | ![Kommo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/784.png) |
+| back_shiny | ![Kommo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/784.png) |
+| front_default | ![Kommo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png) | </details>
