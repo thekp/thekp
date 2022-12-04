@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kommo-o
+# Today's random Pokemon is... Spritzee
 
-![Kommo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/784.png)
+![Spritzee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/682.png)
 
 <details>
-<summary>Additional info about Kommo-o</summary>
+<summary>Additional info about Spritzee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kommo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/784.png) |
-| back_shiny | ![Kommo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/784.png) |
-| front_default | ![Kommo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png) | </details>
+| back_default | ![Spritzee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/682.png) |
+| back_shiny | ![Spritzee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/682.png) |
+| front_default | ![Spritzee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/682.png) | </details>
