@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Malamar
+# Today's random Pokemon is... Avalugg
 
-![Malamar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png)
+![Avalugg shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/713.png)
 
 <details>
-<summary>Additional info about Malamar</summary>
+<summary>Additional info about Avalugg</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Malamar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png) | </details>
+| front_default | ![Avalugg front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png) | </details>
