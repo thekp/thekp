@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Crustle
+# Today's random Pokemon is... Swoobat
 
-![Crustle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/558.png)
+![Swoobat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/528.png)
 
 <details>
-<summary>Additional info about Crustle</summary>
+<summary>Additional info about Swoobat</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Crustle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/558.png) |
-| back_shiny | ![Crustle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/558.png) |
-| front_default | ![Crustle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png) | </details>
+| back_default | ![Swoobat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/528.png) |
+| back_shiny | ![Swoobat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/528.png) |
+| front_default | ![Swoobat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png) | </details>
