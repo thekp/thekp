@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sunkern
+# Today's random Pokemon is... Vikavolt
 
-![Sunkern shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/191.png)
+![Vikavolt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/738.png)
 
 <details>
-<summary>Additional info about Sunkern</summary>
+<summary>Additional info about Vikavolt</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sunkern back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/191.png) |
-| back_shiny | ![Sunkern back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/191.png) |
-| front_default | ![Sunkern front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png) | </details>
+| back_default | ![Vikavolt back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/738.png) |
+| back_shiny | ![Vikavolt back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/738.png) |
+| front_default | ![Vikavolt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png) | </details>
