@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vikavolt
+# Today's random Pokemon is... Baltoy
 
-![Vikavolt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/738.png)
+![Baltoy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/343.png)
 
 <details>
-<summary>Additional info about Vikavolt</summary>
+<summary>Additional info about Baltoy</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vikavolt back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/738.png) |
-| back_shiny | ![Vikavolt back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/738.png) |
-| front_default | ![Vikavolt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png) | </details>
+| back_default | ![Baltoy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/343.png) |
+| back_shiny | ![Baltoy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/343.png) |
+| front_default | ![Baltoy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png) | </details>
