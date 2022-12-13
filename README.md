@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Baltoy
+# Today's random Pokemon is... Cosmog
 
-![Baltoy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/343.png)
+![Cosmog shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/789.png)
 
 <details>
-<summary>Additional info about Baltoy</summary>
+<summary>Additional info about Cosmog</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Baltoy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/343.png) |
-| back_shiny | ![Baltoy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/343.png) |
-| front_default | ![Baltoy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png) | </details>
+| back_default | ![Cosmog back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/789.png) |
+| back_shiny | ![Cosmog back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/789.png) |
+| front_default | ![Cosmog front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png) | </details>
