@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lunatone
+# Today's random Pokemon is... Lapras
 
-![Lunatone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/337.png)
+![Lapras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png)
 
 <details>
-<summary>Additional info about Lunatone</summary>
+<summary>Additional info about Lapras</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lunatone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/337.png) |
-| back_shiny | ![Lunatone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/337.png) |
-| front_default | ![Lunatone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png) | </details>
+| back_default | ![Lapras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png) |
+| back_shiny | ![Lapras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png) |
+| front_default | ![Lapras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png) | </details>
