@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Lapras
+# Today's random Pokemon is... Gligar
 
-![Lapras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png)
+![Gligar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/207.png)
 
 <details>
-<summary>Additional info about Lapras</summary>
+<summary>Additional info about Gligar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lapras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png) |
-| back_shiny | ![Lapras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png) |
-| front_default | ![Lapras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png) | </details>
+| back_default | ![Gligar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/207.png) |
+| back_female | ![Gligar back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/207.png) |
+| back_shiny | ![Gligar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/207.png) |
+| back_shiny_female | ![Gligar back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/207.png) |
+| front_default | ![Gligar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png) |
+| front_female | ![Gligar front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/207.png) |
+| front_shiny_female | ![Gligar front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/207.png) | </details>
