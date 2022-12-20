@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Castform
+# Today's random Pokemon is... Tapu-bulu
 
-![Castform shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/351.png)
+![Tapu-bulu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/787.png)
 
 <details>
-<summary>Additional info about Castform</summary>
+<summary>Additional info about Tapu-bulu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Castform back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/351.png) |
-| back_shiny | ![Castform back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/351.png) |
-| front_default | ![Castform front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png) | </details>
+| back_default | ![Tapu-bulu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/787.png) |
+| back_shiny | ![Tapu-bulu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/787.png) |
+| front_default | ![Tapu-bulu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png) | </details>
