@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ditto
+# Today's random Pokemon is... Celebi
 
-![Ditto shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/132.png)
+![Celebi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/251.png)
 
 <details>
-<summary>Additional info about Ditto</summary>
+<summary>Additional info about Celebi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ditto back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png) |
-| back_shiny | ![Ditto back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/132.png) |
-| front_default | ![Ditto front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png) | </details>
+| back_default | ![Celebi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png) |
+| back_shiny | ![Celebi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/251.png) |
+| front_default | ![Celebi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png) | </details>
