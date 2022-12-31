@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Celebi
+# Today's random Pokemon is... Beedrill
 
-![Celebi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/251.png)
+![Beedrill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/15.png)
 
 <details>
-<summary>Additional info about Celebi</summary>
+<summary>Additional info about Beedrill</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Celebi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png) |
-| back_shiny | ![Celebi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/251.png) |
-| front_default | ![Celebi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png) | </details>
+| back_default | ![Beedrill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png) |
+| back_shiny | ![Beedrill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/15.png) |
+| front_default | ![Beedrill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png) | </details>
