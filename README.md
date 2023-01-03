@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Nuzleaf
+# Today's random Pokemon is... Quilava
 
-![Nuzleaf shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/274.png)
+![Quilava shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/156.png)
 
 <details>
-<summary>Additional info about Nuzleaf</summary>
+<summary>Additional info about Quilava</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nuzleaf back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/274.png) |
-| back_female | ![Nuzleaf back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/274.png) |
-| back_shiny | ![Nuzleaf back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/274.png) |
-| back_shiny_female | ![Nuzleaf back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/274.png) |
-| front_default | ![Nuzleaf front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png) |
-| front_female | ![Nuzleaf front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/274.png) |
-| front_shiny_female | ![Nuzleaf front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/274.png) | </details>
+| back_default | ![Quilava back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/156.png) |
+| back_shiny | ![Quilava back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/156.png) |
+| front_default | ![Quilava front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png) | </details>
