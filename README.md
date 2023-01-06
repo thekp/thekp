@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electabuzz
+# Today's random Pokemon is... Mimikyu-disguised
 
-![Electabuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/125.png)
+![Mimikyu-disguised shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/778.png)
 
 <details>
-<summary>Additional info about Electabuzz</summary>
+<summary>Additional info about Mimikyu-disguised</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electabuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png) |
-| back_shiny | ![Electabuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/125.png) |
-| front_default | ![Electabuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | </details>
+| back_default | ![Mimikyu-disguised back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/778.png) |
+| back_shiny | ![Mimikyu-disguised back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/778.png) |
+| front_default | ![Mimikyu-disguised front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png) | </details>
