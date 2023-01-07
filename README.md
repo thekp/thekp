@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Mimikyu-disguised
+# Today's random Pokemon is... Piloswine
 
-![Mimikyu-disguised shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/778.png)
+![Piloswine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/221.png)
 
 <details>
-<summary>Additional info about Mimikyu-disguised</summary>
+<summary>Additional info about Piloswine</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mimikyu-disguised back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/778.png) |
-| back_shiny | ![Mimikyu-disguised back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/778.png) |
-| front_default | ![Mimikyu-disguised front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png) | </details>
+| back_default | ![Piloswine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/221.png) |
+| back_female | ![Piloswine back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/221.png) |
+| back_shiny | ![Piloswine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/221.png) |
+| back_shiny_female | ![Piloswine back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/221.png) |
+| front_default | ![Piloswine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png) |
+| front_female | ![Piloswine front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/221.png) |
+| front_shiny_female | ![Piloswine front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/221.png) | </details>
