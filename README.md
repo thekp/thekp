@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Qwilfish
+# Today's random Pokemon is... Slaking
 
-![Qwilfish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/211.png)
+![Slaking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/289.png)
 
 <details>
-<summary>Additional info about Qwilfish</summary>
+<summary>Additional info about Slaking</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Qwilfish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/211.png) |
-| back_shiny | ![Qwilfish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/211.png) |
-| front_default | ![Qwilfish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png) | </details>
+| back_default | ![Slaking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/289.png) |
+| back_shiny | ![Slaking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/289.png) |
+| front_default | ![Slaking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png) | </details>
