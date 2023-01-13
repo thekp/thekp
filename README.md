@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Slaking
+# Today's random Pokemon is... Florges
 
-![Slaking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/289.png)
+![Florges shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/671.png)
 
 <details>
-<summary>Additional info about Slaking</summary>
+<summary>Additional info about Florges</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slaking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/289.png) |
-| back_shiny | ![Slaking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/289.png) |
-| front_default | ![Slaking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png) | </details>
+| front_default | ![Florges front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png) | </details>
