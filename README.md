@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Florges
+# Today's random Pokemon is... Mareep
 
-![Florges shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/671.png)
+![Mareep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/179.png)
 
 <details>
-<summary>Additional info about Florges</summary>
+<summary>Additional info about Mareep</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Florges front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png) | </details>
+| back_default | ![Mareep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/179.png) |
+| back_shiny | ![Mareep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/179.png) |
+| front_default | ![Mareep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png) | </details>
