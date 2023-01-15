@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mareep
+# Today's random Pokemon is... Poliwhirl
 
-![Mareep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/179.png)
+![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
 
 <details>
-<summary>Additional info about Mareep</summary>
+<summary>Additional info about Poliwhirl</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mareep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/179.png) |
-| back_shiny | ![Mareep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/179.png) |
-| front_default | ![Mareep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png) | </details>
+| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
+| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
+| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
