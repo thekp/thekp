@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Poliwhirl
+# Today's random Pokemon is... Flabebe
 
-![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
+![Flabebe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/669.png)
 
 <details>
-<summary>Additional info about Poliwhirl</summary>
+<summary>Additional info about Flabebe</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
-| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
-| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
+| front_default | ![Flabebe front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png) | </details>
