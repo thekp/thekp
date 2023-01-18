@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Starmie
+# Today's random Pokemon is... Chingling
 
-![Starmie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/121.png)
+![Chingling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/433.png)
 
 <details>
-<summary>Additional info about Starmie</summary>
+<summary>Additional info about Chingling</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Starmie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png) |
-| back_shiny | ![Starmie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/121.png) |
-| front_default | ![Starmie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png) | </details>
+| back_default | ![Chingling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/433.png) |
+| back_shiny | ![Chingling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/433.png) |
+| front_default | ![Chingling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png) | </details>
