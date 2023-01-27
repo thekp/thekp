@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zweilous
+# Today's random Pokemon is... Leavanny
 
-![Zweilous shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/634.png)
+![Leavanny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
 
 <details>
-<summary>Additional info about Zweilous</summary>
+<summary>Additional info about Leavanny</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zweilous back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/634.png) |
-| back_shiny | ![Zweilous back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/634.png) |
-| front_default | ![Zweilous front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png) | </details>
+| back_default | ![Leavanny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/542.png) |
+| back_shiny | ![Leavanny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/542.png) |
+| front_default | ![Leavanny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png) | </details>
