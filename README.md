@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Eelektrik
+# Today's random Pokemon is... Yamask
 
-![Eelektrik shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/603.png)
+![Yamask shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/562.png)
 
 <details>
-<summary>Additional info about Eelektrik</summary>
+<summary>Additional info about Yamask</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eelektrik back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/603.png) |
-| back_shiny | ![Eelektrik back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/603.png) |
-| front_default | ![Eelektrik front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png) | </details>
+| back_default | ![Yamask back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/562.png) |
+| back_shiny | ![Yamask back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/562.png) |
+| front_default | ![Yamask front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png) | </details>
