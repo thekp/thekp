@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Thundurus-incarnate
+# Today's random Pokemon is... Magby
 
-![Thundurus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/642.png)
+![Magby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/240.png)
 
 <details>
-<summary>Additional info about Thundurus-incarnate</summary>
+<summary>Additional info about Magby</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Thundurus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png) |
-| back_shiny | ![Thundurus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png) |
-| front_default | ![Thundurus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) | </details>
+| back_default | ![Magby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/240.png) |
+| back_shiny | ![Magby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/240.png) |
+| front_default | ![Magby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png) | </details>
