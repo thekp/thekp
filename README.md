@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Aerodactyl
+# Today's random Pokemon is... Elekid
 
-![Aerodactyl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/142.png)
+![Elekid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/239.png)
 
 <details>
-<summary>Additional info about Aerodactyl</summary>
+<summary>Additional info about Elekid</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Aerodactyl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png) |
-| back_shiny | ![Aerodactyl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/142.png) |
-| front_default | ![Aerodactyl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png) | </details>
+| back_default | ![Elekid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png) |
+| back_shiny | ![Elekid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/239.png) |
+| front_default | ![Elekid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png) | </details>
