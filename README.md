@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elekid
+# Today's random Pokemon is... Zorua
 
-![Elekid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/239.png)
+![Zorua shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/570.png)
 
 <details>
-<summary>Additional info about Elekid</summary>
+<summary>Additional info about Zorua</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Elekid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png) |
-| back_shiny | ![Elekid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/239.png) |
-| front_default | ![Elekid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png) | </details>
+| back_default | ![Zorua back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/570.png) |
+| back_shiny | ![Zorua back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/570.png) |
+| front_default | ![Zorua front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png) | </details>
