@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mawile
+# Today's random Pokemon is... Stunky
 
-![Mawile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/303.png)
+![Stunky shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/434.png)
 
 <details>
-<summary>Additional info about Mawile</summary>
+<summary>Additional info about Stunky</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mawile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/303.png) |
-| back_shiny | ![Mawile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/303.png) |
-| front_default | ![Mawile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png) | </details>
+| back_default | ![Stunky back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/434.png) |
+| back_shiny | ![Stunky back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/434.png) |
+| front_default | ![Stunky front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png) | </details>
