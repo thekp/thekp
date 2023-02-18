@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Rayquaza
+# Today's random Pokemon is... Zweilous
 
-![Rayquaza shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/384.png)
+![Zweilous shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/634.png)
 
 <details>
-<summary>Additional info about Rayquaza</summary>
+<summary>Additional info about Zweilous</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Rayquaza back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/384.png) |
-| back_shiny | ![Rayquaza back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/384.png) |
-| front_default | ![Rayquaza front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png) | </details>
+| back_default | ![Zweilous back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/634.png) |
+| back_shiny | ![Zweilous back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/634.png) |
+| front_default | ![Zweilous front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png) | </details>
