@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Oranguru
+# Today's random Pokemon is... Cloyster
 
-![Oranguru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/765.png)
+![Cloyster shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/91.png)
 
 <details>
-<summary>Additional info about Oranguru</summary>
+<summary>Additional info about Cloyster</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Oranguru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/765.png) |
-| back_shiny | ![Oranguru back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/765.png) |
-| front_default | ![Oranguru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png) | </details>
+| back_default | ![Cloyster back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png) |
+| back_shiny | ![Cloyster back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/91.png) |
+| front_default | ![Cloyster front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png) | </details>
