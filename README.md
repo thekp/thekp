@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cloyster
+# Today's random Pokemon is... Genesect
 
-![Cloyster shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/91.png)
+![Genesect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/649.png)
 
 <details>
-<summary>Additional info about Cloyster</summary>
+<summary>Additional info about Genesect</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cloyster back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png) |
-| back_shiny | ![Cloyster back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/91.png) |
-| front_default | ![Cloyster front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png) | </details>
+| back_default | ![Genesect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/649.png) |
+| back_shiny | ![Genesect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/649.png) |
+| front_default | ![Genesect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png) | </details>
