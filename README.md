@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Genesect
+# Today's random Pokemon is... Quilava
 
-![Genesect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/649.png)
+![Quilava shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/156.png)
 
 <details>
-<summary>Additional info about Genesect</summary>
+<summary>Additional info about Quilava</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Genesect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/649.png) |
-| back_shiny | ![Genesect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/649.png) |
-| front_default | ![Genesect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png) | </details>
+| back_default | ![Quilava back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/156.png) |
+| back_shiny | ![Quilava back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/156.png) |
+| front_default | ![Quilava front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png) | </details>
