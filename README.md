@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Manaphy
+# Today's random Pokemon is... Dartrix
 
-![Manaphy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/490.png)
+![Dartrix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/723.png)
 
 <details>
-<summary>Additional info about Manaphy</summary>
+<summary>Additional info about Dartrix</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Manaphy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/490.png) |
-| back_shiny | ![Manaphy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/490.png) |
-| front_default | ![Manaphy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png) | </details>
+| back_default | ![Dartrix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/723.png) |
+| back_shiny | ![Dartrix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/723.png) |
+| front_default | ![Dartrix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png) | </details>
