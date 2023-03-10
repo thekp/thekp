@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Eelektross
+# Today's random Pokemon is... Elgyem
 
-![Eelektross shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/604.png)
+![Elgyem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/605.png)
 
 <details>
-<summary>Additional info about Eelektross</summary>
+<summary>Additional info about Elgyem</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eelektross back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/604.png) |
-| back_shiny | ![Eelektross back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/604.png) |
-| front_default | ![Eelektross front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png) | </details>
+| back_default | ![Elgyem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/605.png) |
+| back_shiny | ![Elgyem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/605.png) |
+| front_default | ![Elgyem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png) | </details>
