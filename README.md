@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elgyem
+# Today's random Pokemon is... Mienfoo
 
-![Elgyem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/605.png)
+![Mienfoo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/619.png)
 
 <details>
-<summary>Additional info about Elgyem</summary>
+<summary>Additional info about Mienfoo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Elgyem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/605.png) |
-| back_shiny | ![Elgyem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/605.png) |
-| front_default | ![Elgyem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png) | </details>
+| back_default | ![Mienfoo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/619.png) |
+| back_shiny | ![Mienfoo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/619.png) |
+| front_default | ![Mienfoo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png) | </details>
