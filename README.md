@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Shiftry
+# Today's random Pokemon is... Marshtomp
 
-![Shiftry shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/275.png)
+![Marshtomp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/259.png)
 
 <details>
-<summary>Additional info about Shiftry</summary>
+<summary>Additional info about Marshtomp</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shiftry back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/275.png) |
-| back_female | ![Shiftry back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/275.png) |
-| back_shiny | ![Shiftry back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/275.png) |
-| back_shiny_female | ![Shiftry back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/275.png) |
-| front_default | ![Shiftry front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png) |
-| front_female | ![Shiftry front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/275.png) |
-| front_shiny_female | ![Shiftry front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/275.png) | </details>
+| back_default | ![Marshtomp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/259.png) |
+| back_shiny | ![Marshtomp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/259.png) |
+| front_default | ![Marshtomp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png) | </details>
