@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Haunter
+# Today's random Pokemon is... Darkrai
 
-![Haunter shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/93.png)
+![Darkrai shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/491.png)
 
 <details>
-<summary>Additional info about Haunter</summary>
+<summary>Additional info about Darkrai</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Haunter back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/93.png) |
-| back_shiny | ![Haunter back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/93.png) |
-| front_default | ![Haunter front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png) | </details>
+| back_default | ![Darkrai back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/491.png) |
+| back_shiny | ![Darkrai back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/491.png) |
+| front_default | ![Darkrai front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png) | </details>
