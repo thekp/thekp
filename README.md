@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Charizard
+# Today's random Pokemon is... Corsola
 
-![Charizard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png)
+![Corsola shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/222.png)
 
 <details>
-<summary>Additional info about Charizard</summary>
+<summary>Additional info about Corsola</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Charizard back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png) |
-| back_shiny | ![Charizard back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/6.png) |
-| front_default | ![Charizard front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png) | </details>
+| back_default | ![Corsola back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png) |
+| back_shiny | ![Corsola back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/222.png) |
+| front_default | ![Corsola front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png) | </details>
