@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Corsola
+# Today's random Pokemon is... Bellsprout
 
-![Corsola shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/222.png)
+![Bellsprout shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/69.png)
 
 <details>
-<summary>Additional info about Corsola</summary>
+<summary>Additional info about Bellsprout</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Corsola back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png) |
-| back_shiny | ![Corsola back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/222.png) |
-| front_default | ![Corsola front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png) | </details>
+| back_default | ![Bellsprout back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png) |
+| back_shiny | ![Bellsprout back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/69.png) |
+| front_default | ![Bellsprout front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png) | </details>
