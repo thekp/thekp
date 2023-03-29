@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Noivern
+# Today's random Pokemon is... Torracat
 
-![Noivern shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/715.png)
+![Torracat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/726.png)
 
 <details>
-<summary>Additional info about Noivern</summary>
+<summary>Additional info about Torracat</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Noivern front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png) | </details>
+| back_default | ![Torracat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/726.png) |
+| back_shiny | ![Torracat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/726.png) |
+| front_default | ![Torracat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png) | </details>
