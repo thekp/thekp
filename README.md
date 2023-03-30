@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Torracat
+# Today's random Pokemon is... Lunala
 
-![Torracat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/726.png)
+![Lunala shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/792.png)
 
 <details>
-<summary>Additional info about Torracat</summary>
+<summary>Additional info about Lunala</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Torracat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/726.png) |
-| back_shiny | ![Torracat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/726.png) |
-| front_default | ![Torracat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png) | </details>
+| back_default | ![Lunala back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/792.png) |
+| back_shiny | ![Lunala back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/792.png) |
+| front_default | ![Lunala front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png) | </details>
