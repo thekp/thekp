@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lunala
+# Today's random Pokemon is... Dusclops
 
-![Lunala shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/792.png)
+![Dusclops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/356.png)
 
 <details>
-<summary>Additional info about Lunala</summary>
+<summary>Additional info about Dusclops</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lunala back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/792.png) |
-| back_shiny | ![Lunala back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/792.png) |
-| front_default | ![Lunala front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png) | </details>
+| back_default | ![Dusclops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/356.png) |
+| back_shiny | ![Dusclops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/356.png) |
+| front_default | ![Dusclops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png) | </details>
