@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Galvantula
+# Today's random Pokemon is... Exploud
 
-![Galvantula shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/596.png)
+![Exploud shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/295.png)
 
 <details>
-<summary>Additional info about Galvantula</summary>
+<summary>Additional info about Exploud</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Galvantula back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/596.png) |
-| back_shiny | ![Galvantula back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/596.png) |
-| front_default | ![Galvantula front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png) | </details>
+| back_default | ![Exploud back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/295.png) |
+| back_shiny | ![Exploud back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/295.png) |
+| front_default | ![Exploud front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png) | </details>
