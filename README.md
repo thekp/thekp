@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Blaziken
+# Today's random Pokemon is... Skiddo
 
-![Blaziken shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/257.png)
+![Skiddo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/672.png)
 
 <details>
-<summary>Additional info about Blaziken</summary>
+<summary>Additional info about Skiddo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Blaziken back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/257.png) |
-| back_female | ![Blaziken back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/257.png) |
-| back_shiny | ![Blaziken back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/257.png) |
-| back_shiny_female | ![Blaziken back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/257.png) |
-| front_default | ![Blaziken front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png) |
-| front_female | ![Blaziken front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/257.png) |
-| front_shiny_female | ![Blaziken front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/257.png) | </details>
+| back_default | ![Skiddo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/672.png) |
+| back_shiny | ![Skiddo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/672.png) |
+| front_default | ![Skiddo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png) | </details>
