@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Doduo
+# Today's random Pokemon is... Hippowdon
 
-![Doduo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/84.png)
+![Hippowdon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/450.png)
 
 <details>
-<summary>Additional info about Doduo</summary>
+<summary>Additional info about Hippowdon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Doduo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/84.png) |
-| back_female | ![Doduo back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/84.png) |
-| back_shiny | ![Doduo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/84.png) |
-| back_shiny_female | ![Doduo back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/84.png) |
-| front_default | ![Doduo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png) |
-| front_female | ![Doduo front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/84.png) |
-| front_shiny_female | ![Doduo front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/84.png) | </details>
+| back_default | ![Hippowdon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/450.png) |
+| back_female | ![Hippowdon back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/450.png) |
+| back_shiny | ![Hippowdon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/450.png) |
+| back_shiny_female | ![Hippowdon back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/450.png) |
+| front_default | ![Hippowdon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png) |
+| front_female | ![Hippowdon front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/450.png) |
+| front_shiny_female | ![Hippowdon front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/450.png) | </details>
