@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wigglytuff
+# Today's random Pokemon is... Guzzlord
 
-![Wigglytuff shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/40.png)
+![Guzzlord shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/799.png)
 
 <details>
-<summary>Additional info about Wigglytuff</summary>
+<summary>Additional info about Guzzlord</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wigglytuff back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png) |
-| back_shiny | ![Wigglytuff back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/40.png) |
-| front_default | ![Wigglytuff front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png) | </details>
+| back_default | ![Guzzlord back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/799.png) |
+| back_shiny | ![Guzzlord back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/799.png) |
+| front_default | ![Guzzlord front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png) | </details>
