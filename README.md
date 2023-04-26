@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Guzzlord
+# Today's random Pokemon is... Tirtouga
 
-![Guzzlord shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/799.png)
+![Tirtouga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/564.png)
 
 <details>
-<summary>Additional info about Guzzlord</summary>
+<summary>Additional info about Tirtouga</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Guzzlord back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/799.png) |
-| back_shiny | ![Guzzlord back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/799.png) |
-| front_default | ![Guzzlord front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png) | </details>
+| back_default | ![Tirtouga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/564.png) |
+| back_shiny | ![Tirtouga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/564.png) |
+| front_default | ![Tirtouga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png) | </details>
