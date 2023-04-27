@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tirtouga
+# Today's random Pokemon is... Yanma
 
-![Tirtouga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/564.png)
+![Yanma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/193.png)
 
 <details>
-<summary>Additional info about Tirtouga</summary>
+<summary>Additional info about Yanma</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tirtouga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/564.png) |
-| back_shiny | ![Tirtouga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/564.png) |
-| front_default | ![Tirtouga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png) | </details>
+| back_default | ![Yanma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/193.png) |
+| back_shiny | ![Yanma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/193.png) |
+| front_default | ![Yanma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png) | </details>
