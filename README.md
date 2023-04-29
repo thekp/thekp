@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dragonair
+# Today's random Pokemon is... Swampert
 
-![Dragonair shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png)
+![Swampert shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/260.png)
 
 <details>
-<summary>Additional info about Dragonair</summary>
+<summary>Additional info about Swampert</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dragonair back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png) |
-| back_shiny | ![Dragonair back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/148.png) |
-| front_default | ![Dragonair front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png) | </details>
+| back_default | ![Swampert back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/260.png) |
+| back_shiny | ![Swampert back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/260.png) |
+| front_default | ![Swampert front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | </details>
