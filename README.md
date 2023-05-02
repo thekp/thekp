@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Sylveon
+# Today's random Pokemon is... Geodude
 
-![Sylveon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/700.png)
+![Geodude shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/74.png)
 
 <details>
-<summary>Additional info about Sylveon</summary>
+<summary>Additional info about Geodude</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Sylveon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png) | </details>
+| back_default | ![Geodude back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png) |
+| back_shiny | ![Geodude back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/74.png) |
+| front_default | ![Geodude front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png) | </details>
