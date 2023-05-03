@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Geodude
+# Today's random Pokemon is... Spoink
 
-![Geodude shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/74.png)
+![Spoink shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/325.png)
 
 <details>
-<summary>Additional info about Geodude</summary>
+<summary>Additional info about Spoink</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Geodude back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png) |
-| back_shiny | ![Geodude back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/74.png) |
-| front_default | ![Geodude front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png) | </details>
+| back_default | ![Spoink back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/325.png) |
+| back_shiny | ![Spoink back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/325.png) |
+| front_default | ![Spoink front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png) | </details>
