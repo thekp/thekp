@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spoink
+# Today's random Pokemon is... Sharpedo
 
-![Spoink shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/325.png)
+![Sharpedo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/319.png)
 
 <details>
-<summary>Additional info about Spoink</summary>
+<summary>Additional info about Sharpedo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spoink back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/325.png) |
-| back_shiny | ![Spoink back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/325.png) |
-| front_default | ![Spoink front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png) | </details>
+| back_default | ![Sharpedo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/319.png) |
+| back_shiny | ![Sharpedo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/319.png) |
+| front_default | ![Sharpedo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | </details>
