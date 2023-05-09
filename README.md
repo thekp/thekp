@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Grubbin
+# Today's random Pokemon is... Spritzee
 
-![Grubbin shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/736.png)
+![Spritzee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/682.png)
 
 <details>
-<summary>Additional info about Grubbin</summary>
+<summary>Additional info about Spritzee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Grubbin back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/736.png) |
-| back_shiny | ![Grubbin back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/736.png) |
-| front_default | ![Grubbin front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png) | </details>
+| back_default | ![Spritzee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/682.png) |
+| back_shiny | ![Spritzee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/682.png) |
+| front_default | ![Spritzee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/682.png) | </details>
