@@ -1,11 +1,12 @@
-# Today's random Pokemon is... Silvally
+# Today's random Pokemon is... Noctowl
 
-![Silvally shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/773.png)
+![Noctowl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/164.png)
 
 <details>
-<summary>Additional info about Silvally</summary>
+<summary>Additional info about Noctowl</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Silvally back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/773.png) |
-| front_default | ![Silvally front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png) | </details>
+| back_default | ![Noctowl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/164.png) |
+| back_shiny | ![Noctowl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/164.png) |
+| front_default | ![Noctowl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png) | </details>
