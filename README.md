@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sandile
+# Today's random Pokemon is... Poliwag
 
-![Sandile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/551.png)
+![Poliwag shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/60.png)
 
 <details>
-<summary>Additional info about Sandile</summary>
+<summary>Additional info about Poliwag</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sandile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/551.png) |
-| back_shiny | ![Sandile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/551.png) |
-| front_default | ![Sandile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png) | </details>
+| back_default | ![Poliwag back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/60.png) |
+| back_shiny | ![Poliwag back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/60.png) |
+| front_default | ![Poliwag front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png) | </details>
