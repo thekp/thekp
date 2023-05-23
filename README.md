@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poliwag
+# Today's random Pokemon is... Feraligatr
 
-![Poliwag shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/60.png)
+![Feraligatr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/160.png)
 
 <details>
-<summary>Additional info about Poliwag</summary>
+<summary>Additional info about Feraligatr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poliwag back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/60.png) |
-| back_shiny | ![Poliwag back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/60.png) |
-| front_default | ![Poliwag front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png) | </details>
+| back_default | ![Feraligatr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/160.png) |
+| back_shiny | ![Feraligatr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/160.png) |
+| front_default | ![Feraligatr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png) | </details>
