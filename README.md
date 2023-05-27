@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cobalion
+# Today's random Pokemon is... Carvanha
 
-![Cobalion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/638.png)
+![Carvanha shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/318.png)
 
 <details>
-<summary>Additional info about Cobalion</summary>
+<summary>Additional info about Carvanha</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cobalion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/638.png) |
-| back_shiny | ![Cobalion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/638.png) |
-| front_default | ![Cobalion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png) | </details>
+| back_default | ![Carvanha back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/318.png) |
+| back_shiny | ![Carvanha back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/318.png) |
+| front_default | ![Carvanha front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png) | </details>
