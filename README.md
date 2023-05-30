@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Xerneas
+# Today's random Pokemon is... Braixen
 
-![Xerneas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/716.png)
+![Braixen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/654.png)
 
 <details>
-<summary>Additional info about Xerneas</summary>
+<summary>Additional info about Braixen</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Xerneas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png) | </details>
+| front_default | ![Braixen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png) | </details>
