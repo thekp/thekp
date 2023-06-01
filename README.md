@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gumshoos
+# Today's random Pokemon is... Togedemaru
 
-![Gumshoos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/735.png)
+![Togedemaru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/777.png)
 
 <details>
-<summary>Additional info about Gumshoos</summary>
+<summary>Additional info about Togedemaru</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gumshoos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/735.png) |
-| back_shiny | ![Gumshoos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/735.png) |
-| front_default | ![Gumshoos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png) | </details>
+| back_default | ![Togedemaru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/777.png) |
+| back_shiny | ![Togedemaru back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/777.png) |
+| front_default | ![Togedemaru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png) | </details>
