@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Togedemaru
+# Today's random Pokemon is... Excadrill
 
-![Togedemaru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/777.png)
+![Excadrill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/530.png)
 
 <details>
-<summary>Additional info about Togedemaru</summary>
+<summary>Additional info about Excadrill</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Togedemaru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/777.png) |
-| back_shiny | ![Togedemaru back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/777.png) |
-| front_default | ![Togedemaru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png) | </details>
+| back_default | ![Excadrill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/530.png) |
+| back_shiny | ![Excadrill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/530.png) |
+| front_default | ![Excadrill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png) | </details>
