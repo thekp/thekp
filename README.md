@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Registeel
+# Today's random Pokemon is... Florges
 
-![Registeel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/379.png)
+![Florges shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/671.png)
 
 <details>
-<summary>Additional info about Registeel</summary>
+<summary>Additional info about Florges</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Registeel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/379.png) |
-| back_shiny | ![Registeel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/379.png) |
-| front_default | ![Registeel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png) | </details>
+| front_default | ![Florges front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png) | </details>
