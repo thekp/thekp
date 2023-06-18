@@ -1,14 +1,12 @@
-# Today's random Pokemon is... Wobbuffet
+# Today's random Pokemon is... Lugia
 
-![Wobbuffet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/202.png)
+![Lugia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/249.png)
 
 <details>
-<summary>Additional info about Wobbuffet</summary>
+<summary>Additional info about Lugia</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wobbuffet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/202.png) |
-| back_shiny | ![Wobbuffet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/202.png) |
-| front_default | ![Wobbuffet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png) |
-| front_female | ![Wobbuffet front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/202.png) |
-| front_shiny_female | ![Wobbuffet front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/202.png) | </details>
+| back_default | ![Lugia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/249.png) |
+| back_shiny | ![Lugia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/249.png) |
+| front_default | ![Lugia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png) | </details>
