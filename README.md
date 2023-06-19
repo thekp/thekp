@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lugia
+# Today's random Pokemon is... Cubchoo
 
-![Lugia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/249.png)
+![Cubchoo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/613.png)
 
 <details>
-<summary>Additional info about Lugia</summary>
+<summary>Additional info about Cubchoo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lugia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/249.png) |
-| back_shiny | ![Lugia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/249.png) |
-| front_default | ![Lugia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png) | </details>
+| back_default | ![Cubchoo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/613.png) |
+| back_shiny | ![Cubchoo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/613.png) |
+| front_default | ![Cubchoo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png) | </details>
