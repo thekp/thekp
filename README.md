@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cubchoo
+# Today's random Pokemon is... Tsareena
 
-![Cubchoo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/613.png)
+![Tsareena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/763.png)
 
 <details>
-<summary>Additional info about Cubchoo</summary>
+<summary>Additional info about Tsareena</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cubchoo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/613.png) |
-| back_shiny | ![Cubchoo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/613.png) |
-| front_default | ![Cubchoo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png) | </details>
+| back_default | ![Tsareena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/763.png) |
+| back_shiny | ![Tsareena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/763.png) |
+| front_default | ![Tsareena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png) | </details>
