@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Magby
+# Today's random Pokemon is... Electabuzz
 
-![Magby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/240.png)
+![Electabuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/125.png)
 
 <details>
-<summary>Additional info about Magby</summary>
+<summary>Additional info about Electabuzz</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Magby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/240.png) |
-| back_shiny | ![Magby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/240.png) |
-| front_default | ![Magby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png) | </details>
+| back_default | ![Electabuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png) |
+| back_shiny | ![Electabuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/125.png) |
+| front_default | ![Electabuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | </details>
