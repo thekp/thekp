@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electabuzz
+# Today's random Pokemon is... Gothitelle
 
-![Electabuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/125.png)
+![Gothitelle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/576.png)
 
 <details>
-<summary>Additional info about Electabuzz</summary>
+<summary>Additional info about Gothitelle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electabuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png) |
-| back_shiny | ![Electabuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/125.png) |
-| front_default | ![Electabuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | </details>
+| back_default | ![Gothitelle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/576.png) |
+| back_shiny | ![Gothitelle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/576.png) |
+| front_default | ![Gothitelle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png) | </details>
