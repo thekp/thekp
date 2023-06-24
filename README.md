@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gothitelle
+# Today's random Pokemon is... Necrozma
 
-![Gothitelle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/576.png)
+![Necrozma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/800.png)
 
 <details>
-<summary>Additional info about Gothitelle</summary>
+<summary>Additional info about Necrozma</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gothitelle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/576.png) |
-| back_shiny | ![Gothitelle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/576.png) |
-| front_default | ![Gothitelle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png) | </details>
+| back_default | ![Necrozma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/800.png) |
+| back_shiny | ![Necrozma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/800.png) |
+| front_default | ![Necrozma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png) | </details>
