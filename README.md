@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Machoke
+# Today's random Pokemon is... Dugtrio
 
-![Machoke shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/67.png)
+![Dugtrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/51.png)
 
 <details>
-<summary>Additional info about Machoke</summary>
+<summary>Additional info about Dugtrio</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Machoke back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png) |
-| back_shiny | ![Machoke back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/67.png) |
-| front_default | ![Machoke front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png) | </details>
+| back_default | ![Dugtrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png) |
+| back_shiny | ![Dugtrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/51.png) |
+| front_default | ![Dugtrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png) | </details>
