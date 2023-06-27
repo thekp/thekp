@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dugtrio
+# Today's random Pokemon is... Chingling
 
-![Dugtrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/51.png)
+![Chingling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/433.png)
 
 <details>
-<summary>Additional info about Dugtrio</summary>
+<summary>Additional info about Chingling</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dugtrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png) |
-| back_shiny | ![Dugtrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/51.png) |
-| front_default | ![Dugtrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png) | </details>
+| back_default | ![Chingling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/433.png) |
+| back_shiny | ![Chingling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/433.png) |
+| front_default | ![Chingling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png) | </details>
