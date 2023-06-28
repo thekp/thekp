@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Chingling
+# Today's random Pokemon is... Fletchling
 
-![Chingling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/433.png)
+![Fletchling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/661.png)
 
 <details>
-<summary>Additional info about Chingling</summary>
+<summary>Additional info about Fletchling</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chingling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/433.png) |
-| back_shiny | ![Chingling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/433.png) |
-| front_default | ![Chingling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png) | </details>
+| front_default | ![Fletchling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png) | </details>
