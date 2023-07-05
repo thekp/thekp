@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Stakataka
+# Today's random Pokemon is... Ralts
 
-![Stakataka shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/805.png)
+![Ralts shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/280.png)
 
 <details>
-<summary>Additional info about Stakataka</summary>
+<summary>Additional info about Ralts</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Stakataka back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/805.png) |
-| back_shiny | ![Stakataka back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/805.png) |
-| front_default | ![Stakataka front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png) | </details>
+| back_default | ![Ralts back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/280.png) |
+| back_shiny | ![Ralts back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/280.png) |
+| front_default | ![Ralts front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png) | </details>
