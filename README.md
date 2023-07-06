@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ralts
+# Today's random Pokemon is... Articuno
 
-![Ralts shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/280.png)
+![Articuno shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/144.png)
 
 <details>
-<summary>Additional info about Ralts</summary>
+<summary>Additional info about Articuno</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ralts back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/280.png) |
-| back_shiny | ![Ralts back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/280.png) |
-| front_default | ![Ralts front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png) | </details>
+| back_default | ![Articuno back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png) |
+| back_shiny | ![Articuno back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/144.png) |
+| front_default | ![Articuno front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png) | </details>
