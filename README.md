@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Aegislash-shield
+# Today's random Pokemon is... Solosis
 
-![Aegislash-shield shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/681.png)
+![Solosis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/577.png)
 
 <details>
-<summary>Additional info about Aegislash-shield</summary>
+<summary>Additional info about Solosis</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Aegislash-shield front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png) | </details>
+| back_default | ![Solosis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/577.png) |
+| back_shiny | ![Solosis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/577.png) |
+| front_default | ![Solosis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png) | </details>
