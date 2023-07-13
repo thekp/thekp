@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Solosis
+# Today's random Pokemon is... Heatmor
 
-![Solosis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/577.png)
+![Heatmor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/631.png)
 
 <details>
-<summary>Additional info about Solosis</summary>
+<summary>Additional info about Heatmor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Solosis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/577.png) |
-| back_shiny | ![Solosis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/577.png) |
-| front_default | ![Solosis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png) | </details>
+| back_default | ![Heatmor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/631.png) |
+| back_shiny | ![Heatmor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/631.png) |
+| front_default | ![Heatmor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png) | </details>
