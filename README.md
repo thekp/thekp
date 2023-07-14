@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Heatmor
+# Today's random Pokemon is... Cryogonal
 
-![Heatmor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/631.png)
+![Cryogonal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/615.png)
 
 <details>
-<summary>Additional info about Heatmor</summary>
+<summary>Additional info about Cryogonal</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Heatmor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/631.png) |
-| back_shiny | ![Heatmor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/631.png) |
-| front_default | ![Heatmor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png) | </details>
+| back_default | ![Cryogonal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/615.png) |
+| back_shiny | ![Cryogonal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/615.png) |
+| front_default | ![Cryogonal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | </details>
