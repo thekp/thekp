@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Cryogonal
+# Today's random Pokemon is... Diancie
 
-![Cryogonal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/615.png)
+![Diancie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/719.png)
 
 <details>
-<summary>Additional info about Cryogonal</summary>
+<summary>Additional info about Diancie</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cryogonal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/615.png) |
-| back_shiny | ![Cryogonal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/615.png) |
-| front_default | ![Cryogonal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | </details>
+| front_default | ![Diancie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png) | </details>
