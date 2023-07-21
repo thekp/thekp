@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pumpkaboo-average
+# Today's random Pokemon is... Jirachi
 
-![Pumpkaboo-average shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/710.png)
+![Jirachi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/385.png)
 
 <details>
-<summary>Additional info about Pumpkaboo-average</summary>
+<summary>Additional info about Jirachi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pumpkaboo-average back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/710.png) |
-| back_shiny | ![Pumpkaboo-average back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/710.png) |
-| front_default | ![Pumpkaboo-average front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710.png) | </details>
+| back_default | ![Jirachi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/385.png) |
+| back_shiny | ![Jirachi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/385.png) |
+| front_default | ![Jirachi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png) | </details>
