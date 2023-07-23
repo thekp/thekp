@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gothitelle
+# Today's random Pokemon is... Blastoise
 
-![Gothitelle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/576.png)
+![Blastoise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/9.png)
 
 <details>
-<summary>Additional info about Gothitelle</summary>
+<summary>Additional info about Blastoise</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gothitelle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/576.png) |
-| back_shiny | ![Gothitelle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/576.png) |
-| front_default | ![Gothitelle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png) | </details>
+| back_default | ![Blastoise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png) |
+| back_shiny | ![Blastoise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/9.png) |
+| front_default | ![Blastoise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | </details>
