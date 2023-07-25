@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Minun
+# Today's random Pokemon is... Lapras
 
-![Minun shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/312.png)
+![Lapras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png)
 
 <details>
-<summary>Additional info about Minun</summary>
+<summary>Additional info about Lapras</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Minun back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/312.png) |
-| back_shiny | ![Minun back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/312.png) |
-| front_default | ![Minun front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png) | </details>
+| back_default | ![Lapras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png) |
+| back_shiny | ![Lapras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png) |
+| front_default | ![Lapras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png) | </details>
