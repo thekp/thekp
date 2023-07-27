@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Boldore
+# Today's random Pokemon is... Duosion
 
-![Boldore shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/525.png)
+![Duosion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/578.png)
 
 <details>
-<summary>Additional info about Boldore</summary>
+<summary>Additional info about Duosion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Boldore back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/525.png) |
-| back_shiny | ![Boldore back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/525.png) |
-| front_default | ![Boldore front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png) | </details>
+| back_default | ![Duosion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/578.png) |
+| back_shiny | ![Duosion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/578.png) |
+| front_default | ![Duosion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png) | </details>
