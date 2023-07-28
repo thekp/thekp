@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Duosion
+# Today's random Pokemon is... Vespiquen
 
-![Duosion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/578.png)
+![Vespiquen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/416.png)
 
 <details>
-<summary>Additional info about Duosion</summary>
+<summary>Additional info about Vespiquen</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Duosion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/578.png) |
-| back_shiny | ![Duosion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/578.png) |
-| front_default | ![Duosion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png) | </details>
+| back_default | ![Vespiquen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/416.png) |
+| back_shiny | ![Vespiquen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/416.png) |
+| front_default | ![Vespiquen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png) | </details>
