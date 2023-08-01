@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cacnea
+# Today's random Pokemon is... Seedot
 
-![Cacnea shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/331.png)
+![Seedot shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/273.png)
 
 <details>
-<summary>Additional info about Cacnea</summary>
+<summary>Additional info about Seedot</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cacnea back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/331.png) |
-| back_shiny | ![Cacnea back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/331.png) |
-| front_default | ![Cacnea front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png) | </details>
+| back_default | ![Seedot back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/273.png) |
+| back_shiny | ![Seedot back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/273.png) |
+| front_default | ![Seedot front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png) | </details>
