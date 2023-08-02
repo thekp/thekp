@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Seedot
+# Today's random Pokemon is... Petilil
 
-![Seedot shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/273.png)
+![Petilil shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/548.png)
 
 <details>
-<summary>Additional info about Seedot</summary>
+<summary>Additional info about Petilil</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Seedot back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/273.png) |
-| back_shiny | ![Seedot back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/273.png) |
-| front_default | ![Seedot front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png) | </details>
+| back_default | ![Petilil back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/548.png) |
+| back_shiny | ![Petilil back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/548.png) |
+| front_default | ![Petilil front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png) | </details>
