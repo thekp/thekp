@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Petilil
+# Today's random Pokemon is... Psyduck
 
-![Petilil shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/548.png)
+![Psyduck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png)
 
 <details>
-<summary>Additional info about Petilil</summary>
+<summary>Additional info about Psyduck</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Petilil back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/548.png) |
-| back_shiny | ![Petilil back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/548.png) |
-| front_default | ![Petilil front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png) | </details>
+| back_default | ![Psyduck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png) |
+| back_shiny | ![Psyduck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/54.png) |
+| front_default | ![Psyduck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png) | </details>
