@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pheromosa
+# Today's random Pokemon is... Mawile
 
-![Pheromosa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/795.png)
+![Mawile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/303.png)
 
 <details>
-<summary>Additional info about Pheromosa</summary>
+<summary>Additional info about Mawile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pheromosa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/795.png) |
-| back_shiny | ![Pheromosa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/795.png) |
-| front_default | ![Pheromosa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png) | </details>
+| back_default | ![Mawile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/303.png) |
+| back_shiny | ![Mawile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/303.png) |
+| front_default | ![Mawile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png) | </details>
