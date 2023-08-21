@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Kricketune
+# Today's random Pokemon is... Floatzel
 
-![Kricketune shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/402.png)
+![Floatzel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/419.png)
 
 <details>
-<summary>Additional info about Kricketune</summary>
+<summary>Additional info about Floatzel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kricketune back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/402.png) |
-| back_female | ![Kricketune back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/402.png) |
-| back_shiny | ![Kricketune back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/402.png) |
-| back_shiny_female | ![Kricketune back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/402.png) |
-| front_default | ![Kricketune front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png) |
-| front_female | ![Kricketune front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/402.png) |
-| front_shiny_female | ![Kricketune front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/402.png) | </details>
+| back_default | ![Floatzel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/419.png) |
+| back_female | ![Floatzel back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/419.png) |
+| back_shiny | ![Floatzel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/419.png) |
+| back_shiny_female | ![Floatzel back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/419.png) |
+| front_default | ![Floatzel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png) |
+| front_female | ![Floatzel front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/419.png) |
+| front_shiny_female | ![Floatzel front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/419.png) | </details>
