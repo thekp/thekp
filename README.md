@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Marowak
+# Today's random Pokemon is... Bulbasaur
 
-![Marowak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/105.png)
+![Bulbasaur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png)
 
 <details>
-<summary>Additional info about Marowak</summary>
+<summary>Additional info about Bulbasaur</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Marowak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png) |
-| back_shiny | ![Marowak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/105.png) |
-| front_default | ![Marowak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png) | </details>
+| back_default | ![Bulbasaur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png) |
+| back_shiny | ![Bulbasaur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/1.png) |
+| front_default | ![Bulbasaur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png) | </details>
