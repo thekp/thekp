@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hoothoot
+# Today's random Pokemon is... Granbull
 
-![Hoothoot shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/163.png)
+![Granbull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/210.png)
 
 <details>
-<summary>Additional info about Hoothoot</summary>
+<summary>Additional info about Granbull</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hoothoot back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/163.png) |
-| back_shiny | ![Hoothoot back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/163.png) |
-| front_default | ![Hoothoot front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png) | </details>
+| back_default | ![Granbull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/210.png) |
+| back_shiny | ![Granbull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/210.png) |
+| front_default | ![Granbull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png) | </details>
