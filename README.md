@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Granbull
+# Today's random Pokemon is... Herdier
 
-![Granbull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/210.png)
+![Herdier shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/507.png)
 
 <details>
-<summary>Additional info about Granbull</summary>
+<summary>Additional info about Herdier</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Granbull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/210.png) |
-| back_shiny | ![Granbull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/210.png) |
-| front_default | ![Granbull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png) | </details>
+| back_default | ![Herdier back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/507.png) |
+| back_shiny | ![Herdier back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/507.png) |
+| front_default | ![Herdier front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png) | </details>
