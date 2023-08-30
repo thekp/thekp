@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Herdier
+# Today's random Pokemon is... Eelektrik
 
-![Herdier shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/507.png)
+![Eelektrik shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/603.png)
 
 <details>
-<summary>Additional info about Herdier</summary>
+<summary>Additional info about Eelektrik</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Herdier back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/507.png) |
-| back_shiny | ![Herdier back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/507.png) |
-| front_default | ![Herdier front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png) | </details>
+| back_default | ![Eelektrik back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/603.png) |
+| back_shiny | ![Eelektrik back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/603.png) |
+| front_default | ![Eelektrik front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png) | </details>
