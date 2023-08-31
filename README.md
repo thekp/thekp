@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Eelektrik
+# Today's random Pokemon is... Glaceon
 
-![Eelektrik shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/603.png)
+![Glaceon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/471.png)
 
 <details>
-<summary>Additional info about Eelektrik</summary>
+<summary>Additional info about Glaceon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eelektrik back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/603.png) |
-| back_shiny | ![Eelektrik back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/603.png) |
-| front_default | ![Eelektrik front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png) | </details>
+| back_default | ![Glaceon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/471.png) |
+| back_shiny | ![Glaceon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/471.png) |
+| front_default | ![Glaceon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png) | </details>
