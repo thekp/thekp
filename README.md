@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Glaceon
+# Today's random Pokemon is... Skorupi
 
-![Glaceon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/471.png)
+![Skorupi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/451.png)
 
 <details>
-<summary>Additional info about Glaceon</summary>
+<summary>Additional info about Skorupi</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Glaceon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/471.png) |
-| back_shiny | ![Glaceon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/471.png) |
-| front_default | ![Glaceon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png) | </details>
+| back_default | ![Skorupi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/451.png) |
+| back_shiny | ![Skorupi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/451.png) |
+| front_default | ![Skorupi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png) | </details>
