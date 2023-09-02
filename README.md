@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Skorupi
+# Today's random Pokemon is... Rayquaza
 
-![Skorupi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/451.png)
+![Rayquaza shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/384.png)
 
 <details>
-<summary>Additional info about Skorupi</summary>
+<summary>Additional info about Rayquaza</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Skorupi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/451.png) |
-| back_shiny | ![Skorupi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/451.png) |
-| front_default | ![Skorupi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png) | </details>
+| back_default | ![Rayquaza back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/384.png) |
+| back_shiny | ![Rayquaza back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/384.png) |
+| front_default | ![Rayquaza front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png) | </details>
