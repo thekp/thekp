@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Ludicolo
+# Today's random Pokemon is... Leavanny
 
-![Ludicolo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/272.png)
+![Leavanny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
 
 <details>
-<summary>Additional info about Ludicolo</summary>
+<summary>Additional info about Leavanny</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ludicolo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/272.png) |
-| back_female | ![Ludicolo back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/272.png) |
-| back_shiny | ![Ludicolo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/272.png) |
-| back_shiny_female | ![Ludicolo back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/272.png) |
-| front_default | ![Ludicolo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png) |
-| front_female | ![Ludicolo front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/272.png) |
-| front_shiny_female | ![Ludicolo front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/272.png) | </details>
+| back_default | ![Leavanny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/542.png) |
+| back_shiny | ![Leavanny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/542.png) |
+| front_default | ![Leavanny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png) | </details>
