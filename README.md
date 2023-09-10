@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Dodrio
+# Today's random Pokemon is... Minun
 
-![Dodrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/85.png)
+![Minun shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/312.png)
 
 <details>
-<summary>Additional info about Dodrio</summary>
+<summary>Additional info about Minun</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dodrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/85.png) |
-| back_female | ![Dodrio back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/85.png) |
-| back_shiny | ![Dodrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/85.png) |
-| back_shiny_female | ![Dodrio back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/85.png) |
-| front_default | ![Dodrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png) |
-| front_female | ![Dodrio front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/85.png) |
-| front_shiny_female | ![Dodrio front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/85.png) | </details>
+| back_default | ![Minun back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/312.png) |
+| back_shiny | ![Minun back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/312.png) |
+| front_default | ![Minun front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png) | </details>
