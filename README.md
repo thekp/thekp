@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Torterra
+# Today's random Pokemon is... Zekrom
 
-![Torterra shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/389.png)
+![Zekrom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/644.png)
 
 <details>
-<summary>Additional info about Torterra</summary>
+<summary>Additional info about Zekrom</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Torterra back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/389.png) |
-| back_shiny | ![Torterra back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/389.png) |
-| front_default | ![Torterra front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png) | </details>
+| back_default | ![Zekrom back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/644.png) |
+| back_shiny | ![Zekrom back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/644.png) |
+| front_default | ![Zekrom front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png) | </details>
