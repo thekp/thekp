@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zekrom
+# Today's random Pokemon is... Fomantis
 
-![Zekrom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/644.png)
+![Fomantis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/753.png)
 
 <details>
-<summary>Additional info about Zekrom</summary>
+<summary>Additional info about Fomantis</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zekrom back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/644.png) |
-| back_shiny | ![Zekrom back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/644.png) |
-| front_default | ![Zekrom front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png) | </details>
+| back_default | ![Fomantis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/753.png) |
+| back_shiny | ![Fomantis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/753.png) |
+| front_default | ![Fomantis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png) | </details>
