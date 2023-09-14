@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Fomantis
+# Today's random Pokemon is... Porygon-z
 
-![Fomantis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/753.png)
+![Porygon-z shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/474.png)
 
 <details>
-<summary>Additional info about Fomantis</summary>
+<summary>Additional info about Porygon-z</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Fomantis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/753.png) |
-| back_shiny | ![Fomantis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/753.png) |
-| front_default | ![Fomantis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png) | </details>
+| back_default | ![Porygon-z back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/474.png) |
+| back_shiny | ![Porygon-z back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/474.png) |
+| front_default | ![Porygon-z front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png) | </details>
