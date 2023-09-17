@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Conkeldurr
+# Today's random Pokemon is... Skitty
 
-![Conkeldurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/534.png)
+![Skitty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/300.png)
 
 <details>
-<summary>Additional info about Conkeldurr</summary>
+<summary>Additional info about Skitty</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Conkeldurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/534.png) |
-| back_shiny | ![Conkeldurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/534.png) |
-| front_default | ![Conkeldurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png) | </details>
+| back_default | ![Skitty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/300.png) |
+| back_shiny | ![Skitty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/300.png) |
+| front_default | ![Skitty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png) | </details>
