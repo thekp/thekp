@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Groudon
+# Today's random Pokemon is... Mankey
 
-![Groudon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/383.png)
+![Mankey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/56.png)
 
 <details>
-<summary>Additional info about Groudon</summary>
+<summary>Additional info about Mankey</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Groudon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/383.png) |
-| back_shiny | ![Groudon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/383.png) |
-| front_default | ![Groudon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png) | </details>
+| back_default | ![Mankey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png) |
+| back_shiny | ![Mankey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/56.png) |
+| front_default | ![Mankey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png) | </details>
