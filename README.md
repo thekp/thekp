@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Darmanitan-standard
+# Today's random Pokemon is... Gothitelle
 
-![Darmanitan-standard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/555.png)
+![Gothitelle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/576.png)
 
 <details>
-<summary>Additional info about Darmanitan-standard</summary>
+<summary>Additional info about Gothitelle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Darmanitan-standard back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/555.png) |
-| back_shiny | ![Darmanitan-standard back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/555.png) |
-| front_default | ![Darmanitan-standard front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png) | </details>
+| back_default | ![Gothitelle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/576.png) |
+| back_shiny | ![Gothitelle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/576.png) |
+| front_default | ![Gothitelle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png) | </details>
