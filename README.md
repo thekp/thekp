@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gothitelle
+# Today's random Pokemon is... Bewear
 
-![Gothitelle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/576.png)
+![Bewear shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/760.png)
 
 <details>
-<summary>Additional info about Gothitelle</summary>
+<summary>Additional info about Bewear</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gothitelle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/576.png) |
-| back_shiny | ![Gothitelle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/576.png) |
-| front_default | ![Gothitelle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png) | </details>
+| back_default | ![Bewear back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/760.png) |
+| back_shiny | ![Bewear back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/760.png) |
+| front_default | ![Bewear front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png) | </details>
