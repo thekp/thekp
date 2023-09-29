@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bewear
+# Today's random Pokemon is... Thundurus-incarnate
 
-![Bewear shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/760.png)
+![Thundurus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/642.png)
 
 <details>
-<summary>Additional info about Bewear</summary>
+<summary>Additional info about Thundurus-incarnate</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bewear back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/760.png) |
-| back_shiny | ![Bewear back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/760.png) |
-| front_default | ![Bewear front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png) | </details>
+| back_default | ![Thundurus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png) |
+| back_shiny | ![Thundurus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png) |
+| front_default | ![Thundurus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) | </details>
