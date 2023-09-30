@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Thundurus-incarnate
+# Today's random Pokemon is... Volcarona
 
-![Thundurus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/642.png)
+![Volcarona shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/637.png)
 
 <details>
-<summary>Additional info about Thundurus-incarnate</summary>
+<summary>Additional info about Volcarona</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Thundurus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png) |
-| back_shiny | ![Thundurus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png) |
-| front_default | ![Thundurus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png) | </details>
+| back_default | ![Volcarona back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/637.png) |
+| back_shiny | ![Volcarona back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/637.png) |
+| front_default | ![Volcarona front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png) | </details>
