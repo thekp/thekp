@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Volcarona
+# Today's random Pokemon is... Kabutops
 
-![Volcarona shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/637.png)
+![Kabutops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/141.png)
 
 <details>
-<summary>Additional info about Volcarona</summary>
+<summary>Additional info about Kabutops</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Volcarona back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/637.png) |
-| back_shiny | ![Volcarona back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/637.png) |
-| front_default | ![Volcarona front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png) | </details>
+| back_default | ![Kabutops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png) |
+| back_shiny | ![Kabutops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/141.png) |
+| front_default | ![Kabutops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png) | </details>
