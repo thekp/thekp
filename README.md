@@ -1,12 +1,14 @@
-# Today's random Pokemon is... Bunnelby
+# Today's random Pokemon is... Staraptor
 
-![Bunnelby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/659.png)
+![Staraptor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/398.png)
 
 <details>
-<summary>Additional info about Bunnelby</summary>
+<summary>Additional info about Staraptor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bunnelby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/659.png) |
-| back_shiny | ![Bunnelby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/659.png) |
-| front_default | ![Bunnelby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png) | </details>
+| back_default | ![Staraptor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/398.png) |
+| back_shiny | ![Staraptor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/398.png) |
+| front_default | ![Staraptor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png) |
+| front_female | ![Staraptor front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/398.png) |
+| front_shiny_female | ![Staraptor front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/398.png) | </details>
