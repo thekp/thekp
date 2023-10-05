@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mantyke
+# Today's random Pokemon is... Cranidos
 
-![Mantyke shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/458.png)
+![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
 
 <details>
-<summary>Additional info about Mantyke</summary>
+<summary>Additional info about Cranidos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mantyke back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/458.png) |
-| back_shiny | ![Mantyke back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/458.png) |
-| front_default | ![Mantyke front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png) | </details>
+| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
+| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
+| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
