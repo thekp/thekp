@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Fomantis
+# Today's random Pokemon is... Hitmonchan
 
-![Fomantis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/753.png)
+![Hitmonchan shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/107.png)
 
 <details>
-<summary>Additional info about Fomantis</summary>
+<summary>Additional info about Hitmonchan</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Fomantis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/753.png) |
-| back_shiny | ![Fomantis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/753.png) |
-| front_default | ![Fomantis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png) | </details>
+| back_default | ![Hitmonchan back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png) |
+| back_shiny | ![Hitmonchan back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/107.png) |
+| front_default | ![Hitmonchan front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png) | </details>
