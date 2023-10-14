@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Moltres
+# Today's random Pokemon is... Taillow
 
-![Moltres shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/146.png)
+![Taillow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/276.png)
 
 <details>
-<summary>Additional info about Moltres</summary>
+<summary>Additional info about Taillow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Moltres back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png) |
-| back_shiny | ![Moltres back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/146.png) |
-| front_default | ![Moltres front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png) | </details>
+| back_default | ![Taillow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/276.png) |
+| back_shiny | ![Taillow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/276.png) |
+| front_default | ![Taillow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png) | </details>
