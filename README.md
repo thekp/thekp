@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Snubbull
+# Today's random Pokemon is... Lombre
 
-![Snubbull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/209.png)
+![Lombre shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/271.png)
 
 <details>
-<summary>Additional info about Snubbull</summary>
+<summary>Additional info about Lombre</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Snubbull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/209.png) |
-| back_shiny | ![Snubbull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/209.png) |
-| front_default | ![Snubbull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png) | </details>
+| back_default | ![Lombre back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/271.png) |
+| back_shiny | ![Lombre back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/271.png) |
+| front_default | ![Lombre front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png) | </details>
