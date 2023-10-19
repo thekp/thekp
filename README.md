@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Marshtomp
+# Today's random Pokemon is... Mew
 
-![Marshtomp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/259.png)
+![Mew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/151.png)
 
 <details>
-<summary>Additional info about Marshtomp</summary>
+<summary>Additional info about Mew</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Marshtomp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/259.png) |
-| back_shiny | ![Marshtomp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/259.png) |
-| front_default | ![Marshtomp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png) | </details>
+| back_default | ![Mew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png) |
+| back_shiny | ![Mew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/151.png) |
+| front_default | ![Mew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png) | </details>
