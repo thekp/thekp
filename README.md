@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Ledyba
+# Today's random Pokemon is... Nidorino
 
-![Ledyba shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/165.png)
+![Nidorino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/33.png)
 
 <details>
-<summary>Additional info about Ledyba</summary>
+<summary>Additional info about Nidorino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ledyba back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/165.png) |
-| back_female | ![Ledyba back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/165.png) |
-| back_shiny | ![Ledyba back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/165.png) |
-| back_shiny_female | ![Ledyba back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/165.png) |
-| front_default | ![Ledyba front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png) |
-| front_female | ![Ledyba front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/165.png) |
-| front_shiny_female | ![Ledyba front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/165.png) | </details>
+| back_default | ![Nidorino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png) |
+| back_shiny | ![Nidorino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/33.png) |
+| front_default | ![Nidorino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png) | </details>
