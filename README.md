@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mankey
+# Today's random Pokemon is... Wormadam-plant
 
-![Mankey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/56.png)
+![Wormadam-plant shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/413.png)
 
 <details>
-<summary>Additional info about Mankey</summary>
+<summary>Additional info about Wormadam-plant</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mankey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png) |
-| back_shiny | ![Mankey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/56.png) |
-| front_default | ![Mankey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png) | </details>
+| back_default | ![Wormadam-plant back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/413.png) |
+| back_shiny | ![Wormadam-plant back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/413.png) |
+| front_default | ![Wormadam-plant front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png) | </details>
