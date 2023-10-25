@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wormadam-plant
+# Today's random Pokemon is... Vanillite
 
-![Wormadam-plant shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/413.png)
+![Vanillite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/582.png)
 
 <details>
-<summary>Additional info about Wormadam-plant</summary>
+<summary>Additional info about Vanillite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wormadam-plant back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/413.png) |
-| back_shiny | ![Wormadam-plant back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/413.png) |
-| front_default | ![Wormadam-plant front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png) | </details>
+| back_default | ![Vanillite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/582.png) |
+| back_shiny | ![Vanillite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/582.png) |
+| front_default | ![Vanillite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png) | </details>
