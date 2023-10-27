@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Slaking
+# Today's random Pokemon is... Toucannon
 
-![Slaking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/289.png)
+![Toucannon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/733.png)
 
 <details>
-<summary>Additional info about Slaking</summary>
+<summary>Additional info about Toucannon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slaking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/289.png) |
-| back_shiny | ![Slaking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/289.png) |
-| front_default | ![Slaking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png) | </details>
+| back_default | ![Toucannon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/733.png) |
+| back_shiny | ![Toucannon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/733.png) |
+| front_default | ![Toucannon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png) | </details>
