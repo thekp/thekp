@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Makuhita
+# Today's random Pokemon is... Cutiefly
 
-![Makuhita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/296.png)
+![Cutiefly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/742.png)
 
 <details>
-<summary>Additional info about Makuhita</summary>
+<summary>Additional info about Cutiefly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Makuhita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/296.png) |
-| back_shiny | ![Makuhita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/296.png) |
-| front_default | ![Makuhita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png) | </details>
+| back_default | ![Cutiefly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/742.png) |
+| back_shiny | ![Cutiefly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/742.png) |
+| front_default | ![Cutiefly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png) | </details>
