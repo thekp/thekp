@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cutiefly
+# Today's random Pokemon is... Sandile
 
-![Cutiefly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/742.png)
+![Sandile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/551.png)
 
 <details>
-<summary>Additional info about Cutiefly</summary>
+<summary>Additional info about Sandile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cutiefly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/742.png) |
-| back_shiny | ![Cutiefly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/742.png) |
-| front_default | ![Cutiefly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png) | </details>
+| back_default | ![Sandile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/551.png) |
+| back_shiny | ![Sandile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/551.png) |
+| front_default | ![Sandile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png) | </details>
