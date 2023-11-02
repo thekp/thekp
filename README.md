@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elgyem
+# Today's random Pokemon is... Anorith
 
-![Elgyem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/605.png)
+![Anorith shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/347.png)
 
 <details>
-<summary>Additional info about Elgyem</summary>
+<summary>Additional info about Anorith</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Elgyem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/605.png) |
-| back_shiny | ![Elgyem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/605.png) |
-| front_default | ![Elgyem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png) | </details>
+| back_default | ![Anorith back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/347.png) |
+| back_shiny | ![Anorith back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/347.png) |
+| front_default | ![Anorith front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png) | </details>
