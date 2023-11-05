@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Toucannon
+# Today's random Pokemon is... Mudkip
 
-![Toucannon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/733.png)
+![Mudkip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/258.png)
 
 <details>
-<summary>Additional info about Toucannon</summary>
+<summary>Additional info about Mudkip</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Toucannon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/733.png) |
-| back_shiny | ![Toucannon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/733.png) |
-| front_default | ![Toucannon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png) | </details>
+| back_default | ![Mudkip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/258.png) |
+| back_shiny | ![Mudkip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/258.png) |
+| front_default | ![Mudkip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png) | </details>
