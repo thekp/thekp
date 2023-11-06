@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mudkip
+# Today's random Pokemon is... Cherrim
 
-![Mudkip shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/258.png)
+![Cherrim shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/421.png)
 
 <details>
-<summary>Additional info about Mudkip</summary>
+<summary>Additional info about Cherrim</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mudkip back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/258.png) |
-| back_shiny | ![Mudkip back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/258.png) |
-| front_default | ![Mudkip front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png) | </details>
+| back_default | ![Cherrim back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/421.png) |
+| back_shiny | ![Cherrim back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/421.png) |
+| front_default | ![Cherrim front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png) | </details>
