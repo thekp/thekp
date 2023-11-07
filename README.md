@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cherrim
+# Today's random Pokemon is... Cubone
 
-![Cherrim shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/421.png)
+![Cubone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/104.png)
 
 <details>
-<summary>Additional info about Cherrim</summary>
+<summary>Additional info about Cubone</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cherrim back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/421.png) |
-| back_shiny | ![Cherrim back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/421.png) |
-| front_default | ![Cherrim front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png) | </details>
+| back_default | ![Cubone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png) |
+| back_shiny | ![Cubone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/104.png) |
+| front_default | ![Cubone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png) | </details>
