@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mr-mime
+# Today's random Pokemon is... Palossand
 
-![Mr-mime shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/122.png)
+![Palossand shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/770.png)
 
 <details>
-<summary>Additional info about Mr-mime</summary>
+<summary>Additional info about Palossand</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mr-mime back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png) |
-| back_shiny | ![Mr-mime back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/122.png) |
-| front_default | ![Mr-mime front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png) | </details>
+| back_default | ![Palossand back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/770.png) |
+| back_shiny | ![Palossand back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/770.png) |
+| front_default | ![Palossand front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png) | </details>
