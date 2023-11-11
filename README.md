@@ -1,12 +1,14 @@
-# Today's random Pokemon is... Palossand
+# Today's random Pokemon is... Wobbuffet
 
-![Palossand shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/770.png)
+![Wobbuffet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/202.png)
 
 <details>
-<summary>Additional info about Palossand</summary>
+<summary>Additional info about Wobbuffet</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Palossand back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/770.png) |
-| back_shiny | ![Palossand back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/770.png) |
-| front_default | ![Palossand front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png) | </details>
+| back_default | ![Wobbuffet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/202.png) |
+| back_shiny | ![Wobbuffet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/202.png) |
+| front_default | ![Wobbuffet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png) |
+| front_female | ![Wobbuffet front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/202.png) |
+| front_shiny_female | ![Wobbuffet front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/202.png) | </details>
