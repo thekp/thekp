@@ -1,14 +1,12 @@
-# Today's random Pokemon is... Wobbuffet
+# Today's random Pokemon is... Ho-oh
 
-![Wobbuffet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/202.png)
+![Ho-oh shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/250.png)
 
 <details>
-<summary>Additional info about Wobbuffet</summary>
+<summary>Additional info about Ho-oh</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wobbuffet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/202.png) |
-| back_shiny | ![Wobbuffet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/202.png) |
-| front_default | ![Wobbuffet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png) |
-| front_female | ![Wobbuffet front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/202.png) |
-| front_shiny_female | ![Wobbuffet front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/202.png) | </details>
+| back_default | ![Ho-oh back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/250.png) |
+| back_shiny | ![Ho-oh back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/250.png) |
+| front_default | ![Ho-oh front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png) | </details>
