@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ho-oh
+# Today's random Pokemon is... Lunatone
 
-![Ho-oh shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/250.png)
+![Lunatone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/337.png)
 
 <details>
-<summary>Additional info about Ho-oh</summary>
+<summary>Additional info about Lunatone</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ho-oh back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/250.png) |
-| back_shiny | ![Ho-oh back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/250.png) |
-| front_default | ![Ho-oh front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png) | </details>
+| back_default | ![Lunatone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/337.png) |
+| back_shiny | ![Lunatone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/337.png) |
+| front_default | ![Lunatone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png) | </details>
