@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Skitty
+# Today's random Pokemon is... Seel
 
-![Skitty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/300.png)
+![Seel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/86.png)
 
 <details>
-<summary>Additional info about Skitty</summary>
+<summary>Additional info about Seel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Skitty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/300.png) |
-| back_shiny | ![Skitty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/300.png) |
-| front_default | ![Skitty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png) | </details>
+| back_default | ![Seel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/86.png) |
+| back_shiny | ![Seel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/86.png) |
+| front_default | ![Seel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png) | </details>
