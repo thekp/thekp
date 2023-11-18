@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Timburr
+# Today's random Pokemon is... Staryu
 
-![Timburr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/532.png)
+![Staryu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/120.png)
 
 <details>
-<summary>Additional info about Timburr</summary>
+<summary>Additional info about Staryu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Timburr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/532.png) |
-| back_shiny | ![Timburr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/532.png) |
-| front_default | ![Timburr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png) | </details>
+| back_default | ![Staryu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png) |
+| back_shiny | ![Staryu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/120.png) |
+| front_default | ![Staryu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png) | </details>
