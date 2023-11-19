@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Staryu
+# Today's random Pokemon is... Quilladin
 
-![Staryu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/120.png)
+![Quilladin shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/651.png)
 
 <details>
-<summary>Additional info about Staryu</summary>
+<summary>Additional info about Quilladin</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Staryu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png) |
-| back_shiny | ![Staryu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/120.png) |
-| front_default | ![Staryu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png) | </details>
+| back_default | ![Quilladin back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/651.png) |
+| back_shiny | ![Quilladin back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/651.png) |
+| front_default | ![Quilladin front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png) | </details>
