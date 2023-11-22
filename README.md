@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Slakoth
+# Today's random Pokemon is... Honedge
 
-![Slakoth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/287.png)
+![Honedge shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/679.png)
 
 <details>
-<summary>Additional info about Slakoth</summary>
+<summary>Additional info about Honedge</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slakoth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/287.png) |
-| back_shiny | ![Slakoth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/287.png) |
-| front_default | ![Slakoth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png) | </details>
+| front_default | ![Honedge front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png) | </details>
