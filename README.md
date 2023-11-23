@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Honedge
+# Today's random Pokemon is... Charjabug
 
-![Honedge shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/679.png)
+![Charjabug shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/737.png)
 
 <details>
-<summary>Additional info about Honedge</summary>
+<summary>Additional info about Charjabug</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Honedge front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png) | </details>
+| back_default | ![Charjabug back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/737.png) |
+| back_shiny | ![Charjabug back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/737.png) |
+| front_default | ![Charjabug front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png) | </details>
