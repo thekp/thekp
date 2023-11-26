@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Aggron
+# Today's random Pokemon is... Omanyte
 
-![Aggron shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/306.png)
+![Omanyte shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/138.png)
 
 <details>
-<summary>Additional info about Aggron</summary>
+<summary>Additional info about Omanyte</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Aggron back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/306.png) |
-| back_shiny | ![Aggron back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/306.png) |
-| front_default | ![Aggron front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png) | </details>
+| back_default | ![Omanyte back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png) |
+| back_shiny | ![Omanyte back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/138.png) |
+| front_default | ![Omanyte front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png) | </details>
