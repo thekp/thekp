@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Anorith
+# Today's random Pokemon is... Kommo-o
 
-![Anorith shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/347.png)
+![Kommo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/784.png)
 
 <details>
-<summary>Additional info about Anorith</summary>
+<summary>Additional info about Kommo-o</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Anorith back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/347.png) |
-| back_shiny | ![Anorith back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/347.png) |
-| front_default | ![Anorith front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png) | </details>
+| back_default | ![Kommo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/784.png) |
+| back_shiny | ![Kommo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/784.png) |
+| front_default | ![Kommo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png) | </details>
