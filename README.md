@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Drifloon
+# Today's random Pokemon is... Togedemaru
 
-![Drifloon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/425.png)
+![Togedemaru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/777.png)
 
 <details>
-<summary>Additional info about Drifloon</summary>
+<summary>Additional info about Togedemaru</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Drifloon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/425.png) |
-| back_shiny | ![Drifloon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/425.png) |
-| front_default | ![Drifloon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png) | </details>
+| back_default | ![Togedemaru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/777.png) |
+| back_shiny | ![Togedemaru back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/777.png) |
+| front_default | ![Togedemaru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png) | </details>
