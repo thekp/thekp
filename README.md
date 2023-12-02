@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Togedemaru
+# Today's random Pokemon is... Tapu-koko
 
-![Togedemaru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/777.png)
+![Tapu-koko shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png)
 
 <details>
-<summary>Additional info about Togedemaru</summary>
+<summary>Additional info about Tapu-koko</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Togedemaru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/777.png) |
-| back_shiny | ![Togedemaru back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/777.png) |
-| front_default | ![Togedemaru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png) | </details>
+| back_default | ![Tapu-koko back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/785.png) |
+| back_shiny | ![Tapu-koko back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/785.png) |
+| front_default | ![Tapu-koko front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png) | </details>
