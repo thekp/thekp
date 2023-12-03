@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tapu-koko
+# Today's random Pokemon is... Tsareena
 
-![Tapu-koko shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png)
+![Tsareena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/763.png)
 
 <details>
-<summary>Additional info about Tapu-koko</summary>
+<summary>Additional info about Tsareena</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tapu-koko back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/785.png) |
-| back_shiny | ![Tapu-koko back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/785.png) |
-| front_default | ![Tapu-koko front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png) | </details>
+| back_default | ![Tsareena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/763.png) |
+| back_shiny | ![Tsareena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/763.png) |
+| front_default | ![Tsareena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png) | </details>
