@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tsareena
+# Today's random Pokemon is... Stufful
 
-![Tsareena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/763.png)
+![Stufful shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/759.png)
 
 <details>
-<summary>Additional info about Tsareena</summary>
+<summary>Additional info about Stufful</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tsareena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/763.png) |
-| back_shiny | ![Tsareena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/763.png) |
-| front_default | ![Tsareena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png) | </details>
+| back_default | ![Stufful back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/759.png) |
+| back_shiny | ![Stufful back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/759.png) |
+| front_default | ![Stufful front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png) | </details>
