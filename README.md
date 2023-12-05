@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Stufful
+# Today's random Pokemon is... Voltorb
 
-![Stufful shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/759.png)
+![Voltorb shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/100.png)
 
 <details>
-<summary>Additional info about Stufful</summary>
+<summary>Additional info about Voltorb</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Stufful back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/759.png) |
-| back_shiny | ![Stufful back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/759.png) |
-| front_default | ![Stufful front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png) | </details>
+| back_default | ![Voltorb back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png) |
+| back_shiny | ![Voltorb back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/100.png) |
+| front_default | ![Voltorb front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png) | </details>
