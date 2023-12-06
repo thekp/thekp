@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Voltorb
+# Today's random Pokemon is... Bellsprout
 
-![Voltorb shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/100.png)
+![Bellsprout shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/69.png)
 
 <details>
-<summary>Additional info about Voltorb</summary>
+<summary>Additional info about Bellsprout</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Voltorb back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png) |
-| back_shiny | ![Voltorb back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/100.png) |
-| front_default | ![Voltorb front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png) | </details>
+| back_default | ![Bellsprout back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png) |
+| back_shiny | ![Bellsprout back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/69.png) |
+| front_default | ![Bellsprout front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png) | </details>
