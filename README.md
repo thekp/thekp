@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lillipup
+# Today's random Pokemon is... Plusle
 
-![Lillipup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/506.png)
+![Plusle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/311.png)
 
 <details>
-<summary>Additional info about Lillipup</summary>
+<summary>Additional info about Plusle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lillipup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/506.png) |
-| back_shiny | ![Lillipup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/506.png) |
-| front_default | ![Lillipup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | </details>
+| back_default | ![Plusle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/311.png) |
+| back_shiny | ![Plusle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/311.png) |
+| front_default | ![Plusle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png) | </details>
