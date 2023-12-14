@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Skuntank
+# Today's random Pokemon is... Carnivine
 
-![Skuntank shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/435.png)
+![Carnivine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/455.png)
 
 <details>
-<summary>Additional info about Skuntank</summary>
+<summary>Additional info about Carnivine</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Skuntank back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/435.png) |
-| back_shiny | ![Skuntank back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/435.png) |
-| front_default | ![Skuntank front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png) | </details>
+| back_default | ![Carnivine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/455.png) |
+| back_shiny | ![Carnivine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/455.png) |
+| front_default | ![Carnivine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png) | </details>
