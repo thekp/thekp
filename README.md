@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zoroark
+# Today's random Pokemon is... Axew
 
-![Zoroark shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/571.png)
+![Axew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/610.png)
 
 <details>
-<summary>Additional info about Zoroark</summary>
+<summary>Additional info about Axew</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zoroark back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/571.png) |
-| back_shiny | ![Zoroark back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/571.png) |
-| front_default | ![Zoroark front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png) | </details>
+| back_default | ![Axew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/610.png) |
+| back_shiny | ![Axew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/610.png) |
+| front_default | ![Axew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png) | </details>
