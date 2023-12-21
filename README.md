@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shiinotic
+# Today's random Pokemon is... Maractus
 
-![Shiinotic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/756.png)
+![Maractus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/556.png)
 
 <details>
-<summary>Additional info about Shiinotic</summary>
+<summary>Additional info about Maractus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shiinotic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/756.png) |
-| back_shiny | ![Shiinotic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/756.png) |
-| front_default | ![Shiinotic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png) | </details>
+| back_default | ![Maractus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/556.png) |
+| back_shiny | ![Maractus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/556.png) |
+| front_default | ![Maractus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png) | </details>
