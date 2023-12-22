@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Maractus
+# Today's random Pokemon is... Gastly
 
-![Maractus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/556.png)
+![Gastly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/92.png)
 
 <details>
-<summary>Additional info about Maractus</summary>
+<summary>Additional info about Gastly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Maractus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/556.png) |
-| back_shiny | ![Maractus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/556.png) |
-| front_default | ![Maractus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png) | </details>
+| back_default | ![Gastly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png) |
+| back_shiny | ![Gastly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/92.png) |
+| front_default | ![Gastly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png) | </details>
