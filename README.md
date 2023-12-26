@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electivire
+# Today's random Pokemon is... Virizion
 
-![Electivire shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/466.png)
+![Virizion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/640.png)
 
 <details>
-<summary>Additional info about Electivire</summary>
+<summary>Additional info about Virizion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electivire back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/466.png) |
-| back_shiny | ![Electivire back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/466.png) |
-| front_default | ![Electivire front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png) | </details>
+| back_default | ![Virizion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/640.png) |
+| back_shiny | ![Virizion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/640.png) |
+| front_default | ![Virizion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png) | </details>
