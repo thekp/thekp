@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Misdreavus
+# Today's random Pokemon is... Spinarak
 
-![Misdreavus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/200.png)
+![Spinarak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/167.png)
 
 <details>
-<summary>Additional info about Misdreavus</summary>
+<summary>Additional info about Spinarak</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Misdreavus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/200.png) |
-| back_shiny | ![Misdreavus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/200.png) |
-| front_default | ![Misdreavus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png) | </details>
+| back_default | ![Spinarak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/167.png) |
+| back_shiny | ![Spinarak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/167.png) |
+| front_default | ![Spinarak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png) | </details>
