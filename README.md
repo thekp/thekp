@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Geodude
+# Today's random Pokemon is... Dedenne
 
-![Geodude shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/74.png)
+![Dedenne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/702.png)
 
 <details>
-<summary>Additional info about Geodude</summary>
+<summary>Additional info about Dedenne</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Geodude back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png) |
-| back_shiny | ![Geodude back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/74.png) |
-| front_default | ![Geodude front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png) | </details>
+| back_default | ![Dedenne back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/702.png) |
+| back_shiny | ![Dedenne back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/702.png) |
+| front_default | ![Dedenne front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png) | </details>
