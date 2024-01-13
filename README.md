@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mewtwo
+# Today's random Pokemon is... Dusknoir
 
-![Mewtwo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/150.png)
+![Dusknoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/477.png)
 
 <details>
-<summary>Additional info about Mewtwo</summary>
+<summary>Additional info about Dusknoir</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mewtwo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png) |
-| back_shiny | ![Mewtwo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/150.png) |
-| front_default | ![Mewtwo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png) | </details>
+| back_default | ![Dusknoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/477.png) |
+| back_shiny | ![Dusknoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/477.png) |
+| front_default | ![Dusknoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png) | </details>
