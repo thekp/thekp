@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dwebble
+# Today's random Pokemon is... Pansear
 
-![Dwebble shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/557.png)
+![Pansear shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/513.png)
 
 <details>
-<summary>Additional info about Dwebble</summary>
+<summary>Additional info about Pansear</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dwebble back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/557.png) |
-| back_shiny | ![Dwebble back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/557.png) |
-| front_default | ![Dwebble front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png) | </details>
+| back_default | ![Pansear back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/513.png) |
+| back_shiny | ![Pansear back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/513.png) |
+| front_default | ![Pansear front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png) | </details>
