@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pansear
+# Today's random Pokemon is... Rampardos
 
-![Pansear shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/513.png)
+![Rampardos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/409.png)
 
 <details>
-<summary>Additional info about Pansear</summary>
+<summary>Additional info about Rampardos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pansear back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/513.png) |
-| back_shiny | ![Pansear back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/513.png) |
-| front_default | ![Pansear front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png) | </details>
+| back_default | ![Rampardos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/409.png) |
+| back_shiny | ![Rampardos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/409.png) |
+| front_default | ![Rampardos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png) | </details>
