@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cranidos
+# Today's random Pokemon is... Primarina
 
-![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
+![Primarina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png)
 
 <details>
-<summary>Additional info about Cranidos</summary>
+<summary>Additional info about Primarina</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
-| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
-| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
+| back_default | ![Primarina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/730.png) |
+| back_shiny | ![Primarina back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/730.png) |
+| front_default | ![Primarina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png) | </details>
