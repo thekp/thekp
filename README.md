@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Primarina
+# Today's random Pokemon is... Drifloon
 
-![Primarina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png)
+![Drifloon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/425.png)
 
 <details>
-<summary>Additional info about Primarina</summary>
+<summary>Additional info about Drifloon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Primarina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/730.png) |
-| back_shiny | ![Primarina back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/730.png) |
-| front_default | ![Primarina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png) | </details>
+| back_default | ![Drifloon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/425.png) |
+| back_shiny | ![Drifloon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/425.png) |
+| front_default | ![Drifloon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png) | </details>
