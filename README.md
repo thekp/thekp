@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Drifloon
+# Today's random Pokemon is... Darmanitan-standard
 
-![Drifloon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/425.png)
+![Darmanitan-standard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/555.png)
 
 <details>
-<summary>Additional info about Drifloon</summary>
+<summary>Additional info about Darmanitan-standard</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Drifloon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/425.png) |
-| back_shiny | ![Drifloon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/425.png) |
-| front_default | ![Drifloon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png) | </details>
+| back_default | ![Darmanitan-standard back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/555.png) |
+| back_shiny | ![Darmanitan-standard back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/555.png) |
+| front_default | ![Darmanitan-standard front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png) | </details>
