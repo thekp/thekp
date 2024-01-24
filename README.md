@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lanturn
+# Today's random Pokemon is... Vanillite
 
-![Lanturn shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/171.png)
+![Vanillite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/582.png)
 
 <details>
-<summary>Additional info about Lanturn</summary>
+<summary>Additional info about Vanillite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lanturn back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/171.png) |
-| back_shiny | ![Lanturn back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/171.png) |
-| front_default | ![Lanturn front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png) | </details>
+| back_default | ![Vanillite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/582.png) |
+| back_shiny | ![Vanillite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/582.png) |
+| front_default | ![Vanillite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png) | </details>
