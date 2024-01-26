@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Eevee
+# Today's random Pokemon is... Shuckle
 
-![Eevee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/133.png)
+![Shuckle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/213.png)
 
 <details>
-<summary>Additional info about Eevee</summary>
+<summary>Additional info about Shuckle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eevee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png) |
-| back_shiny | ![Eevee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/133.png) |
-| front_default | ![Eevee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png) | </details>
+| back_default | ![Shuckle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/213.png) |
+| back_shiny | ![Shuckle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/213.png) |
+| front_default | ![Shuckle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png) | </details>
