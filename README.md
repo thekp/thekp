@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Roselia
+# Today's random Pokemon is... Blissey
 
-![Roselia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/315.png)
+![Blissey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/242.png)
 
 <details>
-<summary>Additional info about Roselia</summary>
+<summary>Additional info about Blissey</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Roselia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/315.png) |
-| back_female | ![Roselia back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/315.png) |
-| back_shiny | ![Roselia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/315.png) |
-| back_shiny_female | ![Roselia back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/315.png) |
-| front_default | ![Roselia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png) |
-| front_female | ![Roselia front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/315.png) |
-| front_shiny_female | ![Roselia front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/315.png) | </details>
+| back_default | ![Blissey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/242.png) |
+| back_shiny | ![Blissey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/242.png) |
+| front_default | ![Blissey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png) | </details>
