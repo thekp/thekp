@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Blissey
+# Today's random Pokemon is... Registeel
 
-![Blissey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/242.png)
+![Registeel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/379.png)
 
 <details>
-<summary>Additional info about Blissey</summary>
+<summary>Additional info about Registeel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Blissey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/242.png) |
-| back_shiny | ![Blissey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/242.png) |
-| front_default | ![Blissey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png) | </details>
+| back_default | ![Registeel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/379.png) |
+| back_shiny | ![Registeel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/379.png) |
+| front_default | ![Registeel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png) | </details>
