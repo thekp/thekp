@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Axew
+# Today's random Pokemon is... Wailord
 
-![Axew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/610.png)
+![Wailord shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/321.png)
 
 <details>
-<summary>Additional info about Axew</summary>
+<summary>Additional info about Wailord</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Axew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/610.png) |
-| back_shiny | ![Axew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/610.png) |
-| front_default | ![Axew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png) | </details>
+| back_default | ![Wailord back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/321.png) |
+| back_shiny | ![Wailord back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/321.png) |
+| front_default | ![Wailord front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png) | </details>
