@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wailord
+# Today's random Pokemon is... Trumbeak
 
-![Wailord shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/321.png)
+![Trumbeak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/732.png)
 
 <details>
-<summary>Additional info about Wailord</summary>
+<summary>Additional info about Trumbeak</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wailord back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/321.png) |
-| back_shiny | ![Wailord back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/321.png) |
-| front_default | ![Wailord front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png) | </details>
+| back_default | ![Trumbeak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/732.png) |
+| back_shiny | ![Trumbeak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/732.png) |
+| front_default | ![Trumbeak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/732.png) | </details>
