@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Reshiram
+# Today's random Pokemon is... Gurdurr
 
-![Reshiram shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/643.png)
+![Gurdurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/533.png)
 
 <details>
-<summary>Additional info about Reshiram</summary>
+<summary>Additional info about Gurdurr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Reshiram back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/643.png) |
-| back_shiny | ![Reshiram back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/643.png) |
-| front_default | ![Reshiram front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png) | </details>
+| back_default | ![Gurdurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/533.png) |
+| back_shiny | ![Gurdurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/533.png) |
+| front_default | ![Gurdurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png) | </details>
