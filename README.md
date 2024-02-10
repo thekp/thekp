@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Gurdurr
+# Today's random Pokemon is... Volcanion
 
-![Gurdurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/533.png)
+![Volcanion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/721.png)
 
 <details>
-<summary>Additional info about Gurdurr</summary>
+<summary>Additional info about Volcanion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gurdurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/533.png) |
-| back_shiny | ![Gurdurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/533.png) |
-| front_default | ![Gurdurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png) | </details>
+| front_default | ![Volcanion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png) | </details>
