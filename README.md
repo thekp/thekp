@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pyroar
+# Today's random Pokemon is... Excadrill
 
-![Pyroar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/668.png)
+![Excadrill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/530.png)
 
 <details>
-<summary>Additional info about Pyroar</summary>
+<summary>Additional info about Excadrill</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Pyroar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png) |
-| front_female | ![Pyroar front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/668.png) |
-| front_shiny_female | ![Pyroar front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/668.png) | </details>
+| back_default | ![Excadrill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/530.png) |
+| back_shiny | ![Excadrill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/530.png) |
+| front_default | ![Excadrill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png) | </details>
