@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Girafarig
+# Today's random Pokemon is... Nidorina
 
-![Girafarig shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/203.png)
+![Nidorina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/30.png)
 
 <details>
-<summary>Additional info about Girafarig</summary>
+<summary>Additional info about Nidorina</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Girafarig back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/203.png) |
-| back_female | ![Girafarig back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/203.png) |
-| back_shiny | ![Girafarig back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/203.png) |
-| back_shiny_female | ![Girafarig back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/203.png) |
-| front_default | ![Girafarig front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png) |
-| front_female | ![Girafarig front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/203.png) |
-| front_shiny_female | ![Girafarig front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/203.png) | </details>
+| back_default | ![Nidorina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png) |
+| back_shiny | ![Nidorina back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/30.png) |
+| front_default | ![Nidorina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png) | </details>
