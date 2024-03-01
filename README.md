@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Garchomp
+# Today's random Pokemon is... Landorus-incarnate
 
-![Garchomp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/445.png)
+![Landorus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/645.png)
 
 <details>
-<summary>Additional info about Garchomp</summary>
+<summary>Additional info about Landorus-incarnate</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Garchomp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/445.png) |
-| back_female | ![Garchomp back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/445.png) |
-| back_shiny | ![Garchomp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/445.png) |
-| back_shiny_female | ![Garchomp back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/445.png) |
-| front_default | ![Garchomp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png) |
-| front_female | ![Garchomp front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/445.png) |
-| front_shiny_female | ![Garchomp front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/445.png) | </details>
+| back_default | ![Landorus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/645.png) |
+| back_shiny | ![Landorus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/645.png) |
+| front_default | ![Landorus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png) | </details>
