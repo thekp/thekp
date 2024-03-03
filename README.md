@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Marshtomp
+# Today's random Pokemon is... Sentret
 
-![Marshtomp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/259.png)
+![Sentret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/161.png)
 
 <details>
-<summary>Additional info about Marshtomp</summary>
+<summary>Additional info about Sentret</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Marshtomp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/259.png) |
-| back_shiny | ![Marshtomp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/259.png) |
-| front_default | ![Marshtomp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png) | </details>
+| back_default | ![Sentret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/161.png) |
+| back_shiny | ![Sentret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/161.png) |
+| front_default | ![Sentret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png) | </details>
