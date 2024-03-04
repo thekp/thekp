@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sentret
+# Today's random Pokemon is... Lairon
 
-![Sentret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/161.png)
+![Lairon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/305.png)
 
 <details>
-<summary>Additional info about Sentret</summary>
+<summary>Additional info about Lairon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sentret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/161.png) |
-| back_shiny | ![Sentret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/161.png) |
-| front_default | ![Sentret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png) | </details>
+| back_default | ![Lairon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/305.png) |
+| back_shiny | ![Lairon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/305.png) |
+| front_default | ![Lairon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png) | </details>
