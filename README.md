@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lairon
+# Today's random Pokemon is... Houndour
 
-![Lairon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/305.png)
+![Houndour shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/228.png)
 
 <details>
-<summary>Additional info about Lairon</summary>
+<summary>Additional info about Houndour</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lairon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/305.png) |
-| back_shiny | ![Lairon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/305.png) |
-| front_default | ![Lairon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png) | </details>
+| back_default | ![Houndour back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/228.png) |
+| back_shiny | ![Houndour back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/228.png) |
+| front_default | ![Houndour front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png) | </details>
