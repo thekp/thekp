@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lillipup
+# Today's random Pokemon is... Uxie
 
-![Lillipup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/506.png)
+![Uxie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/480.png)
 
 <details>
-<summary>Additional info about Lillipup</summary>
+<summary>Additional info about Uxie</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lillipup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/506.png) |
-| back_shiny | ![Lillipup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/506.png) |
-| front_default | ![Lillipup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | </details>
+| back_default | ![Uxie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/480.png) |
+| back_shiny | ![Uxie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/480.png) |
+| front_default | ![Uxie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png) | </details>
