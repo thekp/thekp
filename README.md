@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mudsdale
+# Today's random Pokemon is... Zorua
 
-![Mudsdale shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/750.png)
+![Zorua shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/570.png)
 
 <details>
-<summary>Additional info about Mudsdale</summary>
+<summary>Additional info about Zorua</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mudsdale back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/750.png) |
-| back_shiny | ![Mudsdale back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/750.png) |
-| front_default | ![Mudsdale front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png) | </details>
+| back_default | ![Zorua back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/570.png) |
+| back_shiny | ![Zorua back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/570.png) |
+| front_default | ![Zorua front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png) | </details>
