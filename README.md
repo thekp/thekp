@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Quilava
+# Today's random Pokemon is... Lilligant
 
-![Quilava shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/156.png)
+![Lilligant shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/549.png)
 
 <details>
-<summary>Additional info about Quilava</summary>
+<summary>Additional info about Lilligant</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Quilava back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/156.png) |
-| back_shiny | ![Quilava back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/156.png) |
-| front_default | ![Quilava front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png) | </details>
+| back_default | ![Lilligant back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/549.png) |
+| back_shiny | ![Lilligant back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/549.png) |
+| front_default | ![Lilligant front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png) | </details>
