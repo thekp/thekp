@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Eelektross
+# Today's random Pokemon is... Solrock
 
-![Eelektross shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/604.png)
+![Solrock shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/338.png)
 
 <details>
-<summary>Additional info about Eelektross</summary>
+<summary>Additional info about Solrock</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eelektross back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/604.png) |
-| back_shiny | ![Eelektross back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/604.png) |
-| front_default | ![Eelektross front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png) | </details>
+| back_default | ![Solrock back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/338.png) |
+| back_shiny | ![Solrock back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/338.png) |
+| front_default | ![Solrock front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png) | </details>
