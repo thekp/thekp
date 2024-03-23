@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Skuntank
+# Today's random Pokemon is... Masquerain
 
-![Skuntank shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/435.png)
+![Masquerain shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/284.png)
 
 <details>
-<summary>Additional info about Skuntank</summary>
+<summary>Additional info about Masquerain</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Skuntank back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/435.png) |
-| back_shiny | ![Skuntank back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/435.png) |
-| front_default | ![Skuntank front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png) | </details>
+| back_default | ![Masquerain back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/284.png) |
+| back_shiny | ![Masquerain back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/284.png) |
+| front_default | ![Masquerain front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png) | </details>
