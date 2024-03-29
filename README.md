@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Diggersby
+# Today's random Pokemon is... Chesnaught
 
-![Diggersby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/660.png)
+![Chesnaught shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/652.png)
 
 <details>
-<summary>Additional info about Diggersby</summary>
+<summary>Additional info about Chesnaught</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Diggersby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png) | </details>
+| back_default | ![Chesnaught back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/652.png) |
+| back_shiny | ![Chesnaught back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/652.png) |
+| front_default | ![Chesnaught front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png) | </details>
