@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chesnaught
+# Today's random Pokemon is... Jumpluff
 
-![Chesnaught shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/652.png)
+![Jumpluff shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/189.png)
 
 <details>
-<summary>Additional info about Chesnaught</summary>
+<summary>Additional info about Jumpluff</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chesnaught back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/652.png) |
-| back_shiny | ![Chesnaught back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/652.png) |
-| front_default | ![Chesnaught front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png) | </details>
+| back_default | ![Jumpluff back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/189.png) |
+| back_shiny | ![Jumpluff back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/189.png) |
+| front_default | ![Jumpluff front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png) | </details>
