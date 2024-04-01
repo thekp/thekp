@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Scraggy
+# Today's random Pokemon is... Togedemaru
 
-![Scraggy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/559.png)
+![Togedemaru shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/777.png)
 
 <details>
-<summary>Additional info about Scraggy</summary>
+<summary>Additional info about Togedemaru</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scraggy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/559.png) |
-| back_shiny | ![Scraggy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/559.png) |
-| front_default | ![Scraggy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png) | </details>
+| back_default | ![Togedemaru back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/777.png) |
+| back_shiny | ![Togedemaru back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/777.png) |
+| front_default | ![Togedemaru front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png) | </details>
