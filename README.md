@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Croagunk
+# Today's random Pokemon is... Mantine
 
-![Croagunk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/453.png)
+![Mantine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/226.png)
 
 <details>
-<summary>Additional info about Croagunk</summary>
+<summary>Additional info about Mantine</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Croagunk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/453.png) |
-| back_female | ![Croagunk back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/453.png) |
-| back_shiny | ![Croagunk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/453.png) |
-| back_shiny_female | ![Croagunk back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/453.png) |
-| front_default | ![Croagunk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png) |
-| front_female | ![Croagunk front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/453.png) |
-| front_shiny_female | ![Croagunk front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/453.png) | </details>
+| back_default | ![Mantine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/226.png) |
+| back_shiny | ![Mantine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/226.png) |
+| front_default | ![Mantine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png) | </details>
