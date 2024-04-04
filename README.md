@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mantine
+# Today's random Pokemon is... Xurkitree
 
-![Mantine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/226.png)
+![Xurkitree shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/796.png)
 
 <details>
-<summary>Additional info about Mantine</summary>
+<summary>Additional info about Xurkitree</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mantine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/226.png) |
-| back_shiny | ![Mantine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/226.png) |
-| front_default | ![Mantine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png) | </details>
+| back_default | ![Xurkitree back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/796.png) |
+| back_shiny | ![Xurkitree back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/796.png) |
+| front_default | ![Xurkitree front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png) | </details>
