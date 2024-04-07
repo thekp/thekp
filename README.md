@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Parasect
+# Today's random Pokemon is... Vanilluxe
 
-![Parasect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png)
+![Vanilluxe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/584.png)
 
 <details>
-<summary>Additional info about Parasect</summary>
+<summary>Additional info about Vanilluxe</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Parasect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png) |
-| back_shiny | ![Parasect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/47.png) |
-| front_default | ![Parasect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png) | </details>
+| back_default | ![Vanilluxe back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/584.png) |
+| back_shiny | ![Vanilluxe back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/584.png) |
+| front_default | ![Vanilluxe front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png) | </details>
