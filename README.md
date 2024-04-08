@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vanilluxe
+# Today's random Pokemon is... Feebas
 
-![Vanilluxe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/584.png)
+![Feebas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/349.png)
 
 <details>
-<summary>Additional info about Vanilluxe</summary>
+<summary>Additional info about Feebas</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vanilluxe back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/584.png) |
-| back_shiny | ![Vanilluxe back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/584.png) |
-| front_default | ![Vanilluxe front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png) | </details>
+| back_default | ![Feebas back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/349.png) |
+| back_shiny | ![Feebas back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/349.png) |
+| front_default | ![Feebas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png) | </details>
