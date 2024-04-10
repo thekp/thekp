@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Whirlipede
+# Today's random Pokemon is... Smeargle
 
-![Whirlipede shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/544.png)
+![Smeargle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/235.png)
 
 <details>
-<summary>Additional info about Whirlipede</summary>
+<summary>Additional info about Smeargle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Whirlipede back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/544.png) |
-| back_shiny | ![Whirlipede back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/544.png) |
-| front_default | ![Whirlipede front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png) | </details>
+| back_default | ![Smeargle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/235.png) |
+| back_shiny | ![Smeargle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/235.png) |
+| front_default | ![Smeargle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png) | </details>
