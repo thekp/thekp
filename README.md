@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wishiwashi-solo
+# Today's random Pokemon is... Magnemite
 
-![Wishiwashi-solo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/746.png)
+![Magnemite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/81.png)
 
 <details>
-<summary>Additional info about Wishiwashi-solo</summary>
+<summary>Additional info about Magnemite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wishiwashi-solo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/746.png) |
-| back_shiny | ![Wishiwashi-solo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/746.png) |
-| front_default | ![Wishiwashi-solo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png) | </details>
+| back_default | ![Magnemite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png) |
+| back_shiny | ![Magnemite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/81.png) |
+| front_default | ![Magnemite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png) | </details>
