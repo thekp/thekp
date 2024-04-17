@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bronzor
+# Today's random Pokemon is... Tentacool
 
-![Bronzor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/436.png)
+![Tentacool shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/72.png)
 
 <details>
-<summary>Additional info about Bronzor</summary>
+<summary>Additional info about Tentacool</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bronzor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/436.png) |
-| back_shiny | ![Bronzor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/436.png) |
-| front_default | ![Bronzor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png) | </details>
+| back_default | ![Tentacool back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png) |
+| back_shiny | ![Tentacool back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/72.png) |
+| front_default | ![Tentacool front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png) | </details>
