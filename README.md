@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tentacool
+# Today's random Pokemon is... Charmeleon
 
-![Tentacool shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/72.png)
+![Charmeleon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/5.png)
 
 <details>
-<summary>Additional info about Tentacool</summary>
+<summary>Additional info about Charmeleon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tentacool back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png) |
-| back_shiny | ![Tentacool back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/72.png) |
-| front_default | ![Tentacool front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png) | </details>
+| back_default | ![Charmeleon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png) |
+| back_shiny | ![Charmeleon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/5.png) |
+| front_default | ![Charmeleon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png) | </details>
