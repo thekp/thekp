@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Sawsbuck
+# Today's random Pokemon is... Ursaring
 
-![Sawsbuck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/586.png)
+![Ursaring shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/217.png)
 
 <details>
-<summary>Additional info about Sawsbuck</summary>
+<summary>Additional info about Ursaring</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sawsbuck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/586.png) |
-| back_shiny | ![Sawsbuck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/586.png) |
-| front_default | ![Sawsbuck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png) | </details>
+| back_default | ![Ursaring back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/217.png) |
+| back_female | ![Ursaring back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/217.png) |
+| back_shiny | ![Ursaring back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/217.png) |
+| back_shiny_female | ![Ursaring back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/217.png) |
+| front_default | ![Ursaring front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png) |
+| front_female | ![Ursaring front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/217.png) |
+| front_shiny_female | ![Ursaring front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/217.png) | </details>
