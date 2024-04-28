@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Seadra
+# Today's random Pokemon is... Archeops
 
-![Seadra shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/117.png)
+![Archeops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/567.png)
 
 <details>
-<summary>Additional info about Seadra</summary>
+<summary>Additional info about Archeops</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Seadra back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/117.png) |
-| back_shiny | ![Seadra back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/117.png) |
-| front_default | ![Seadra front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png) | </details>
+| back_default | ![Archeops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/567.png) |
+| back_shiny | ![Archeops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/567.png) |
+| front_default | ![Archeops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png) | </details>
