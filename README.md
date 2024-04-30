@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Slurpuff
+# Today's random Pokemon is... Graveler
 
-![Slurpuff shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/685.png)
+![Graveler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/75.png)
 
 <details>
-<summary>Additional info about Slurpuff</summary>
+<summary>Additional info about Graveler</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slurpuff back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/685.png) |
-| back_shiny | ![Slurpuff back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/685.png) |
-| front_default | ![Slurpuff front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png) | </details>
+| back_default | ![Graveler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png) |
+| back_shiny | ![Graveler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/75.png) |
+| front_default | ![Graveler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png) | </details>
