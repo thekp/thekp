@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Graveler
+# Today's random Pokemon is... Weepinbell
 
-![Graveler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/75.png)
+![Weepinbell shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/70.png)
 
 <details>
-<summary>Additional info about Graveler</summary>
+<summary>Additional info about Weepinbell</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Graveler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png) |
-| back_shiny | ![Graveler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/75.png) |
-| front_default | ![Graveler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png) | </details>
+| back_default | ![Weepinbell back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png) |
+| back_shiny | ![Weepinbell back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/70.png) |
+| front_default | ![Weepinbell front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png) | </details>
