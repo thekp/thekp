@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Weepinbell
+# Today's random Pokemon is... Bastiodon
 
-![Weepinbell shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/70.png)
+![Bastiodon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/411.png)
 
 <details>
-<summary>Additional info about Weepinbell</summary>
+<summary>Additional info about Bastiodon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Weepinbell back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png) |
-| back_shiny | ![Weepinbell back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/70.png) |
-| front_default | ![Weepinbell front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png) | </details>
+| back_default | ![Bastiodon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/411.png) |
+| back_shiny | ![Bastiodon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/411.png) |
+| front_default | ![Bastiodon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png) | </details>
