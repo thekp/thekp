@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Scrafty
+# Today's random Pokemon is... Glameow
 
-![Scrafty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/560.png)
+![Glameow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/431.png)
 
 <details>
-<summary>Additional info about Scrafty</summary>
+<summary>Additional info about Glameow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scrafty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/560.png) |
-| back_shiny | ![Scrafty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/560.png) |
-| front_default | ![Scrafty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png) | </details>
+| back_default | ![Glameow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/431.png) |
+| back_shiny | ![Glameow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/431.png) |
+| front_default | ![Glameow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png) | </details>
