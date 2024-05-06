@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chespin
+# Today's random Pokemon is... Fraxure
 
-![Chespin shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/650.png)
+![Fraxure shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/611.png)
 
 <details>
-<summary>Additional info about Chespin</summary>
+<summary>Additional info about Fraxure</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chespin back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/650.png) |
-| back_shiny | ![Chespin back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/650.png) |
-| front_default | ![Chespin front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png) | </details>
+| back_default | ![Fraxure back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/611.png) |
+| back_shiny | ![Fraxure back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/611.png) |
+| front_default | ![Fraxure front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | </details>
