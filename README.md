@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nidorina
+# Today's random Pokemon is... Azurill
 
-![Nidorina shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/30.png)
+![Azurill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/298.png)
 
 <details>
-<summary>Additional info about Nidorina</summary>
+<summary>Additional info about Azurill</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nidorina back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png) |
-| back_shiny | ![Nidorina back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/30.png) |
-| front_default | ![Nidorina front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png) | </details>
+| back_default | ![Azurill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/298.png) |
+| back_shiny | ![Azurill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/298.png) |
+| front_default | ![Azurill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png) | </details>
