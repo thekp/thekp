@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Aegislash-shield
+# Today's random Pokemon is... Swellow
 
-![Aegislash-shield shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/681.png)
+![Swellow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/277.png)
 
 <details>
-<summary>Additional info about Aegislash-shield</summary>
+<summary>Additional info about Swellow</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Aegislash-shield front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png) | </details>
+| back_default | ![Swellow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/277.png) |
+| back_shiny | ![Swellow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/277.png) |
+| front_default | ![Swellow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png) | </details>
