@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nidoqueen
+# Today's random Pokemon is... Tornadus-incarnate
 
-![Nidoqueen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/31.png)
+![Tornadus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641.png)
 
 <details>
-<summary>Additional info about Nidoqueen</summary>
+<summary>Additional info about Tornadus-incarnate</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nidoqueen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png) |
-| back_shiny | ![Nidoqueen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/31.png) |
-| front_default | ![Nidoqueen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png) | </details>
+| back_default | ![Tornadus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641.png) |
+| back_shiny | ![Tornadus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641.png) |
+| front_default | ![Tornadus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png) | </details>
