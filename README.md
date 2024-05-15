@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Morelull
+# Today's random Pokemon is... Snubbull
 
-![Morelull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/755.png)
+![Snubbull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/209.png)
 
 <details>
-<summary>Additional info about Morelull</summary>
+<summary>Additional info about Snubbull</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Morelull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/755.png) |
-| back_shiny | ![Morelull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/755.png) |
-| front_default | ![Morelull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png) | </details>
+| back_default | ![Snubbull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/209.png) |
+| back_shiny | ![Snubbull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/209.png) |
+| front_default | ![Snubbull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png) | </details>
