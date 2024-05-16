@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Snubbull
+# Today's random Pokemon is... Paras
 
-![Snubbull shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/209.png)
+![Paras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/46.png)
 
 <details>
-<summary>Additional info about Snubbull</summary>
+<summary>Additional info about Paras</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Snubbull back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/209.png) |
-| back_shiny | ![Snubbull back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/209.png) |
-| front_default | ![Snubbull front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png) | </details>
+| back_default | ![Paras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png) |
+| back_shiny | ![Paras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/46.png) |
+| front_default | ![Paras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png) | </details>
