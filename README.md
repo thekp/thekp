@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Beheeyem
+# Today's random Pokemon is... Masquerain
 
-![Beheeyem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/606.png)
+![Masquerain shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/284.png)
 
 <details>
-<summary>Additional info about Beheeyem</summary>
+<summary>Additional info about Masquerain</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Beheeyem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/606.png) |
-| back_shiny | ![Beheeyem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/606.png) |
-| front_default | ![Beheeyem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png) | </details>
+| back_default | ![Masquerain back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/284.png) |
+| back_shiny | ![Masquerain back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/284.png) |
+| front_default | ![Masquerain front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png) | </details>
