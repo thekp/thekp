@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Charjabug
+# Today's random Pokemon is... Munna
 
-![Charjabug shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/737.png)
+![Munna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/517.png)
 
 <details>
-<summary>Additional info about Charjabug</summary>
+<summary>Additional info about Munna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Charjabug back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/737.png) |
-| back_shiny | ![Charjabug back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/737.png) |
-| front_default | ![Charjabug front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png) | </details>
+| back_default | ![Munna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/517.png) |
+| back_shiny | ![Munna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/517.png) |
+| front_default | ![Munna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png) | </details>
