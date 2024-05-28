@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nihilego
+# Today's random Pokemon is... Kommo-o
 
-![Nihilego shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/793.png)
+![Kommo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/784.png)
 
 <details>
-<summary>Additional info about Nihilego</summary>
+<summary>Additional info about Kommo-o</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nihilego back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/793.png) |
-| back_shiny | ![Nihilego back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/793.png) |
-| front_default | ![Nihilego front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png) | </details>
+| back_default | ![Kommo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/784.png) |
+| back_shiny | ![Kommo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/784.png) |
+| front_default | ![Kommo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png) | </details>
