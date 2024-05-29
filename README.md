@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kommo-o
+# Today's random Pokemon is... Woobat
 
-![Kommo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/784.png)
+![Woobat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/527.png)
 
 <details>
-<summary>Additional info about Kommo-o</summary>
+<summary>Additional info about Woobat</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kommo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/784.png) |
-| back_shiny | ![Kommo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/784.png) |
-| front_default | ![Kommo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png) | </details>
+| back_default | ![Woobat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/527.png) |
+| back_shiny | ![Woobat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/527.png) |
+| front_default | ![Woobat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png) | </details>
