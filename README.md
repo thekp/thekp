@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Umbreon
+# Today's random Pokemon is... Foongus
 
-![Umbreon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/197.png)
+![Foongus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/590.png)
 
 <details>
-<summary>Additional info about Umbreon</summary>
+<summary>Additional info about Foongus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Umbreon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/197.png) |
-| back_shiny | ![Umbreon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/197.png) |
-| front_default | ![Umbreon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png) | </details>
+| back_default | ![Foongus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/590.png) |
+| back_shiny | ![Foongus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/590.png) |
+| front_default | ![Foongus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png) | </details>
