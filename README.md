@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Foongus
+# Today's random Pokemon is... Blacephalon
 
-![Foongus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/590.png)
+![Blacephalon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/806.png)
 
 <details>
-<summary>Additional info about Foongus</summary>
+<summary>Additional info about Blacephalon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Foongus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/590.png) |
-| back_shiny | ![Foongus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/590.png) |
-| front_default | ![Foongus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png) | </details>
+| back_default | ![Blacephalon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/806.png) |
+| back_shiny | ![Blacephalon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/806.png) |
+| front_default | ![Blacephalon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png) | </details>
