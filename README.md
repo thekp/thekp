@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zorua
+# Today's random Pokemon is... Phanpy
 
-![Zorua shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/570.png)
+![Phanpy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/231.png)
 
 <details>
-<summary>Additional info about Zorua</summary>
+<summary>Additional info about Phanpy</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zorua back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/570.png) |
-| back_shiny | ![Zorua back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/570.png) |
-| front_default | ![Zorua front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png) | </details>
+| back_default | ![Phanpy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/231.png) |
+| back_shiny | ![Phanpy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/231.png) |
+| front_default | ![Phanpy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png) | </details>
