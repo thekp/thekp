@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Guzzlord
+# Today's random Pokemon is... Psyduck
 
-![Guzzlord shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/799.png)
+![Psyduck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png)
 
 <details>
-<summary>Additional info about Guzzlord</summary>
+<summary>Additional info about Psyduck</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Guzzlord back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/799.png) |
-| back_shiny | ![Guzzlord back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/799.png) |
-| front_default | ![Guzzlord front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png) | </details>
+| back_default | ![Psyduck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png) |
+| back_shiny | ![Psyduck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/54.png) |
+| front_default | ![Psyduck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png) | </details>
