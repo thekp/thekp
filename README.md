@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Feebas
+# Today's random Pokemon is... Lunatone
 
-![Feebas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/349.png)
+![Lunatone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/337.png)
 
 <details>
-<summary>Additional info about Feebas</summary>
+<summary>Additional info about Lunatone</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Feebas back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/349.png) |
-| back_shiny | ![Feebas back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/349.png) |
-| front_default | ![Feebas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png) | </details>
+| back_default | ![Lunatone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/337.png) |
+| back_shiny | ![Lunatone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/337.png) |
+| front_default | ![Lunatone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png) | </details>
