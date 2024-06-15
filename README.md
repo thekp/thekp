@@ -1,10 +1,10 @@
-# Today's random Pokemon is... Sliggoo
+# Today's random Pokemon is... Florges
 
-![Sliggoo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/705.png)
+![Florges shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/671.png)
 
 <details>
-<summary>Additional info about Sliggoo</summary>
+<summary>Additional info about Florges</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Sliggoo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png) | </details>
+| front_default | ![Florges front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png) | </details>
