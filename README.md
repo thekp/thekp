@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Florges
+# Today's random Pokemon is... Feraligatr
 
-![Florges shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/671.png)
+![Feraligatr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/160.png)
 
 <details>
-<summary>Additional info about Florges</summary>
+<summary>Additional info about Feraligatr</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Florges front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png) | </details>
+| back_default | ![Feraligatr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/160.png) |
+| back_shiny | ![Feraligatr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/160.png) |
+| front_default | ![Feraligatr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png) | </details>
