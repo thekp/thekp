@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Leafeon
+# Today's random Pokemon is... Bulbasaur
 
-![Leafeon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/470.png)
+![Bulbasaur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png)
 
 <details>
-<summary>Additional info about Leafeon</summary>
+<summary>Additional info about Bulbasaur</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Leafeon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/470.png) |
-| back_shiny | ![Leafeon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/470.png) |
-| front_default | ![Leafeon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png) | </details>
+| back_default | ![Bulbasaur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png) |
+| back_shiny | ![Bulbasaur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/1.png) |
+| front_default | ![Bulbasaur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png) | </details>
