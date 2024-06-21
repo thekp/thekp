@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pinsir
+# Today's random Pokemon is... Registeel
 
-![Pinsir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/127.png)
+![Registeel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/379.png)
 
 <details>
-<summary>Additional info about Pinsir</summary>
+<summary>Additional info about Registeel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pinsir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png) |
-| back_shiny | ![Pinsir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/127.png) |
-| front_default | ![Pinsir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png) | </details>
+| back_default | ![Registeel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/379.png) |
+| back_shiny | ![Registeel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/379.png) |
+| front_default | ![Registeel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png) | </details>
