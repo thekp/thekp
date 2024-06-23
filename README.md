@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gliscor
+# Today's random Pokemon is... Jangmo-o
 
-![Gliscor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/472.png)
+![Jangmo-o shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/782.png)
 
 <details>
-<summary>Additional info about Gliscor</summary>
+<summary>Additional info about Jangmo-o</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gliscor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/472.png) |
-| back_shiny | ![Gliscor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/472.png) |
-| front_default | ![Gliscor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png) | </details>
+| back_default | ![Jangmo-o back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/782.png) |
+| back_shiny | ![Jangmo-o back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/782.png) |
+| front_default | ![Jangmo-o front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png) | </details>
