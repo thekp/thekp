@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Palpitoad
+# Today's random Pokemon is... Conkeldurr
 
-![Palpitoad shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/536.png)
+![Conkeldurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/534.png)
 
 <details>
-<summary>Additional info about Palpitoad</summary>
+<summary>Additional info about Conkeldurr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Palpitoad back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/536.png) |
-| back_shiny | ![Palpitoad back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/536.png) |
-| front_default | ![Palpitoad front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png) | </details>
+| back_default | ![Conkeldurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/534.png) |
+| back_shiny | ![Conkeldurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/534.png) |
+| front_default | ![Conkeldurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png) | </details>
