@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Squirtle
+# Today's random Pokemon is... Bergmite
 
-![Squirtle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/7.png)
+![Bergmite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/712.png)
 
 <details>
-<summary>Additional info about Squirtle</summary>
+<summary>Additional info about Bergmite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Squirtle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png) |
-| back_shiny | ![Squirtle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/7.png) |
-| front_default | ![Squirtle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png) | </details>
+| back_default | ![Bergmite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/712.png) |
+| back_shiny | ![Bergmite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/712.png) |
+| front_default | ![Bergmite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png) | </details>
