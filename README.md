@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bergmite
+# Today's random Pokemon is... Deino
 
-![Bergmite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/712.png)
+![Deino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/633.png)
 
 <details>
-<summary>Additional info about Bergmite</summary>
+<summary>Additional info about Deino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bergmite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/712.png) |
-| back_shiny | ![Bergmite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/712.png) |
-| front_default | ![Bergmite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png) | </details>
+| back_default | ![Deino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/633.png) |
+| back_shiny | ![Deino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/633.png) |
+| front_default | ![Deino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png) | </details>
