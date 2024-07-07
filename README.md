@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Volcarona
+# Today's random Pokemon is... Taillow
 
-![Volcarona shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/637.png)
+![Taillow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/276.png)
 
 <details>
-<summary>Additional info about Volcarona</summary>
+<summary>Additional info about Taillow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Volcarona back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/637.png) |
-| back_shiny | ![Volcarona back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/637.png) |
-| front_default | ![Volcarona front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png) | </details>
+| back_default | ![Taillow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/276.png) |
+| back_shiny | ![Taillow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/276.png) |
+| front_default | ![Taillow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png) | </details>
