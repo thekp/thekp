@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Taillow
+# Today's random Pokemon is... Stoutland
 
-![Taillow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/276.png)
+![Stoutland shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/508.png)
 
 <details>
-<summary>Additional info about Taillow</summary>
+<summary>Additional info about Stoutland</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Taillow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/276.png) |
-| back_shiny | ![Taillow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/276.png) |
-| front_default | ![Taillow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png) | </details>
+| back_default | ![Stoutland back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/508.png) |
+| back_shiny | ![Stoutland back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/508.png) |
+| front_default | ![Stoutland front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png) | </details>
