@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spinda
+# Today's random Pokemon is... Aerodactyl
 
-![Spinda shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/327.png)
+![Aerodactyl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/142.png)
 
 <details>
-<summary>Additional info about Spinda</summary>
+<summary>Additional info about Aerodactyl</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spinda back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/327.png) |
-| back_shiny | ![Spinda back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/327.png) |
-| front_default | ![Spinda front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png) | </details>
+| back_default | ![Aerodactyl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png) |
+| back_shiny | ![Aerodactyl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/142.png) |
+| front_default | ![Aerodactyl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png) | </details>
