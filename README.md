@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swanna
+# Today's random Pokemon is... Tsareena
 
-![Swanna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/581.png)
+![Tsareena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/763.png)
 
 <details>
-<summary>Additional info about Swanna</summary>
+<summary>Additional info about Tsareena</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swanna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/581.png) |
-| back_shiny | ![Swanna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/581.png) |
-| front_default | ![Swanna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png) | </details>
+| back_default | ![Tsareena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/763.png) |
+| back_shiny | ![Tsareena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/763.png) |
+| front_default | ![Tsareena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png) | </details>
