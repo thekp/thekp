@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Binacle
+# Today's random Pokemon is... Nidoran-m
 
-![Binacle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/688.png)
+![Nidoran-m shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/32.png)
 
 <details>
-<summary>Additional info about Binacle</summary>
+<summary>Additional info about Nidoran-m</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Binacle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/688.png) |
-| back_shiny | ![Binacle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/688.png) |
-| front_default | ![Binacle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/688.png) | </details>
+| back_default | ![Nidoran-m back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png) |
+| back_shiny | ![Nidoran-m back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/32.png) |
+| front_default | ![Nidoran-m front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png) | </details>
