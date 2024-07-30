@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Paras
+# Today's random Pokemon is... Fraxure
 
-![Paras shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/46.png)
+![Fraxure shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/611.png)
 
 <details>
-<summary>Additional info about Paras</summary>
+<summary>Additional info about Fraxure</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Paras back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png) |
-| back_shiny | ![Paras back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/46.png) |
-| front_default | ![Paras front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png) | </details>
+| back_default | ![Fraxure back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/611.png) |
+| back_shiny | ![Fraxure back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/611.png) |
+| front_default | ![Fraxure front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | </details>
