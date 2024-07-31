@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Fraxure
+# Today's random Pokemon is... Azurill
 
-![Fraxure shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/611.png)
+![Azurill shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/298.png)
 
 <details>
-<summary>Additional info about Fraxure</summary>
+<summary>Additional info about Azurill</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Fraxure back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/611.png) |
-| back_shiny | ![Fraxure back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/611.png) |
-| front_default | ![Fraxure front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | </details>
+| back_default | ![Azurill back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/298.png) |
+| back_shiny | ![Azurill back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/298.png) |
+| front_default | ![Azurill front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png) | </details>
