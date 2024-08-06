@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lampent
+# Today's random Pokemon is... Dragonite
 
-![Lampent shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/608.png)
+![Dragonite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/149.png)
 
 <details>
-<summary>Additional info about Lampent</summary>
+<summary>Additional info about Dragonite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lampent back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/608.png) |
-| back_shiny | ![Lampent back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/608.png) |
-| front_default | ![Lampent front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png) | </details>
+| back_default | ![Dragonite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png) |
+| back_shiny | ![Dragonite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/149.png) |
+| front_default | ![Dragonite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png) | </details>
