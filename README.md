@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lunatone
+# Today's random Pokemon is... Sharpedo
 
-![Lunatone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/337.png)
+![Sharpedo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/319.png)
 
 <details>
-<summary>Additional info about Lunatone</summary>
+<summary>Additional info about Sharpedo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lunatone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/337.png) |
-| back_shiny | ![Lunatone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/337.png) |
-| front_default | ![Lunatone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png) | </details>
+| back_default | ![Sharpedo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/319.png) |
+| back_shiny | ![Sharpedo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/319.png) |
+| front_default | ![Sharpedo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | </details>
