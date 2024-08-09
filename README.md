@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sharpedo
+# Today's random Pokemon is... Rampardos
 
-![Sharpedo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/319.png)
+![Rampardos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/409.png)
 
 <details>
-<summary>Additional info about Sharpedo</summary>
+<summary>Additional info about Rampardos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sharpedo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/319.png) |
-| back_shiny | ![Sharpedo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/319.png) |
-| front_default | ![Sharpedo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | </details>
+| back_default | ![Rampardos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/409.png) |
+| back_shiny | ![Rampardos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/409.png) |
+| front_default | ![Rampardos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png) | </details>
