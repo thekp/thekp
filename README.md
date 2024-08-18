@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Basculin-red-striped
+# Today's random Pokemon is... Garchomp
 
-![Basculin-red-striped shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/550.png)
+![Garchomp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/445.png)
 
 <details>
-<summary>Additional info about Basculin-red-striped</summary>
+<summary>Additional info about Garchomp</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Basculin-red-striped back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/550.png) |
-| back_shiny | ![Basculin-red-striped back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/550.png) |
-| front_default | ![Basculin-red-striped front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png) | </details>
+| back_default | ![Garchomp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/445.png) |
+| back_female | ![Garchomp back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/445.png) |
+| back_shiny | ![Garchomp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/445.png) |
+| back_shiny_female | ![Garchomp back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/445.png) |
+| front_default | ![Garchomp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png) |
+| front_female | ![Garchomp front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/445.png) |
+| front_shiny_female | ![Garchomp front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/445.png) | </details>
