@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Vivillon
+# Today's random Pokemon is... Jolteon
 
-![Vivillon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/666.png)
+![Jolteon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/135.png)
 
 <details>
-<summary>Additional info about Vivillon</summary>
+<summary>Additional info about Jolteon</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Vivillon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png) | </details>
+| back_default | ![Jolteon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png) |
+| back_shiny | ![Jolteon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/135.png) |
+| front_default | ![Jolteon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png) | </details>
