@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ariados
+# Today's random Pokemon is... Sharpedo
 
-![Ariados shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/168.png)
+![Sharpedo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/319.png)
 
 <details>
-<summary>Additional info about Ariados</summary>
+<summary>Additional info about Sharpedo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ariados back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/168.png) |
-| back_shiny | ![Ariados back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/168.png) |
-| front_default | ![Ariados front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png) | </details>
+| back_default | ![Sharpedo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/319.png) |
+| back_shiny | ![Sharpedo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/319.png) |
+| front_default | ![Sharpedo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | </details>
