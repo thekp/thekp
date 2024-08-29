@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Sharpedo
+# Today's random Pokemon is... Relicanth
 
-![Sharpedo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/319.png)
+![Relicanth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/369.png)
 
 <details>
-<summary>Additional info about Sharpedo</summary>
+<summary>Additional info about Relicanth</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sharpedo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/319.png) |
-| back_shiny | ![Sharpedo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/319.png) |
-| front_default | ![Sharpedo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | </details>
+| back_default | ![Relicanth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/369.png) |
+| back_female | ![Relicanth back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/369.png) |
+| back_shiny | ![Relicanth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/369.png) |
+| back_shiny_female | ![Relicanth back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/369.png) |
+| front_default | ![Relicanth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png) |
+| front_female | ![Relicanth front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/369.png) |
+| front_shiny_female | ![Relicanth front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/369.png) | </details>
