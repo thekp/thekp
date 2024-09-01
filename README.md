@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Beautifly
+# Today's random Pokemon is... Bidoof
 
-![Beautifly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/267.png)
+![Bidoof shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/399.png)
 
 <details>
-<summary>Additional info about Beautifly</summary>
+<summary>Additional info about Bidoof</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Beautifly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/267.png) |
-| back_female | ![Beautifly back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/267.png) |
-| back_shiny | ![Beautifly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/267.png) |
-| back_shiny_female | ![Beautifly back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/267.png) |
-| front_default | ![Beautifly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png) |
-| front_female | ![Beautifly front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/267.png) |
-| front_shiny_female | ![Beautifly front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/267.png) | </details>
+| back_default | ![Bidoof back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/399.png) |
+| back_female | ![Bidoof back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/399.png) |
+| back_shiny | ![Bidoof back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/399.png) |
+| back_shiny_female | ![Bidoof back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/399.png) |
+| front_default | ![Bidoof front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png) |
+| front_female | ![Bidoof front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/399.png) |
+| front_shiny_female | ![Bidoof front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/399.png) | </details>
