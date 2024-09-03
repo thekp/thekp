@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sawk
+# Today's random Pokemon is... Sandslash
 
-![Sawk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/539.png)
+![Sandslash shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/28.png)
 
 <details>
-<summary>Additional info about Sawk</summary>
+<summary>Additional info about Sandslash</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sawk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/539.png) |
-| back_shiny | ![Sawk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/539.png) |
-| front_default | ![Sawk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png) | </details>
+| back_default | ![Sandslash back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/28.png) |
+| back_shiny | ![Sandslash back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/28.png) |
+| front_default | ![Sandslash front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png) | </details>
