@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Emolga
+# Today's random Pokemon is... Dedenne
 
-![Emolga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/587.png)
+![Dedenne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/702.png)
 
 <details>
-<summary>Additional info about Emolga</summary>
+<summary>Additional info about Dedenne</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Emolga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/587.png) |
-| back_shiny | ![Emolga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/587.png) |
-| front_default | ![Emolga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png) | </details>
+| back_default | ![Dedenne back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/702.png) |
+| back_shiny | ![Dedenne back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/702.png) |
+| front_default | ![Dedenne front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png) | </details>
