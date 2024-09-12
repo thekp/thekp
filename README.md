@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cyndaquil
+# Today's random Pokemon is... Leavanny
 
-![Cyndaquil shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/155.png)
+![Leavanny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
 
 <details>
-<summary>Additional info about Cyndaquil</summary>
+<summary>Additional info about Leavanny</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cyndaquil back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/155.png) |
-| back_shiny | ![Cyndaquil back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/155.png) |
-| front_default | ![Cyndaquil front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png) | </details>
+| back_default | ![Leavanny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/542.png) |
+| back_shiny | ![Leavanny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/542.png) |
+| front_default | ![Leavanny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png) | </details>
