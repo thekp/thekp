@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Leavanny
+# Today's random Pokemon is... Ivysaur
 
-![Leavanny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
+![Ivysaur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/2.png)
 
 <details>
-<summary>Additional info about Leavanny</summary>
+<summary>Additional info about Ivysaur</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Leavanny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/542.png) |
-| back_shiny | ![Leavanny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/542.png) |
-| front_default | ![Leavanny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png) | </details>
+| back_default | ![Ivysaur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png) |
+| back_shiny | ![Ivysaur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/2.png) |
+| front_default | ![Ivysaur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png) | </details>
