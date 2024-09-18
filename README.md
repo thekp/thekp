@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vanilluxe
+# Today's random Pokemon is... Zapdos
 
-![Vanilluxe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/584.png)
+![Zapdos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/145.png)
 
 <details>
-<summary>Additional info about Vanilluxe</summary>
+<summary>Additional info about Zapdos</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vanilluxe back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/584.png) |
-| back_shiny | ![Vanilluxe back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/584.png) |
-| front_default | ![Vanilluxe front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png) | </details>
+| back_default | ![Zapdos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png) |
+| back_shiny | ![Zapdos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/145.png) |
+| front_default | ![Zapdos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png) | </details>
