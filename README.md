@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nidoran-m
+# Today's random Pokemon is... Lurantis
 
-![Nidoran-m shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/32.png)
+![Lurantis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/754.png)
 
 <details>
-<summary>Additional info about Nidoran-m</summary>
+<summary>Additional info about Lurantis</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nidoran-m back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png) |
-| back_shiny | ![Nidoran-m back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/32.png) |
-| front_default | ![Nidoran-m front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png) | </details>
+| back_default | ![Lurantis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/754.png) |
+| back_shiny | ![Lurantis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/754.png) |
+| front_default | ![Lurantis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png) | </details>
