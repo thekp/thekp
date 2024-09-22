@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Omanyte
+# Today's random Pokemon is... Spearow
 
-![Omanyte shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/138.png)
+![Spearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/21.png)
 
 <details>
-<summary>Additional info about Omanyte</summary>
+<summary>Additional info about Spearow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Omanyte back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png) |
-| back_shiny | ![Omanyte back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/138.png) |
-| front_default | ![Omanyte front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png) | </details>
+| back_default | ![Spearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png) |
+| back_shiny | ![Spearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/21.png) |
+| front_default | ![Spearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png) | </details>
