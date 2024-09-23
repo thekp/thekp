@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spearow
+# Today's random Pokemon is... Bunnelby
 
-![Spearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/21.png)
+![Bunnelby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/659.png)
 
 <details>
-<summary>Additional info about Spearow</summary>
+<summary>Additional info about Bunnelby</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png) |
-| back_shiny | ![Spearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/21.png) |
-| front_default | ![Spearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png) | </details>
+| back_default | ![Bunnelby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/659.png) |
+| back_shiny | ![Bunnelby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/659.png) |
+| front_default | ![Bunnelby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png) | </details>
