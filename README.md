@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Komala
+# Today's random Pokemon is... Dhelmise
 
-![Komala shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/775.png)
+![Dhelmise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/781.png)
 
 <details>
-<summary>Additional info about Komala</summary>
+<summary>Additional info about Dhelmise</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Komala back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/775.png) |
-| back_shiny | ![Komala back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/775.png) |
-| front_default | ![Komala front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png) | </details>
+| back_default | ![Dhelmise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/781.png) |
+| back_shiny | ![Dhelmise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/781.png) |
+| front_default | ![Dhelmise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png) | </details>
