@@ -1,12 +1,14 @@
-# Today's random Pokemon is... Whismur
+# Today's random Pokemon is... Cacturne
 
-![Whismur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/293.png)
+![Cacturne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/332.png)
 
 <details>
-<summary>Additional info about Whismur</summary>
+<summary>Additional info about Cacturne</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Whismur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/293.png) |
-| back_shiny | ![Whismur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/293.png) |
-| front_default | ![Whismur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png) | </details>
+| back_default | ![Cacturne back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/332.png) |
+| back_shiny | ![Cacturne back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/332.png) |
+| front_default | ![Cacturne front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png) |
+| front_female | ![Cacturne front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/332.png) |
+| front_shiny_female | ![Cacturne front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/332.png) | </details>
