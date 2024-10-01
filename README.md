@@ -1,14 +1,12 @@
-# Today's random Pokemon is... Cacturne
+# Today's random Pokemon is... Dwebble
 
-![Cacturne shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/332.png)
+![Dwebble shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/557.png)
 
 <details>
-<summary>Additional info about Cacturne</summary>
+<summary>Additional info about Dwebble</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cacturne back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/332.png) |
-| back_shiny | ![Cacturne back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/332.png) |
-| front_default | ![Cacturne front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png) |
-| front_female | ![Cacturne front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/332.png) |
-| front_shiny_female | ![Cacturne front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/332.png) | </details>
+| back_default | ![Dwebble back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/557.png) |
+| back_shiny | ![Dwebble back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/557.png) |
+| front_default | ![Dwebble front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png) | </details>
