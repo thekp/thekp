@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Crawdaunt
+# Today's random Pokemon is... Abra
 
-![Crawdaunt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/342.png)
+![Abra shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/63.png)
 
 <details>
-<summary>Additional info about Crawdaunt</summary>
+<summary>Additional info about Abra</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Crawdaunt back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/342.png) |
-| back_shiny | ![Crawdaunt back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/342.png) |
-| front_default | ![Crawdaunt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png) | </details>
+| back_default | ![Abra back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/63.png) |
+| back_shiny | ![Abra back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/63.png) |
+| front_default | ![Abra front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png) | </details>
