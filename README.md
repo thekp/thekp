@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dwebble
+# Today's random Pokemon is... Hariyama
 
-![Dwebble shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/557.png)
+![Hariyama shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/297.png)
 
 <details>
-<summary>Additional info about Dwebble</summary>
+<summary>Additional info about Hariyama</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dwebble back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/557.png) |
-| back_shiny | ![Dwebble back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/557.png) |
-| front_default | ![Dwebble front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png) | </details>
+| back_default | ![Hariyama back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/297.png) |
+| back_shiny | ![Hariyama back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/297.png) |
+| front_default | ![Hariyama front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png) | </details>
