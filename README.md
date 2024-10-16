@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vikavolt
+# Today's random Pokemon is... Blitzle
 
-![Vikavolt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/738.png)
+![Blitzle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/522.png)
 
 <details>
-<summary>Additional info about Vikavolt</summary>
+<summary>Additional info about Blitzle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vikavolt back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/738.png) |
-| back_shiny | ![Vikavolt back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/738.png) |
-| front_default | ![Vikavolt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png) | </details>
+| back_default | ![Blitzle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/522.png) |
+| back_shiny | ![Blitzle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/522.png) |
+| front_default | ![Blitzle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png) | </details>
