@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Blitzle
+# Today's random Pokemon is... Dewgong
 
-![Blitzle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/522.png)
+![Dewgong shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/87.png)
 
 <details>
-<summary>Additional info about Blitzle</summary>
+<summary>Additional info about Dewgong</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Blitzle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/522.png) |
-| back_shiny | ![Blitzle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/522.png) |
-| front_default | ![Blitzle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png) | </details>
+| back_default | ![Dewgong back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png) |
+| back_shiny | ![Dewgong back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/87.png) |
+| front_default | ![Dewgong front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png) | </details>
