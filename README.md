@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spewpa
+# Today's random Pokemon is... Binacle
 
-![Spewpa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/665.png)
+![Binacle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/688.png)
 
 <details>
-<summary>Additional info about Spewpa</summary>
+<summary>Additional info about Binacle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spewpa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/665.png) |
-| back_shiny | ![Spewpa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/665.png) |
-| front_default | ![Spewpa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png) | </details>
+| back_default | ![Binacle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/688.png) |
+| back_shiny | ![Binacle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/688.png) |
+| front_default | ![Binacle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/688.png) | </details>
