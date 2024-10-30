@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Machamp
+# Today's random Pokemon is... Cinccino
 
-![Machamp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/68.png)
+![Cinccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/573.png)
 
 <details>
-<summary>Additional info about Machamp</summary>
+<summary>Additional info about Cinccino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Machamp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/68.png) |
-| back_shiny | ![Machamp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/68.png) |
-| front_default | ![Machamp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png) | </details>
+| back_default | ![Cinccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/573.png) |
+| back_shiny | ![Cinccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/573.png) |
+| front_default | ![Cinccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png) | </details>
