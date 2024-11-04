@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Phione
+# Today's random Pokemon is... Gengar
 
-![Phione shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/489.png)
+![Gengar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/94.png)
 
 <details>
-<summary>Additional info about Phione</summary>
+<summary>Additional info about Gengar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Phione back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/489.png) |
-| back_shiny | ![Phione back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/489.png) |
-| front_default | ![Phione front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png) | </details>
+| back_default | ![Gengar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png) |
+| back_shiny | ![Gengar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/94.png) |
+| front_default | ![Gengar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | </details>
