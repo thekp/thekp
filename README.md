@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gallade
+# Today's random Pokemon is... Zangoose
 
-![Gallade shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/475.png)
+![Zangoose shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/335.png)
 
 <details>
-<summary>Additional info about Gallade</summary>
+<summary>Additional info about Zangoose</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gallade back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/475.png) |
-| back_shiny | ![Gallade back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/475.png) |
-| front_default | ![Gallade front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png) | </details>
+| back_default | ![Zangoose back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/335.png) |
+| back_shiny | ![Zangoose back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/335.png) |
+| front_default | ![Zangoose front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png) | </details>
