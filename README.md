@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swablu
+# Today's random Pokemon is... Slaking
 
-![Swablu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/333.png)
+![Slaking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/289.png)
 
 <details>
-<summary>Additional info about Swablu</summary>
+<summary>Additional info about Slaking</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swablu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/333.png) |
-| back_shiny | ![Swablu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/333.png) |
-| front_default | ![Swablu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png) | </details>
+| back_default | ![Slaking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/289.png) |
+| back_shiny | ![Slaking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/289.png) |
+| front_default | ![Slaking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png) | </details>
