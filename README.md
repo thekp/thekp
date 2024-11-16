@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Slaking
+# Today's random Pokemon is... Gastly
 
-![Slaking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/289.png)
+![Gastly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/92.png)
 
 <details>
-<summary>Additional info about Slaking</summary>
+<summary>Additional info about Gastly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slaking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/289.png) |
-| back_shiny | ![Slaking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/289.png) |
-| front_default | ![Slaking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png) | </details>
+| back_default | ![Gastly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png) |
+| back_shiny | ![Gastly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/92.png) |
+| front_default | ![Gastly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png) | </details>
