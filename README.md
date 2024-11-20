@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Golisopod
+# Today's random Pokemon is... Zweilous
 
-![Golisopod shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/768.png)
+![Zweilous shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/634.png)
 
 <details>
-<summary>Additional info about Golisopod</summary>
+<summary>Additional info about Zweilous</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Golisopod back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/768.png) |
-| back_shiny | ![Golisopod back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/768.png) |
-| front_default | ![Golisopod front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png) | </details>
+| back_default | ![Zweilous back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/634.png) |
+| back_shiny | ![Zweilous back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/634.png) |
+| front_default | ![Zweilous front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png) | </details>
