@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Zweilous
+# Today's random Pokemon is... Karrablast
 
-![Zweilous shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/634.png)
+![Karrablast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/588.png)
 
 <details>
-<summary>Additional info about Zweilous</summary>
+<summary>Additional info about Karrablast</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Zweilous back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/634.png) |
-| back_shiny | ![Zweilous back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/634.png) |
-| front_default | ![Zweilous front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png) | </details>
+| back_default | ![Karrablast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/588.png) |
+| back_shiny | ![Karrablast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/588.png) |
+| front_default | ![Karrablast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png) | </details>
