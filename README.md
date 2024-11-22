@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Karrablast
+# Today's random Pokemon is... Krookodile
 
-![Karrablast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/588.png)
+![Krookodile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/553.png)
 
 <details>
-<summary>Additional info about Karrablast</summary>
+<summary>Additional info about Krookodile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Karrablast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/588.png) |
-| back_shiny | ![Karrablast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/588.png) |
-| front_default | ![Karrablast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png) | </details>
+| back_default | ![Krookodile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/553.png) |
+| back_shiny | ![Krookodile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/553.png) |
+| front_default | ![Krookodile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png) | </details>
