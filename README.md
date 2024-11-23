@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Krookodile
+# Today's random Pokemon is... Xurkitree
 
-![Krookodile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/553.png)
+![Xurkitree shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/796.png)
 
 <details>
-<summary>Additional info about Krookodile</summary>
+<summary>Additional info about Xurkitree</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Krookodile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/553.png) |
-| back_shiny | ![Krookodile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/553.png) |
-| front_default | ![Krookodile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png) | </details>
+| back_default | ![Xurkitree back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/796.png) |
+| back_shiny | ![Xurkitree back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/796.png) |
+| front_default | ![Xurkitree front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png) | </details>
