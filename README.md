@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Eelektross
+# Today's random Pokemon is... Wooper
 
-![Eelektross shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/604.png)
+![Wooper shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/194.png)
 
 <details>
-<summary>Additional info about Eelektross</summary>
+<summary>Additional info about Wooper</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Eelektross back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/604.png) |
-| back_shiny | ![Eelektross back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/604.png) |
-| front_default | ![Eelektross front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png) | </details>
+| back_default | ![Wooper back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/194.png) |
+| back_female | ![Wooper back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/194.png) |
+| back_shiny | ![Wooper back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/194.png) |
+| back_shiny_female | ![Wooper back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/194.png) |
+| front_default | ![Wooper front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png) |
+| front_female | ![Wooper front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/194.png) |
+| front_shiny_female | ![Wooper front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/194.png) | </details>
