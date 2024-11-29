@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Garbodor
+# Today's random Pokemon is... Vigoroth
 
-![Garbodor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/569.png)
+![Vigoroth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/288.png)
 
 <details>
-<summary>Additional info about Garbodor</summary>
+<summary>Additional info about Vigoroth</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Garbodor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/569.png) |
-| back_shiny | ![Garbodor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/569.png) |
-| front_default | ![Garbodor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png) | </details>
+| back_default | ![Vigoroth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/288.png) |
+| back_shiny | ![Vigoroth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/288.png) |
+| front_default | ![Vigoroth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | </details>
