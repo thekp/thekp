@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vigoroth
+# Today's random Pokemon is... Tyrogue
 
-![Vigoroth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/288.png)
+![Tyrogue shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/236.png)
 
 <details>
-<summary>Additional info about Vigoroth</summary>
+<summary>Additional info about Tyrogue</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vigoroth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/288.png) |
-| back_shiny | ![Vigoroth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/288.png) |
-| front_default | ![Vigoroth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | </details>
+| back_default | ![Tyrogue back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/236.png) |
+| back_shiny | ![Tyrogue back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/236.png) |
+| front_default | ![Tyrogue front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png) | </details>
