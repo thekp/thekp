@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tyrogue
+# Today's random Pokemon is... Archen
 
-![Tyrogue shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/236.png)
+![Archen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/566.png)
 
 <details>
-<summary>Additional info about Tyrogue</summary>
+<summary>Additional info about Archen</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tyrogue back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/236.png) |
-| back_shiny | ![Tyrogue back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/236.png) |
-| front_default | ![Tyrogue front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png) | </details>
+| back_default | ![Archen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/566.png) |
+| back_shiny | ![Archen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/566.png) |
+| front_default | ![Archen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png) | </details>
