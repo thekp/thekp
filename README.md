@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Solosis
+# Today's random Pokemon is... Prinplup
 
-![Solosis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/577.png)
+![Prinplup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/394.png)
 
 <details>
-<summary>Additional info about Solosis</summary>
+<summary>Additional info about Prinplup</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Solosis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/577.png) |
-| back_shiny | ![Solosis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/577.png) |
-| front_default | ![Solosis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png) | </details>
+| back_default | ![Prinplup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/394.png) |
+| back_shiny | ![Prinplup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/394.png) |
+| front_default | ![Prinplup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png) | </details>
