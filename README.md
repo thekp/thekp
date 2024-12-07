@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tentacool
+# Today's random Pokemon is... Weezing
 
-![Tentacool shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/72.png)
+![Weezing shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/110.png)
 
 <details>
-<summary>Additional info about Tentacool</summary>
+<summary>Additional info about Weezing</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tentacool back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png) |
-| back_shiny | ![Tentacool back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/72.png) |
-| front_default | ![Tentacool front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png) | </details>
+| back_default | ![Weezing back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png) |
+| back_shiny | ![Weezing back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/110.png) |
+| front_default | ![Weezing front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png) | </details>
