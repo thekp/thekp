@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Drapion
+# Today's random Pokemon is... Regirock
 
-![Drapion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/452.png)
+![Regirock shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/377.png)
 
 <details>
-<summary>Additional info about Drapion</summary>
+<summary>Additional info about Regirock</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Drapion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/452.png) |
-| back_shiny | ![Drapion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/452.png) |
-| front_default | ![Drapion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png) | </details>
+| back_default | ![Regirock back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/377.png) |
+| back_shiny | ![Regirock back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/377.png) |
+| front_default | ![Regirock front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png) | </details>
