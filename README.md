@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Regirock
+# Today's random Pokemon is... Sandygast
 
-![Regirock shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/377.png)
+![Sandygast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/769.png)
 
 <details>
-<summary>Additional info about Regirock</summary>
+<summary>Additional info about Sandygast</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Regirock back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/377.png) |
-| back_shiny | ![Regirock back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/377.png) |
-| front_default | ![Regirock front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png) | </details>
+| back_default | ![Sandygast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/769.png) |
+| back_shiny | ![Sandygast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/769.png) |
+| front_default | ![Sandygast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png) | </details>
