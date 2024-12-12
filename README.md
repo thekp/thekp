@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Regice
+# Today's random Pokemon is... Castform
 
-![Regice shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/378.png)
+![Castform shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/351.png)
 
 <details>
-<summary>Additional info about Regice</summary>
+<summary>Additional info about Castform</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Regice back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/378.png) |
-| back_shiny | ![Regice back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/378.png) |
-| front_default | ![Regice front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png) | </details>
+| back_default | ![Castform back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/351.png) |
+| back_shiny | ![Castform back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/351.png) |
+| front_default | ![Castform front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png) | </details>
