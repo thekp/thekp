@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Castform
+# Today's random Pokemon is... Tornadus-incarnate
 
-![Castform shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/351.png)
+![Tornadus-incarnate shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641.png)
 
 <details>
-<summary>Additional info about Castform</summary>
+<summary>Additional info about Tornadus-incarnate</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Castform back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/351.png) |
-| back_shiny | ![Castform back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/351.png) |
-| front_default | ![Castform front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png) | </details>
+| back_default | ![Tornadus-incarnate back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641.png) |
+| back_shiny | ![Tornadus-incarnate back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641.png) |
+| front_default | ![Tornadus-incarnate front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png) | </details>
