@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sharpedo
+# Today's random Pokemon is... Mothim
 
-![Sharpedo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/319.png)
+![Mothim shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/414.png)
 
 <details>
-<summary>Additional info about Sharpedo</summary>
+<summary>Additional info about Mothim</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sharpedo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/319.png) |
-| back_shiny | ![Sharpedo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/319.png) |
-| front_default | ![Sharpedo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | </details>
+| back_default | ![Mothim back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/414.png) |
+| back_shiny | ![Mothim back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/414.png) |
+| front_default | ![Mothim front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png) | </details>
