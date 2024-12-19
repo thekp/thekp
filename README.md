@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poliwhirl
+# Today's random Pokemon is... Linoone
 
-![Poliwhirl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/61.png)
+![Linoone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/264.png)
 
 <details>
-<summary>Additional info about Poliwhirl</summary>
+<summary>Additional info about Linoone</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poliwhirl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png) |
-| back_shiny | ![Poliwhirl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/61.png) |
-| front_default | ![Poliwhirl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png) | </details>
+| back_default | ![Linoone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/264.png) |
+| back_shiny | ![Linoone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/264.png) |
+| front_default | ![Linoone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png) | </details>
