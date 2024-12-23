@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Armaldo
+# Today's random Pokemon is... Shaymin-land
 
-![Armaldo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/348.png)
+![Shaymin-land shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/492.png)
 
 <details>
-<summary>Additional info about Armaldo</summary>
+<summary>Additional info about Shaymin-land</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Armaldo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/348.png) |
-| back_shiny | ![Armaldo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/348.png) |
-| front_default | ![Armaldo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png) | </details>
+| back_default | ![Shaymin-land back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/492.png) |
+| back_shiny | ![Shaymin-land back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/492.png) |
+| front_default | ![Shaymin-land front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png) | </details>
