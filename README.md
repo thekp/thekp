@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Prinplup
+# Today's random Pokemon is... Ninetales
 
-![Prinplup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/394.png)
+![Ninetales shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/38.png)
 
 <details>
-<summary>Additional info about Prinplup</summary>
+<summary>Additional info about Ninetales</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Prinplup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/394.png) |
-| back_shiny | ![Prinplup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/394.png) |
-| front_default | ![Prinplup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png) | </details>
+| back_default | ![Ninetales back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png) |
+| back_shiny | ![Ninetales back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/38.png) |
+| front_default | ![Ninetales front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png) | </details>
