@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ninetales
+# Today's random Pokemon is... Virizion
 
-![Ninetales shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/38.png)
+![Virizion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/640.png)
 
 <details>
-<summary>Additional info about Ninetales</summary>
+<summary>Additional info about Virizion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ninetales back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png) |
-| back_shiny | ![Ninetales back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/38.png) |
-| front_default | ![Ninetales front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png) | </details>
+| back_default | ![Virizion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/640.png) |
+| back_shiny | ![Virizion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/640.png) |
+| front_default | ![Virizion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png) | </details>
