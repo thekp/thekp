@@ -1,12 +1,14 @@
-# Today's random Pokemon is... Virizion
+# Today's random Pokemon is... Bibarel
 
-![Virizion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/640.png)
+![Bibarel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/400.png)
 
 <details>
-<summary>Additional info about Virizion</summary>
+<summary>Additional info about Bibarel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Virizion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/640.png) |
-| back_shiny | ![Virizion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/640.png) |
-| front_default | ![Virizion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png) | </details>
+| back_default | ![Bibarel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/400.png) |
+| back_shiny | ![Bibarel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/400.png) |
+| front_default | ![Bibarel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png) |
+| front_female | ![Bibarel front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/400.png) |
+| front_shiny_female | ![Bibarel front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/400.png) | </details>
