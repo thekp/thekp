@@ -1,14 +1,12 @@
-# Today's random Pokemon is... Bibarel
+# Today's random Pokemon is... Yanma
 
-![Bibarel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/400.png)
+![Yanma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/193.png)
 
 <details>
-<summary>Additional info about Bibarel</summary>
+<summary>Additional info about Yanma</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bibarel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/400.png) |
-| back_shiny | ![Bibarel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/400.png) |
-| front_default | ![Bibarel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png) |
-| front_female | ![Bibarel front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/400.png) |
-| front_shiny_female | ![Bibarel front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/400.png) | </details>
+| back_default | ![Yanma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/193.png) |
+| back_shiny | ![Yanma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/193.png) |
+| front_default | ![Yanma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png) | </details>
