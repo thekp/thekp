@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cottonee
+# Today's random Pokemon is... Venonat
 
-![Cottonee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/546.png)
+![Venonat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/48.png)
 
 <details>
-<summary>Additional info about Cottonee</summary>
+<summary>Additional info about Venonat</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cottonee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/546.png) |
-| back_shiny | ![Cottonee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/546.png) |
-| front_default | ![Cottonee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png) | </details>
+| back_default | ![Venonat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/48.png) |
+| back_shiny | ![Venonat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/48.png) |
+| front_default | ![Venonat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png) | </details>
