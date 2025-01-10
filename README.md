@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Registeel
+# Today's random Pokemon is... Weedle
 
-![Registeel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/379.png)
+![Weedle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/13.png)
 
 <details>
-<summary>Additional info about Registeel</summary>
+<summary>Additional info about Weedle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Registeel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/379.png) |
-| back_shiny | ![Registeel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/379.png) |
-| front_default | ![Registeel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png) | </details>
+| back_default | ![Weedle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png) |
+| back_shiny | ![Weedle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/13.png) |
+| front_default | ![Weedle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png) | </details>
