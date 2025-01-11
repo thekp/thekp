@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Weedle
+# Today's random Pokemon is... Phanpy
 
-![Weedle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/13.png)
+![Phanpy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/231.png)
 
 <details>
-<summary>Additional info about Weedle</summary>
+<summary>Additional info about Phanpy</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Weedle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png) |
-| back_shiny | ![Weedle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/13.png) |
-| front_default | ![Weedle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png) | </details>
+| back_default | ![Phanpy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/231.png) |
+| back_shiny | ![Phanpy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/231.png) |
+| front_default | ![Phanpy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png) | </details>
