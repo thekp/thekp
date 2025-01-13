@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Stoutland
+# Today's random Pokemon is... Raikou
 
-![Stoutland shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/508.png)
+![Raikou shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/243.png)
 
 <details>
-<summary>Additional info about Stoutland</summary>
+<summary>Additional info about Raikou</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Stoutland back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/508.png) |
-| back_shiny | ![Stoutland back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/508.png) |
-| front_default | ![Stoutland front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png) | </details>
+| back_default | ![Raikou back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/243.png) |
+| back_shiny | ![Raikou back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/243.png) |
+| front_default | ![Raikou front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png) | </details>
