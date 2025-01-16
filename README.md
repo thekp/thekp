@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hydreigon
+# Today's random Pokemon is... Sharpedo
 
-![Hydreigon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/635.png)
+![Sharpedo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/319.png)
 
 <details>
-<summary>Additional info about Hydreigon</summary>
+<summary>Additional info about Sharpedo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hydreigon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/635.png) |
-| back_shiny | ![Hydreigon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/635.png) |
-| front_default | ![Hydreigon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png) | </details>
+| back_default | ![Sharpedo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/319.png) |
+| back_shiny | ![Sharpedo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/319.png) |
+| front_default | ![Sharpedo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png) | </details>
