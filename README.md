@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electabuzz
+# Today's random Pokemon is... Watchog
 
-![Electabuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/125.png)
+![Watchog shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/505.png)
 
 <details>
-<summary>Additional info about Electabuzz</summary>
+<summary>Additional info about Watchog</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electabuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png) |
-| back_shiny | ![Electabuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/125.png) |
-| front_default | ![Electabuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | </details>
+| back_default | ![Watchog back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/505.png) |
+| back_shiny | ![Watchog back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/505.png) |
+| front_default | ![Watchog front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png) | </details>
