@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Watchog
+# Today's random Pokemon is... Kabuto
 
-![Watchog shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/505.png)
+![Kabuto shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/140.png)
 
 <details>
-<summary>Additional info about Watchog</summary>
+<summary>Additional info about Kabuto</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Watchog back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/505.png) |
-| back_shiny | ![Watchog back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/505.png) |
-| front_default | ![Watchog front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png) | </details>
+| back_default | ![Kabuto back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png) |
+| back_shiny | ![Kabuto back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/140.png) |
+| front_default | ![Kabuto front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png) | </details>
