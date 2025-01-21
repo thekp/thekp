@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kabuto
+# Today's random Pokemon is... Trapinch
 
-![Kabuto shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/140.png)
+![Trapinch shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/328.png)
 
 <details>
-<summary>Additional info about Kabuto</summary>
+<summary>Additional info about Trapinch</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kabuto back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png) |
-| back_shiny | ![Kabuto back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/140.png) |
-| front_default | ![Kabuto front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png) | </details>
+| back_default | ![Trapinch back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/328.png) |
+| back_shiny | ![Trapinch back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/328.png) |
+| front_default | ![Trapinch front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | </details>
