@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Trapinch
+# Today's random Pokemon is... Litleo
 
-![Trapinch shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/328.png)
+![Litleo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/667.png)
 
 <details>
-<summary>Additional info about Trapinch</summary>
+<summary>Additional info about Litleo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Trapinch back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/328.png) |
-| back_shiny | ![Trapinch back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/328.png) |
-| front_default | ![Trapinch front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png) | </details>
+| back_default | ![Litleo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/667.png) |
+| back_shiny | ![Litleo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/667.png) |
+| front_default | ![Litleo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png) | </details>
