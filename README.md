@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Goomy
+# Today's random Pokemon is... Volcanion
 
-![Goomy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/704.png)
+![Volcanion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/721.png)
 
 <details>
-<summary>Additional info about Goomy</summary>
+<summary>Additional info about Volcanion</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Goomy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/704.png) |
-| back_shiny | ![Goomy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/704.png) |
-| front_default | ![Goomy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png) | </details>
+| front_default | ![Volcanion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png) | </details>
