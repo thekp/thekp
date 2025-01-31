@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hawlucha
+# Today's random Pokemon is... Cleffa
 
-![Hawlucha shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/701.png)
+![Cleffa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/173.png)
 
 <details>
-<summary>Additional info about Hawlucha</summary>
+<summary>Additional info about Cleffa</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hawlucha back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/701.png) |
-| back_shiny | ![Hawlucha back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/701.png) |
-| front_default | ![Hawlucha front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png) | </details>
+| back_default | ![Cleffa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/173.png) |
+| back_shiny | ![Cleffa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/173.png) |
+| front_default | ![Cleffa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png) | </details>
