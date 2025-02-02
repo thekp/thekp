@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ducklett
+# Today's random Pokemon is... Emboar
 
-![Ducklett shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/580.png)
+![Emboar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/500.png)
 
 <details>
-<summary>Additional info about Ducklett</summary>
+<summary>Additional info about Emboar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ducklett back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/580.png) |
-| back_shiny | ![Ducklett back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/580.png) |
-| front_default | ![Ducklett front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png) | </details>
+| back_default | ![Emboar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/500.png) |
+| back_shiny | ![Emboar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/500.png) |
+| front_default | ![Emboar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png) | </details>
