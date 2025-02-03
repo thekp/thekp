@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Emboar
+# Today's random Pokemon is... Sentret
 
-![Emboar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/500.png)
+![Sentret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/161.png)
 
 <details>
-<summary>Additional info about Emboar</summary>
+<summary>Additional info about Sentret</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Emboar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/500.png) |
-| back_shiny | ![Emboar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/500.png) |
-| front_default | ![Emboar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png) | </details>
+| back_default | ![Sentret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/161.png) |
+| back_shiny | ![Sentret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/161.png) |
+| front_default | ![Sentret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png) | </details>
