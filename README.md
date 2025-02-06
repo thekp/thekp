@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Delcatty
+# Today's random Pokemon is... Stunky
 
-![Delcatty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/301.png)
+![Stunky shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/434.png)
 
 <details>
-<summary>Additional info about Delcatty</summary>
+<summary>Additional info about Stunky</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Delcatty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/301.png) |
-| back_shiny | ![Delcatty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/301.png) |
-| front_default | ![Delcatty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png) | </details>
+| back_default | ![Stunky back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/434.png) |
+| back_shiny | ![Stunky back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/434.png) |
+| front_default | ![Stunky front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png) | </details>
