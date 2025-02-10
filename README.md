@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mismagius
+# Today's random Pokemon is... Armaldo
 
-![Mismagius shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/429.png)
+![Armaldo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/348.png)
 
 <details>
-<summary>Additional info about Mismagius</summary>
+<summary>Additional info about Armaldo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mismagius back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/429.png) |
-| back_shiny | ![Mismagius back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/429.png) |
-| front_default | ![Mismagius front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png) | </details>
+| back_default | ![Armaldo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/348.png) |
+| back_shiny | ![Armaldo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/348.png) |
+| front_default | ![Armaldo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png) | </details>
