@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Komala
+# Today's random Pokemon is... Leavanny
 
-![Komala shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/775.png)
+![Leavanny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
 
 <details>
-<summary>Additional info about Komala</summary>
+<summary>Additional info about Leavanny</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Komala back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/775.png) |
-| back_shiny | ![Komala back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/775.png) |
-| front_default | ![Komala front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png) | </details>
+| back_default | ![Leavanny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/542.png) |
+| back_shiny | ![Leavanny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/542.png) |
+| front_default | ![Leavanny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png) | </details>
