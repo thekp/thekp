@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mantine
+# Today's random Pokemon is... Spinarak
 
-![Mantine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/226.png)
+![Spinarak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/167.png)
 
 <details>
-<summary>Additional info about Mantine</summary>
+<summary>Additional info about Spinarak</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mantine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/226.png) |
-| back_shiny | ![Mantine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/226.png) |
-| front_default | ![Mantine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png) | </details>
+| back_default | ![Spinarak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/167.png) |
+| back_shiny | ![Spinarak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/167.png) |
+| front_default | ![Spinarak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png) | </details>
