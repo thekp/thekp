@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Marowak
+# Today's random Pokemon is... Tyrogue
 
-![Marowak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/105.png)
+![Tyrogue shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/236.png)
 
 <details>
-<summary>Additional info about Marowak</summary>
+<summary>Additional info about Tyrogue</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Marowak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png) |
-| back_shiny | ![Marowak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/105.png) |
-| front_default | ![Marowak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png) | </details>
+| back_default | ![Tyrogue back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/236.png) |
+| back_shiny | ![Tyrogue back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/236.png) |
+| front_default | ![Tyrogue front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png) | </details>
