@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tyrogue
+# Today's random Pokemon is... Metang
 
-![Tyrogue shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/236.png)
+![Metang shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/375.png)
 
 <details>
-<summary>Additional info about Tyrogue</summary>
+<summary>Additional info about Metang</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tyrogue back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/236.png) |
-| back_shiny | ![Tyrogue back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/236.png) |
-| front_default | ![Tyrogue front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png) | </details>
+| back_default | ![Metang back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/375.png) |
+| back_shiny | ![Metang back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/375.png) |
+| front_default | ![Metang front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png) | </details>
