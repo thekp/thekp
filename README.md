@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tauros
+# Today's random Pokemon is... Altaria
 
-![Tauros shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/128.png)
+![Altaria shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/334.png)
 
 <details>
-<summary>Additional info about Tauros</summary>
+<summary>Additional info about Altaria</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tauros back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/128.png) |
-| back_shiny | ![Tauros back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/128.png) |
-| front_default | ![Tauros front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png) | </details>
+| back_default | ![Altaria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/334.png) |
+| back_shiny | ![Altaria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/334.png) |
+| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png) | </details>
