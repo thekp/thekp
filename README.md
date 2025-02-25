@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Altaria
+# Today's random Pokemon is... Swadloon
 
-![Altaria shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/334.png)
+![Swadloon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/541.png)
 
 <details>
-<summary>Additional info about Altaria</summary>
+<summary>Additional info about Swadloon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Altaria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/334.png) |
-| back_shiny | ![Altaria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/334.png) |
-| front_default | ![Altaria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png) | </details>
+| back_default | ![Swadloon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/541.png) |
+| back_shiny | ![Swadloon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/541.png) |
+| front_default | ![Swadloon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png) | </details>
