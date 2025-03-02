@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cradily
+# Today's random Pokemon is... Palkia
 
-![Cradily shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/346.png)
+![Palkia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/484.png)
 
 <details>
-<summary>Additional info about Cradily</summary>
+<summary>Additional info about Palkia</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cradily back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/346.png) |
-| back_shiny | ![Cradily back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/346.png) |
-| front_default | ![Cradily front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png) | </details>
+| back_default | ![Palkia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/484.png) |
+| back_shiny | ![Palkia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/484.png) |
+| front_default | ![Palkia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png) | </details>
