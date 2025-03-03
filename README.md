@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Palkia
+# Today's random Pokemon is... Noibat
 
-![Palkia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/484.png)
+![Noibat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/714.png)
 
 <details>
-<summary>Additional info about Palkia</summary>
+<summary>Additional info about Noibat</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Palkia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/484.png) |
-| back_shiny | ![Palkia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/484.png) |
-| front_default | ![Palkia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png) | </details>
+| front_default | ![Noibat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png) | </details>
