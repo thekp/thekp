@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shuckle
+# Today's random Pokemon is... Qwilfish
 
-![Shuckle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/213.png)
+![Qwilfish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/211.png)
 
 <details>
-<summary>Additional info about Shuckle</summary>
+<summary>Additional info about Qwilfish</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shuckle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/213.png) |
-| back_shiny | ![Shuckle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/213.png) |
-| front_default | ![Shuckle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png) | </details>
+| back_default | ![Qwilfish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/211.png) |
+| back_shiny | ![Qwilfish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/211.png) |
+| front_default | ![Qwilfish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png) | </details>
