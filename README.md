@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chesnaught
+# Today's random Pokemon is... Cosmoem
 
-![Chesnaught shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/652.png)
+![Cosmoem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/790.png)
 
 <details>
-<summary>Additional info about Chesnaught</summary>
+<summary>Additional info about Cosmoem</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chesnaught back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/652.png) |
-| back_shiny | ![Chesnaught back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/652.png) |
-| front_default | ![Chesnaught front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png) | </details>
+| back_default | ![Cosmoem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/790.png) |
+| back_shiny | ![Cosmoem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/790.png) |
+| front_default | ![Cosmoem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png) | </details>
