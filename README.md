@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Cosmoem
+# Today's random Pokemon is... Fletchling
 
-![Cosmoem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/790.png)
+![Fletchling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/661.png)
 
 <details>
-<summary>Additional info about Cosmoem</summary>
+<summary>Additional info about Fletchling</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cosmoem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/790.png) |
-| back_shiny | ![Cosmoem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/790.png) |
-| front_default | ![Cosmoem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png) | </details>
+| front_default | ![Fletchling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png) | </details>
