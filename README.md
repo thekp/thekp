@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Linoone
+# Today's random Pokemon is... Passimian
 
-![Linoone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/264.png)
+![Passimian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/766.png)
 
 <details>
-<summary>Additional info about Linoone</summary>
+<summary>Additional info about Passimian</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Linoone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/264.png) |
-| back_shiny | ![Linoone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/264.png) |
-| front_default | ![Linoone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png) | </details>
+| back_default | ![Passimian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/766.png) |
+| back_shiny | ![Passimian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/766.png) |
+| front_default | ![Passimian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png) | </details>
