@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Passimian
+# Today's random Pokemon is... Sawsbuck
 
-![Passimian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/766.png)
+![Sawsbuck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/586.png)
 
 <details>
-<summary>Additional info about Passimian</summary>
+<summary>Additional info about Sawsbuck</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Passimian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/766.png) |
-| back_shiny | ![Passimian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/766.png) |
-| front_default | ![Passimian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png) | </details>
+| back_default | ![Sawsbuck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/586.png) |
+| back_shiny | ![Sawsbuck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/586.png) |
+| front_default | ![Sawsbuck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png) | </details>
