@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Purugly
+# Today's random Pokemon is... Timburr
 
-![Purugly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/432.png)
+![Timburr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/532.png)
 
 <details>
-<summary>Additional info about Purugly</summary>
+<summary>Additional info about Timburr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Purugly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/432.png) |
-| back_shiny | ![Purugly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/432.png) |
-| front_default | ![Purugly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png) | </details>
+| back_default | ![Timburr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/532.png) |
+| back_shiny | ![Timburr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/532.png) |
+| front_default | ![Timburr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png) | </details>
