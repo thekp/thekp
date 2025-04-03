@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Exeggcute
+# Today's random Pokemon is... Dragonite
 
-![Exeggcute shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/102.png)
+![Dragonite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/149.png)
 
 <details>
-<summary>Additional info about Exeggcute</summary>
+<summary>Additional info about Dragonite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Exeggcute back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/102.png) |
-| back_shiny | ![Exeggcute back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/102.png) |
-| front_default | ![Exeggcute front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png) | </details>
+| back_default | ![Dragonite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png) |
+| back_shiny | ![Dragonite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/149.png) |
+| front_default | ![Dragonite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png) | </details>
