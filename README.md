@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Herdier
+# Today's random Pokemon is... Lurantis
 
-![Herdier shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/507.png)
+![Lurantis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/754.png)
 
 <details>
-<summary>Additional info about Herdier</summary>
+<summary>Additional info about Lurantis</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Herdier back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/507.png) |
-| back_shiny | ![Herdier back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/507.png) |
-| front_default | ![Herdier front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png) | </details>
+| back_default | ![Lurantis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/754.png) |
+| back_shiny | ![Lurantis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/754.png) |
+| front_default | ![Lurantis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png) | </details>
