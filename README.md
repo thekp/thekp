@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lurantis
+# Today's random Pokemon is... Scolipede
 
-![Lurantis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/754.png)
+![Scolipede shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/545.png)
 
 <details>
-<summary>Additional info about Lurantis</summary>
+<summary>Additional info about Scolipede</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lurantis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/754.png) |
-| back_shiny | ![Lurantis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/754.png) |
-| front_default | ![Lurantis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png) | </details>
+| back_default | ![Scolipede back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/545.png) |
+| back_shiny | ![Scolipede back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/545.png) |
+| front_default | ![Scolipede front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png) | </details>
