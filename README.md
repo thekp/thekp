@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Scolipede
+# Today's random Pokemon is... Wynaut
 
-![Scolipede shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/545.png)
+![Wynaut shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/360.png)
 
 <details>
-<summary>Additional info about Scolipede</summary>
+<summary>Additional info about Wynaut</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Scolipede back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/545.png) |
-| back_shiny | ![Scolipede back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/545.png) |
-| front_default | ![Scolipede front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png) | </details>
+| back_default | ![Wynaut back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/360.png) |
+| back_shiny | ![Wynaut back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/360.png) |
+| front_default | ![Wynaut front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png) | </details>
