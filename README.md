@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Salandit
+# Today's random Pokemon is... Tyranitar
 
-![Salandit shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/757.png)
+![Tyranitar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/248.png)
 
 <details>
-<summary>Additional info about Salandit</summary>
+<summary>Additional info about Tyranitar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Salandit back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/757.png) |
-| back_shiny | ![Salandit back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/757.png) |
-| front_default | ![Salandit front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png) | </details>
+| back_default | ![Tyranitar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/248.png) |
+| back_shiny | ![Tyranitar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/248.png) |
+| front_default | ![Tyranitar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png) | </details>
