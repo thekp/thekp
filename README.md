@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Ursaring
+# Today's random Pokemon is... Beldum
 
-![Ursaring shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/217.png)
+![Beldum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/374.png)
 
 <details>
-<summary>Additional info about Ursaring</summary>
+<summary>Additional info about Beldum</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ursaring back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/217.png) |
-| back_female | ![Ursaring back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/217.png) |
-| back_shiny | ![Ursaring back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/217.png) |
-| back_shiny_female | ![Ursaring back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/217.png) |
-| front_default | ![Ursaring front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png) |
-| front_female | ![Ursaring front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/217.png) |
-| front_shiny_female | ![Ursaring front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/217.png) | </details>
+| back_default | ![Beldum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/374.png) |
+| back_shiny | ![Beldum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/374.png) |
+| front_default | ![Beldum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png) | </details>
