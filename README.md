@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Fletchling
+# Today's random Pokemon is... Spearow
 
-![Fletchling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/661.png)
+![Spearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/21.png)
 
 <details>
-<summary>Additional info about Fletchling</summary>
+<summary>Additional info about Spearow</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Fletchling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png) | </details>
+| back_default | ![Spearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png) |
+| back_shiny | ![Spearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/21.png) |
+| front_default | ![Spearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png) | </details>
