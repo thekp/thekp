@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Beartic
+# Today's random Pokemon is... Chesnaught
 
-![Beartic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/614.png)
+![Chesnaught shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/652.png)
 
 <details>
-<summary>Additional info about Beartic</summary>
+<summary>Additional info about Chesnaught</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Beartic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/614.png) |
-| back_shiny | ![Beartic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/614.png) |
-| front_default | ![Beartic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png) | </details>
+| back_default | ![Chesnaught back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/652.png) |
+| back_shiny | ![Chesnaught back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/652.png) |
+| front_default | ![Chesnaught front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png) | </details>
