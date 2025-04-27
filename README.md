@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chesnaught
+# Today's random Pokemon is... Graveler
 
-![Chesnaught shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/652.png)
+![Graveler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/75.png)
 
 <details>
-<summary>Additional info about Chesnaught</summary>
+<summary>Additional info about Graveler</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Chesnaught back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/652.png) |
-| back_shiny | ![Chesnaught back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/652.png) |
-| front_default | ![Chesnaught front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png) | </details>
+| back_default | ![Graveler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png) |
+| back_shiny | ![Graveler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/75.png) |
+| front_default | ![Graveler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png) | </details>
