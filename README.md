@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Rotom
+# Today's random Pokemon is... Sentret
 
-![Rotom shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/479.png)
+![Sentret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/161.png)
 
 <details>
-<summary>Additional info about Rotom</summary>
+<summary>Additional info about Sentret</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Rotom back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/479.png) |
-| back_shiny | ![Rotom back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/479.png) |
-| front_default | ![Rotom front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png) | </details>
+| back_default | ![Sentret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/161.png) |
+| back_shiny | ![Sentret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/161.png) |
+| front_default | ![Sentret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png) | </details>
