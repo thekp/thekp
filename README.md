@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tapu-koko
+# Today's random Pokemon is... Vulpix
 
-![Tapu-koko shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/785.png)
+![Vulpix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/37.png)
 
 <details>
-<summary>Additional info about Tapu-koko</summary>
+<summary>Additional info about Vulpix</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tapu-koko back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/785.png) |
-| back_shiny | ![Tapu-koko back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/785.png) |
-| front_default | ![Tapu-koko front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png) | </details>
+| back_default | ![Vulpix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png) |
+| back_shiny | ![Vulpix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/37.png) |
+| front_default | ![Vulpix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png) | </details>
