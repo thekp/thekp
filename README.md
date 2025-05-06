@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vulpix
+# Today's random Pokemon is... Torterra
 
-![Vulpix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/37.png)
+![Torterra shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/389.png)
 
 <details>
-<summary>Additional info about Vulpix</summary>
+<summary>Additional info about Torterra</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vulpix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png) |
-| back_shiny | ![Vulpix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/37.png) |
-| front_default | ![Vulpix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png) | </details>
+| back_default | ![Torterra back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/389.png) |
+| back_shiny | ![Torterra back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/389.png) |
+| front_default | ![Torterra front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png) | </details>
