@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Cutiefly
+# Today's random Pokemon is... Malamar
 
-![Cutiefly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/742.png)
+![Malamar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png)
 
 <details>
-<summary>Additional info about Cutiefly</summary>
+<summary>Additional info about Malamar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cutiefly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/742.png) |
-| back_shiny | ![Cutiefly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/742.png) |
-| front_default | ![Cutiefly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png) | </details>
+| front_default | ![Malamar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png) | </details>
