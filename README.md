@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Malamar
+# Today's random Pokemon is... Archeops
 
-![Malamar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png)
+![Archeops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/567.png)
 
 <details>
-<summary>Additional info about Malamar</summary>
+<summary>Additional info about Archeops</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Malamar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png) | </details>
+| back_default | ![Archeops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/567.png) |
+| back_shiny | ![Archeops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/567.png) |
+| front_default | ![Archeops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png) | </details>
