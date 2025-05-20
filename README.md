@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Blacephalon
+# Today's random Pokemon is... Dugtrio
 
-![Blacephalon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/806.png)
+![Dugtrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/51.png)
 
 <details>
-<summary>Additional info about Blacephalon</summary>
+<summary>Additional info about Dugtrio</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Blacephalon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/806.png) |
-| back_shiny | ![Blacephalon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/806.png) |
-| front_default | ![Blacephalon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png) | </details>
+| back_default | ![Dugtrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png) |
+| back_shiny | ![Dugtrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/51.png) |
+| front_default | ![Dugtrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png) | </details>
