@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dugtrio
+# Today's random Pokemon is... Helioptile
 
-![Dugtrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/51.png)
+![Helioptile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/694.png)
 
 <details>
-<summary>Additional info about Dugtrio</summary>
+<summary>Additional info about Helioptile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dugtrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png) |
-| back_shiny | ![Dugtrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/51.png) |
-| front_default | ![Dugtrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png) | </details>
+| back_default | ![Helioptile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/694.png) |
+| back_shiny | ![Helioptile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/694.png) |
+| front_default | ![Helioptile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png) | </details>
