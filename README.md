@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Seviper
+# Today's random Pokemon is... Electivire
 
-![Seviper shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/336.png)
+![Electivire shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/466.png)
 
 <details>
-<summary>Additional info about Seviper</summary>
+<summary>Additional info about Electivire</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Seviper back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/336.png) |
-| back_shiny | ![Seviper back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/336.png) |
-| front_default | ![Seviper front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png) | </details>
+| back_default | ![Electivire back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/466.png) |
+| back_shiny | ![Electivire back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/466.png) |
+| front_default | ![Electivire front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png) | </details>
