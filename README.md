@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electivire
+# Today's random Pokemon is... Bergmite
 
-![Electivire shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/466.png)
+![Bergmite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/712.png)
 
 <details>
-<summary>Additional info about Electivire</summary>
+<summary>Additional info about Bergmite</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electivire back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/466.png) |
-| back_shiny | ![Electivire back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/466.png) |
-| front_default | ![Electivire front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png) | </details>
+| back_default | ![Bergmite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/712.png) |
+| back_shiny | ![Bergmite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/712.png) |
+| front_default | ![Bergmite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png) | </details>
