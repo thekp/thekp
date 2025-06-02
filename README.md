@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Milotic
+# Today's random Pokemon is... Mawile
 
-![Milotic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/350.png)
+![Mawile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/303.png)
 
 <details>
-<summary>Additional info about Milotic</summary>
+<summary>Additional info about Mawile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Milotic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/350.png) |
-| back_female | ![Milotic back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/350.png) |
-| back_shiny | ![Milotic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/350.png) |
-| back_shiny_female | ![Milotic back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/350.png) |
-| front_default | ![Milotic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png) |
-| front_female | ![Milotic front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/350.png) |
-| front_shiny_female | ![Milotic front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/350.png) | </details>
+| back_default | ![Mawile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/303.png) |
+| back_shiny | ![Mawile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/303.png) |
+| front_default | ![Mawile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png) | </details>
