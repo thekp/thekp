@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tirtouga
+# Today's random Pokemon is... Corphish
 
-![Tirtouga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/564.png)
+![Corphish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/341.png)
 
 <details>
-<summary>Additional info about Tirtouga</summary>
+<summary>Additional info about Corphish</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tirtouga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/564.png) |
-| back_shiny | ![Tirtouga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/564.png) |
-| front_default | ![Tirtouga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png) | </details>
+| back_default | ![Corphish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/341.png) |
+| back_shiny | ![Corphish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/341.png) |
+| front_default | ![Corphish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png) | </details>
