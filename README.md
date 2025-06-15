@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Conkeldurr
+# Today's random Pokemon is... Weezing
 
-![Conkeldurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/534.png)
+![Weezing shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/110.png)
 
 <details>
-<summary>Additional info about Conkeldurr</summary>
+<summary>Additional info about Weezing</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Conkeldurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/534.png) |
-| back_shiny | ![Conkeldurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/534.png) |
-| front_default | ![Conkeldurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png) | </details>
+| back_default | ![Weezing back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png) |
+| back_shiny | ![Weezing back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/110.png) |
+| front_default | ![Weezing front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png) | </details>
