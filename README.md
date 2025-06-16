@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Weezing
+# Today's random Pokemon is... Kabutops
 
-![Weezing shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/110.png)
+![Kabutops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/141.png)
 
 <details>
-<summary>Additional info about Weezing</summary>
+<summary>Additional info about Kabutops</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Weezing back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png) |
-| back_shiny | ![Weezing back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/110.png) |
-| front_default | ![Weezing front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png) | </details>
+| back_default | ![Kabutops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png) |
+| back_shiny | ![Kabutops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/141.png) |
+| front_default | ![Kabutops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png) | </details>
