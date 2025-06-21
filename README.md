@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cryogonal
+# Today's random Pokemon is... Dugtrio
 
-![Cryogonal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/615.png)
+![Dugtrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/51.png)
 
 <details>
-<summary>Additional info about Cryogonal</summary>
+<summary>Additional info about Dugtrio</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cryogonal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/615.png) |
-| back_shiny | ![Cryogonal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/615.png) |
-| front_default | ![Cryogonal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | </details>
+| back_default | ![Dugtrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png) |
+| back_shiny | ![Dugtrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/51.png) |
+| front_default | ![Dugtrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png) | </details>
