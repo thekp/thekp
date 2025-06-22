@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dugtrio
+# Today's random Pokemon is... Munna
 
-![Dugtrio shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/51.png)
+![Munna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/517.png)
 
 <details>
-<summary>Additional info about Dugtrio</summary>
+<summary>Additional info about Munna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dugtrio back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png) |
-| back_shiny | ![Dugtrio back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/51.png) |
-| front_default | ![Dugtrio front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png) | </details>
+| back_default | ![Munna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/517.png) |
+| back_shiny | ![Munna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/517.png) |
+| front_default | ![Munna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png) | </details>
