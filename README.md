@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Munna
+# Today's random Pokemon is... Swampert
 
-![Munna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/517.png)
+![Swampert shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/260.png)
 
 <details>
-<summary>Additional info about Munna</summary>
+<summary>Additional info about Swampert</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Munna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/517.png) |
-| back_shiny | ![Munna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/517.png) |
-| front_default | ![Munna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png) | </details>
+| back_default | ![Swampert back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/260.png) |
+| back_shiny | ![Swampert back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/260.png) |
+| front_default | ![Swampert front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | </details>
