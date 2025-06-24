@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swampert
+# Today's random Pokemon is... Simisage
 
-![Swampert shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/260.png)
+![Simisage shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/512.png)
 
 <details>
-<summary>Additional info about Swampert</summary>
+<summary>Additional info about Simisage</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swampert back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/260.png) |
-| back_shiny | ![Swampert back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/260.png) |
-| front_default | ![Swampert front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | </details>
+| back_default | ![Simisage back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/512.png) |
+| back_shiny | ![Simisage back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/512.png) |
+| front_default | ![Simisage front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png) | </details>
