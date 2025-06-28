@@ -1,12 +1,14 @@
-# Today's random Pokemon is... Mienshao
+# Today's random Pokemon is... Pachirisu
 
-![Mienshao shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/620.png)
+![Pachirisu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/417.png)
 
 <details>
-<summary>Additional info about Mienshao</summary>
+<summary>Additional info about Pachirisu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mienshao back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/620.png) |
-| back_shiny | ![Mienshao back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/620.png) |
-| front_default | ![Mienshao front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png) | </details>
+| back_default | ![Pachirisu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/417.png) |
+| back_shiny | ![Pachirisu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/417.png) |
+| front_default | ![Pachirisu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png) |
+| front_female | ![Pachirisu front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/417.png) |
+| front_shiny_female | ![Pachirisu front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/417.png) | </details>
