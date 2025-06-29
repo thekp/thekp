@@ -1,14 +1,12 @@
-# Today's random Pokemon is... Pachirisu
+# Today's random Pokemon is... Palkia
 
-![Pachirisu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/417.png)
+![Palkia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/484.png)
 
 <details>
-<summary>Additional info about Pachirisu</summary>
+<summary>Additional info about Palkia</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pachirisu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/417.png) |
-| back_shiny | ![Pachirisu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/417.png) |
-| front_default | ![Pachirisu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png) |
-| front_female | ![Pachirisu front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/417.png) |
-| front_shiny_female | ![Pachirisu front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/417.png) | </details>
+| back_default | ![Palkia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/484.png) |
+| back_shiny | ![Palkia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/484.png) |
+| front_default | ![Palkia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png) | </details>
