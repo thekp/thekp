@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Teddiursa
+# Today's random Pokemon is... Registeel
 
-![Teddiursa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/216.png)
+![Registeel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/379.png)
 
 <details>
-<summary>Additional info about Teddiursa</summary>
+<summary>Additional info about Registeel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Teddiursa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/216.png) |
-| back_shiny | ![Teddiursa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/216.png) |
-| front_default | ![Teddiursa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png) | </details>
+| back_default | ![Registeel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/379.png) |
+| back_shiny | ![Registeel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/379.png) |
+| front_default | ![Registeel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png) | </details>
