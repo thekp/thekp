@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Steenee
+# Today's random Pokemon is... Nidoran-f
 
-![Steenee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/762.png)
+![Nidoran-f shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/29.png)
 
 <details>
-<summary>Additional info about Steenee</summary>
+<summary>Additional info about Nidoran-f</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Steenee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/762.png) |
-| back_shiny | ![Steenee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/762.png) |
-| front_default | ![Steenee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/762.png) | </details>
+| back_default | ![Nidoran-f back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png) |
+| back_shiny | ![Nidoran-f back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/29.png) |
+| front_default | ![Nidoran-f front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png) | </details>
