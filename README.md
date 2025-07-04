@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nidoran-f
+# Today's random Pokemon is... Cinccino
 
-![Nidoran-f shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/29.png)
+![Cinccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/573.png)
 
 <details>
-<summary>Additional info about Nidoran-f</summary>
+<summary>Additional info about Cinccino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nidoran-f back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png) |
-| back_shiny | ![Nidoran-f back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/29.png) |
-| front_default | ![Nidoran-f front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png) | </details>
+| back_default | ![Cinccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/573.png) |
+| back_shiny | ![Cinccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/573.png) |
+| front_default | ![Cinccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png) | </details>
