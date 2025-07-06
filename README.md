@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cranidos
+# Today's random Pokemon is... Vanilluxe
 
-![Cranidos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/408.png)
+![Vanilluxe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/584.png)
 
 <details>
-<summary>Additional info about Cranidos</summary>
+<summary>Additional info about Vanilluxe</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cranidos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/408.png) |
-| back_shiny | ![Cranidos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/408.png) |
-| front_default | ![Cranidos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png) | </details>
+| back_default | ![Vanilluxe back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/584.png) |
+| back_shiny | ![Vanilluxe back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/584.png) |
+| front_default | ![Vanilluxe front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png) | </details>
