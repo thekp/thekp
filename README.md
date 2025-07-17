@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Litwick
+# Today's random Pokemon is... Cloyster
 
-![Litwick shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/607.png)
+![Cloyster shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/91.png)
 
 <details>
-<summary>Additional info about Litwick</summary>
+<summary>Additional info about Cloyster</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Litwick back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/607.png) |
-| back_shiny | ![Litwick back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/607.png) |
-| front_default | ![Litwick front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png) | </details>
+| back_default | ![Cloyster back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png) |
+| back_shiny | ![Cloyster back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/91.png) |
+| front_default | ![Cloyster front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png) | </details>
