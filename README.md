@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Manectric
+# Today's random Pokemon is... Nidoqueen
 
-![Manectric shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/310.png)
+![Nidoqueen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/31.png)
 
 <details>
-<summary>Additional info about Manectric</summary>
+<summary>Additional info about Nidoqueen</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Manectric back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/310.png) |
-| back_shiny | ![Manectric back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/310.png) |
-| front_default | ![Manectric front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png) | </details>
+| back_default | ![Nidoqueen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png) |
+| back_shiny | ![Nidoqueen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/31.png) |
+| front_default | ![Nidoqueen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png) | </details>
