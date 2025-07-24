@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nidoqueen
+# Today's random Pokemon is... Blissey
 
-![Nidoqueen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/31.png)
+![Blissey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/242.png)
 
 <details>
-<summary>Additional info about Nidoqueen</summary>
+<summary>Additional info about Blissey</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nidoqueen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png) |
-| back_shiny | ![Nidoqueen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/31.png) |
-| front_default | ![Nidoqueen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png) | </details>
+| back_default | ![Blissey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/242.png) |
+| back_shiny | ![Blissey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/242.png) |
+| front_default | ![Blissey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png) | </details>
