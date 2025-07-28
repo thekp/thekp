@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electabuzz
+# Today's random Pokemon is... Garbodor
 
-![Electabuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/125.png)
+![Garbodor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/569.png)
 
 <details>
-<summary>Additional info about Electabuzz</summary>
+<summary>Additional info about Garbodor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electabuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png) |
-| back_shiny | ![Electabuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/125.png) |
-| front_default | ![Electabuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | </details>
+| back_default | ![Garbodor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/569.png) |
+| back_shiny | ![Garbodor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/569.png) |
+| front_default | ![Garbodor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png) | </details>
