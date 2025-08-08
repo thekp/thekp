@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Reshiram
+# Today's random Pokemon is... Braviary
 
-![Reshiram shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/643.png)
+![Braviary shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/628.png)
 
 <details>
-<summary>Additional info about Reshiram</summary>
+<summary>Additional info about Braviary</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Reshiram back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/643.png) |
-| back_shiny | ![Reshiram back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/643.png) |
-| front_default | ![Reshiram front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png) | </details>
+| back_default | ![Braviary back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/628.png) |
+| back_shiny | ![Braviary back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/628.png) |
+| front_default | ![Braviary front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png) | </details>
