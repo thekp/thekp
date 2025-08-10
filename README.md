@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Deoxys-normal
+# Today's random Pokemon is... Drilbur
 
-![Deoxys-normal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/386.png)
+![Drilbur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/529.png)
 
 <details>
-<summary>Additional info about Deoxys-normal</summary>
+<summary>Additional info about Drilbur</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Deoxys-normal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/386.png) |
-| back_shiny | ![Deoxys-normal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/386.png) |
-| front_default | ![Deoxys-normal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png) | </details>
+| back_default | ![Drilbur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/529.png) |
+| back_shiny | ![Drilbur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/529.png) |
+| front_default | ![Drilbur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png) | </details>
