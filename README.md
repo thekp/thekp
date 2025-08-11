@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Drilbur
+# Today's random Pokemon is... Spewpa
 
-![Drilbur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/529.png)
+![Spewpa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/665.png)
 
 <details>
-<summary>Additional info about Drilbur</summary>
+<summary>Additional info about Spewpa</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Drilbur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/529.png) |
-| back_shiny | ![Drilbur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/529.png) |
-| front_default | ![Drilbur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png) | </details>
+| back_default | ![Spewpa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/665.png) |
+| back_shiny | ![Spewpa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/665.png) |
+| front_default | ![Spewpa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png) | </details>
