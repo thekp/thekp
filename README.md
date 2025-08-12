@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spewpa
+# Today's random Pokemon is... Riolu
 
-![Spewpa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/665.png)
+![Riolu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/447.png)
 
 <details>
-<summary>Additional info about Spewpa</summary>
+<summary>Additional info about Riolu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spewpa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/665.png) |
-| back_shiny | ![Spewpa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/665.png) |
-| front_default | ![Spewpa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png) | </details>
+| back_default | ![Riolu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/447.png) |
+| back_shiny | ![Riolu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/447.png) |
+| front_default | ![Riolu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png) | </details>
