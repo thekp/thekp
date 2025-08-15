@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Palkia
+# Today's random Pokemon is... Camerupt
 
-![Palkia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/484.png)
+![Camerupt shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/323.png)
 
 <details>
-<summary>Additional info about Palkia</summary>
+<summary>Additional info about Camerupt</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Palkia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/484.png) |
-| back_shiny | ![Palkia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/484.png) |
-| front_default | ![Palkia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png) | </details>
+| back_default | ![Camerupt back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/323.png) |
+| back_female | ![Camerupt back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/323.png) |
+| back_shiny | ![Camerupt back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/323.png) |
+| back_shiny_female | ![Camerupt back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/323.png) |
+| front_default | ![Camerupt front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png) |
+| front_female | ![Camerupt front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/323.png) |
+| front_shiny_female | ![Camerupt front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/323.png) | </details>
