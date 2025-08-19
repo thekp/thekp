@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Flaaffy
+# Today's random Pokemon is... Skitty
 
-![Flaaffy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/180.png)
+![Skitty shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/300.png)
 
 <details>
-<summary>Additional info about Flaaffy</summary>
+<summary>Additional info about Skitty</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Flaaffy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/180.png) |
-| back_shiny | ![Flaaffy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/180.png) |
-| front_default | ![Flaaffy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png) | </details>
+| back_default | ![Skitty back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/300.png) |
+| back_shiny | ![Skitty back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/300.png) |
+| front_default | ![Skitty front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png) | </details>
