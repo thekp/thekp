@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cubone
+# Today's random Pokemon is... Foongus
 
-![Cubone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/104.png)
+![Foongus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/590.png)
 
 <details>
-<summary>Additional info about Cubone</summary>
+<summary>Additional info about Foongus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cubone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png) |
-| back_shiny | ![Cubone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/104.png) |
-| front_default | ![Cubone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png) | </details>
+| back_default | ![Foongus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/590.png) |
+| back_shiny | ![Foongus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/590.png) |
+| front_default | ![Foongus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png) | </details>
