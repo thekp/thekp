@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Foongus
+# Today's random Pokemon is... Pidgeotto
 
-![Foongus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/590.png)
+![Pidgeotto shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/17.png)
 
 <details>
-<summary>Additional info about Foongus</summary>
+<summary>Additional info about Pidgeotto</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Foongus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/590.png) |
-| back_shiny | ![Foongus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/590.png) |
-| front_default | ![Foongus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png) | </details>
+| back_default | ![Pidgeotto back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png) |
+| back_shiny | ![Pidgeotto back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/17.png) |
+| front_default | ![Pidgeotto front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png) | </details>
