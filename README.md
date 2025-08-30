@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Magikarp
+# Today's random Pokemon is... Shiftry
 
-![Magikarp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/129.png)
+![Shiftry shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/275.png)
 
 <details>
-<summary>Additional info about Magikarp</summary>
+<summary>Additional info about Shiftry</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Magikarp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/129.png) |
-| back_female | ![Magikarp back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/129.png) |
-| back_shiny | ![Magikarp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/129.png) |
-| back_shiny_female | ![Magikarp back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/129.png) |
-| front_default | ![Magikarp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png) |
-| front_female | ![Magikarp front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/129.png) |
-| front_shiny_female | ![Magikarp front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/129.png) | </details>
+| back_default | ![Shiftry back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/275.png) |
+| back_female | ![Shiftry back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/275.png) |
+| back_shiny | ![Shiftry back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/275.png) |
+| back_shiny_female | ![Shiftry back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/275.png) |
+| front_default | ![Shiftry front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png) |
+| front_female | ![Shiftry front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/275.png) |
+| front_shiny_female | ![Shiftry front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/275.png) | </details>
