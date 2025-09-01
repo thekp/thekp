@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tynamo
+# Today's random Pokemon is... Spewpa
 
-![Tynamo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/602.png)
+![Spewpa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/665.png)
 
 <details>
-<summary>Additional info about Tynamo</summary>
+<summary>Additional info about Spewpa</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tynamo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/602.png) |
-| back_shiny | ![Tynamo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/602.png) |
-| front_default | ![Tynamo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png) | </details>
+| back_default | ![Spewpa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/665.png) |
+| back_shiny | ![Spewpa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/665.png) |
+| front_default | ![Spewpa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png) | </details>
