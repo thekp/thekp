@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spewpa
+# Today's random Pokemon is... Blacephalon
 
-![Spewpa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/665.png)
+![Blacephalon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/806.png)
 
 <details>
-<summary>Additional info about Spewpa</summary>
+<summary>Additional info about Blacephalon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Spewpa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/665.png) |
-| back_shiny | ![Spewpa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/665.png) |
-| front_default | ![Spewpa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png) | </details>
+| back_default | ![Blacephalon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/806.png) |
+| back_shiny | ![Blacephalon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/806.png) |
+| front_default | ![Blacephalon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png) | </details>
