@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Litwick
+# Today's random Pokemon is... Quilava
 
-![Litwick shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/607.png)
+![Quilava shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/156.png)
 
 <details>
-<summary>Additional info about Litwick</summary>
+<summary>Additional info about Quilava</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Litwick back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/607.png) |
-| back_shiny | ![Litwick back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/607.png) |
-| front_default | ![Litwick front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png) | </details>
+| back_default | ![Quilava back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/156.png) |
+| back_shiny | ![Quilava back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/156.png) |
+| front_default | ![Quilava front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png) | </details>
