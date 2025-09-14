@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shellos
+# Today's random Pokemon is... Gothita
 
-![Shellos shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/422.png)
+![Gothita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/574.png)
 
 <details>
-<summary>Additional info about Shellos</summary>
+<summary>Additional info about Gothita</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shellos back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/422.png) |
-| back_shiny | ![Shellos back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/422.png) |
-| front_default | ![Shellos front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png) | </details>
+| back_default | ![Gothita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/574.png) |
+| back_shiny | ![Gothita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/574.png) |
+| front_default | ![Gothita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png) | </details>
