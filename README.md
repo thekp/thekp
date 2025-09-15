@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gothita
+# Today's random Pokemon is... Zigzagoon
 
-![Gothita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/574.png)
+![Zigzagoon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/263.png)
 
 <details>
-<summary>Additional info about Gothita</summary>
+<summary>Additional info about Zigzagoon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gothita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/574.png) |
-| back_shiny | ![Gothita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/574.png) |
-| front_default | ![Gothita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png) | </details>
+| back_default | ![Zigzagoon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/263.png) |
+| back_shiny | ![Zigzagoon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/263.png) |
+| front_default | ![Zigzagoon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png) | </details>
