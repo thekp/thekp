@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Surskit
+# Today's random Pokemon is... Eelektross
 
-![Surskit shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/283.png)
+![Eelektross shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/604.png)
 
 <details>
-<summary>Additional info about Surskit</summary>
+<summary>Additional info about Eelektross</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Surskit back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/283.png) |
-| back_shiny | ![Surskit back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/283.png) |
-| front_default | ![Surskit front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png) | </details>
+| back_default | ![Eelektross back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/604.png) |
+| back_shiny | ![Eelektross back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/604.png) |
+| front_default | ![Eelektross front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png) | </details>
