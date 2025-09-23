@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Buneary
+# Today's random Pokemon is... Illumise
 
-![Buneary shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/427.png)
+![Illumise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/314.png)
 
 <details>
-<summary>Additional info about Buneary</summary>
+<summary>Additional info about Illumise</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Buneary back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/427.png) |
-| back_shiny | ![Buneary back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/427.png) |
-| front_default | ![Buneary front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png) | </details>
+| back_default | ![Illumise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/314.png) |
+| back_shiny | ![Illumise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/314.png) |
+| front_default | ![Illumise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png) | </details>
