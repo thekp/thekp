@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Illumise
+# Today's random Pokemon is... Parasect
 
-![Illumise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/314.png)
+![Parasect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png)
 
 <details>
-<summary>Additional info about Illumise</summary>
+<summary>Additional info about Parasect</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Illumise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/314.png) |
-| back_shiny | ![Illumise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/314.png) |
-| front_default | ![Illumise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png) | </details>
+| back_default | ![Parasect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png) |
+| back_shiny | ![Parasect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/47.png) |
+| front_default | ![Parasect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png) | </details>
