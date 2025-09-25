@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Parasect
+# Today's random Pokemon is... Vullaby
 
-![Parasect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/47.png)
+![Vullaby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/629.png)
 
 <details>
-<summary>Additional info about Parasect</summary>
+<summary>Additional info about Vullaby</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Parasect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png) |
-| back_shiny | ![Parasect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/47.png) |
-| front_default | ![Parasect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png) | </details>
+| back_default | ![Vullaby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/629.png) |
+| back_shiny | ![Vullaby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/629.png) |
+| front_default | ![Vullaby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png) | </details>
