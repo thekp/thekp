@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Bagon
+# Today's random Pokemon is... Sudowoodo
 
-![Bagon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/371.png)
+![Sudowoodo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/185.png)
 
 <details>
-<summary>Additional info about Bagon</summary>
+<summary>Additional info about Sudowoodo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bagon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/371.png) |
-| back_shiny | ![Bagon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/371.png) |
-| front_default | ![Bagon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png) | </details>
+| back_default | ![Sudowoodo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/185.png) |
+| back_female | ![Sudowoodo back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/185.png) |
+| back_shiny | ![Sudowoodo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/185.png) |
+| back_shiny_female | ![Sudowoodo back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/185.png) |
+| front_default | ![Sudowoodo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png) |
+| front_female | ![Sudowoodo front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/185.png) |
+| front_shiny_female | ![Sudowoodo front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/185.png) | </details>
