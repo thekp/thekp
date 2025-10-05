@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Deoxys-normal
+# Today's random Pokemon is... Pinsir
 
-![Deoxys-normal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/386.png)
+![Pinsir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/127.png)
 
 <details>
-<summary>Additional info about Deoxys-normal</summary>
+<summary>Additional info about Pinsir</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Deoxys-normal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/386.png) |
-| back_shiny | ![Deoxys-normal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/386.png) |
-| front_default | ![Deoxys-normal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png) | </details>
+| back_default | ![Pinsir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png) |
+| back_shiny | ![Pinsir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/127.png) |
+| front_default | ![Pinsir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png) | </details>
