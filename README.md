@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Slowking
+# Today's random Pokemon is... Happiny
 
-![Slowking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/199.png)
+![Happiny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/440.png)
 
 <details>
-<summary>Additional info about Slowking</summary>
+<summary>Additional info about Happiny</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Slowking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/199.png) |
-| back_shiny | ![Slowking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/199.png) |
-| front_default | ![Slowking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png) | </details>
+| back_default | ![Happiny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/440.png) |
+| back_shiny | ![Happiny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/440.png) |
+| front_default | ![Happiny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png) | </details>
