@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dartrix
+# Today's random Pokemon is... Toxapex
 
-![Dartrix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/723.png)
+![Toxapex shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/748.png)
 
 <details>
-<summary>Additional info about Dartrix</summary>
+<summary>Additional info about Toxapex</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dartrix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/723.png) |
-| back_shiny | ![Dartrix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/723.png) |
-| front_default | ![Dartrix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png) | </details>
+| back_default | ![Toxapex back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/748.png) |
+| back_shiny | ![Toxapex back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/748.png) |
+| front_default | ![Toxapex front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png) | </details>
