@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Steelix
+# Today's random Pokemon is... Clamperl
 
-![Steelix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/208.png)
+![Clamperl shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/366.png)
 
 <details>
-<summary>Additional info about Steelix</summary>
+<summary>Additional info about Clamperl</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Steelix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/208.png) |
-| back_female | ![Steelix back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/208.png) |
-| back_shiny | ![Steelix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/208.png) |
-| back_shiny_female | ![Steelix back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/208.png) |
-| front_default | ![Steelix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png) |
-| front_female | ![Steelix front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/208.png) |
-| front_shiny_female | ![Steelix front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/208.png) | </details>
+| back_default | ![Clamperl back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/366.png) |
+| back_shiny | ![Clamperl back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/366.png) |
+| front_default | ![Clamperl front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png) | </details>
