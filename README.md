@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mandibuzz
+# Today's random Pokemon is... Drowzee
 
-![Mandibuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/630.png)
+![Drowzee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/96.png)
 
 <details>
-<summary>Additional info about Mandibuzz</summary>
+<summary>Additional info about Drowzee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mandibuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/630.png) |
-| back_shiny | ![Mandibuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/630.png) |
-| front_default | ![Mandibuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png) | </details>
+| back_default | ![Drowzee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png) |
+| back_shiny | ![Drowzee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/96.png) |
+| front_default | ![Drowzee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png) | </details>
