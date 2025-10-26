@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Drowzee
+# Today's random Pokemon is... Purrloin
 
-![Drowzee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/96.png)
+![Purrloin shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/509.png)
 
 <details>
-<summary>Additional info about Drowzee</summary>
+<summary>Additional info about Purrloin</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Drowzee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png) |
-| back_shiny | ![Drowzee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/96.png) |
-| front_default | ![Drowzee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png) | </details>
+| back_default | ![Purrloin back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/509.png) |
+| back_shiny | ![Purrloin back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/509.png) |
+| front_default | ![Purrloin front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png) | </details>
