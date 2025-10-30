@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Piplup
+# Today's random Pokemon is... Aurorus
 
-![Piplup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/393.png)
+![Aurorus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/699.png)
 
 <details>
-<summary>Additional info about Piplup</summary>
+<summary>Additional info about Aurorus</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Piplup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/393.png) |
-| back_shiny | ![Piplup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/393.png) |
-| front_default | ![Piplup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png) | </details>
+| front_default | ![Aurorus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png) | </details>
