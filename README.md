@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electrike
+# Today's random Pokemon is... Dhelmise
 
-![Electrike shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/309.png)
+![Dhelmise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/781.png)
 
 <details>
-<summary>Additional info about Electrike</summary>
+<summary>Additional info about Dhelmise</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electrike back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/309.png) |
-| back_shiny | ![Electrike back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/309.png) |
-| front_default | ![Electrike front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png) | </details>
+| back_default | ![Dhelmise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/781.png) |
+| back_shiny | ![Dhelmise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/781.png) |
+| front_default | ![Dhelmise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png) | </details>
