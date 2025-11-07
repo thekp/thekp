@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Boldore
+# Today's random Pokemon is... Lotad
 
-![Boldore shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/525.png)
+![Lotad shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/270.png)
 
 <details>
-<summary>Additional info about Boldore</summary>
+<summary>Additional info about Lotad</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Boldore back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/525.png) |
-| back_shiny | ![Boldore back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/525.png) |
-| front_default | ![Boldore front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png) | </details>
+| back_default | ![Lotad back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/270.png) |
+| back_shiny | ![Lotad back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/270.png) |
+| front_default | ![Lotad front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png) | </details>
