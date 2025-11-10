@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gothita
+# Today's random Pokemon is... Mew
 
-![Gothita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/574.png)
+![Mew shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/151.png)
 
 <details>
-<summary>Additional info about Gothita</summary>
+<summary>Additional info about Mew</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gothita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/574.png) |
-| back_shiny | ![Gothita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/574.png) |
-| front_default | ![Gothita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png) | </details>
+| back_default | ![Mew back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png) |
+| back_shiny | ![Mew back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/151.png) |
+| front_default | ![Mew front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png) | </details>
