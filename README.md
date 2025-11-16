@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Litleo
+# Today's random Pokemon is... Grimer
 
-![Litleo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/667.png)
+![Grimer shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/88.png)
 
 <details>
-<summary>Additional info about Litleo</summary>
+<summary>Additional info about Grimer</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Litleo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/667.png) |
-| back_shiny | ![Litleo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/667.png) |
-| front_default | ![Litleo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png) | </details>
+| back_default | ![Grimer back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png) |
+| back_shiny | ![Grimer back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/88.png) |
+| front_default | ![Grimer front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png) | </details>
