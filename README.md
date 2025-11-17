@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Grimer
+# Today's random Pokemon is... Crabominable
 
-![Grimer shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/88.png)
+![Crabominable shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/740.png)
 
 <details>
-<summary>Additional info about Grimer</summary>
+<summary>Additional info about Crabominable</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Grimer back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png) |
-| back_shiny | ![Grimer back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/88.png) |
-| front_default | ![Grimer front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png) | </details>
+| back_default | ![Crabominable back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/740.png) |
+| back_shiny | ![Crabominable back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/740.png) |
+| front_default | ![Crabominable front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | </details>
