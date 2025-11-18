@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Crabominable
+# Today's random Pokemon is... Barboach
 
-![Crabominable shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/740.png)
+![Barboach shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/339.png)
 
 <details>
-<summary>Additional info about Crabominable</summary>
+<summary>Additional info about Barboach</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Crabominable back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/740.png) |
-| back_shiny | ![Crabominable back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/740.png) |
-| front_default | ![Crabominable front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png) | </details>
+| back_default | ![Barboach back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/339.png) |
+| back_shiny | ![Barboach back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/339.png) |
+| front_default | ![Barboach front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png) | </details>
