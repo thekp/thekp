@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Barboach
+# Today's random Pokemon is... Malamar
 
-![Barboach shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/339.png)
+![Malamar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png)
 
 <details>
-<summary>Additional info about Barboach</summary>
+<summary>Additional info about Malamar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Barboach back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/339.png) |
-| back_shiny | ![Barboach back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/339.png) |
-| front_default | ![Barboach front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png) | </details>
+| front_default | ![Malamar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png) | </details>
