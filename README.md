@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Malamar
+# Today's random Pokemon is... Infernape
 
-![Malamar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png)
+![Infernape shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/392.png)
 
 <details>
-<summary>Additional info about Malamar</summary>
+<summary>Additional info about Infernape</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Malamar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png) | </details>
+| back_default | ![Infernape back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/392.png) |
+| back_shiny | ![Infernape back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/392.png) |
+| front_default | ![Infernape front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png) | </details>
