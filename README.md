@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Oshawott
+# Today's random Pokemon is... Butterfree
 
-![Oshawott shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/501.png)
+![Butterfree shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/12.png)
 
 <details>
-<summary>Additional info about Oshawott</summary>
+<summary>Additional info about Butterfree</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Oshawott back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/501.png) |
-| back_shiny | ![Oshawott back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/501.png) |
-| front_default | ![Oshawott front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png) | </details>
+| back_default | ![Butterfree back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png) |
+| back_female | ![Butterfree back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/12.png) |
+| back_shiny | ![Butterfree back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/12.png) |
+| back_shiny_female | ![Butterfree back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/12.png) |
+| front_default | ![Butterfree front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png) |
+| front_female | ![Butterfree front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/12.png) |
+| front_shiny_female | ![Butterfree front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/12.png) | </details>
