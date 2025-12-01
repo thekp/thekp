@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elekid
+# Today's random Pokemon is... Furret
 
-![Elekid shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/239.png)
+![Furret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/162.png)
 
 <details>
-<summary>Additional info about Elekid</summary>
+<summary>Additional info about Furret</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Elekid back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png) |
-| back_shiny | ![Elekid back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/239.png) |
-| front_default | ![Elekid front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png) | </details>
+| back_default | ![Furret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/162.png) |
+| back_shiny | ![Furret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/162.png) |
+| front_default | ![Furret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png) | </details>
