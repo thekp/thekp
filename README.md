@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Natu
+# Today's random Pokemon is... Helioptile
 
-![Natu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/177.png)
+![Helioptile shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/694.png)
 
 <details>
-<summary>Additional info about Natu</summary>
+<summary>Additional info about Helioptile</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Natu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/177.png) |
-| back_shiny | ![Natu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/177.png) |
-| front_default | ![Natu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png) | </details>
+| back_default | ![Helioptile back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/694.png) |
+| back_shiny | ![Helioptile back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/694.png) |
+| front_default | ![Helioptile front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png) | </details>
