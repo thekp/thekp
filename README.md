@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lairon
+# Today's random Pokemon is... Braixen
 
-![Lairon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/305.png)
+![Braixen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/654.png)
 
 <details>
-<summary>Additional info about Lairon</summary>
+<summary>Additional info about Braixen</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lairon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/305.png) |
-| back_shiny | ![Lairon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/305.png) |
-| front_default | ![Lairon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png) | </details>
+| back_default | ![Braixen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/654.png) |
+| back_shiny | ![Braixen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/654.png) |
+| front_default | ![Braixen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png) | </details>
