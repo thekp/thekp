@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Braixen
+# Today's random Pokemon is... Regigigas
 
-![Braixen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/654.png)
+![Regigigas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/486.png)
 
 <details>
-<summary>Additional info about Braixen</summary>
+<summary>Additional info about Regigigas</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Braixen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/654.png) |
-| back_shiny | ![Braixen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/654.png) |
-| front_default | ![Braixen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png) | </details>
+| back_default | ![Regigigas back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/486.png) |
+| back_shiny | ![Regigigas back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/486.png) |
+| front_default | ![Regigigas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png) | </details>
