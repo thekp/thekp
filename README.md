@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Terrakion
+# Today's random Pokemon is... Kecleon
 
-![Terrakion shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/639.png)
+![Kecleon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/352.png)
 
 <details>
-<summary>Additional info about Terrakion</summary>
+<summary>Additional info about Kecleon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Terrakion back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/639.png) |
-| back_shiny | ![Terrakion back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/639.png) |
-| front_default | ![Terrakion front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png) | </details>
+| back_default | ![Kecleon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/352.png) |
+| back_shiny | ![Kecleon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/352.png) |
+| front_default | ![Kecleon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png) | </details>
