@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kecleon
+# Today's random Pokemon is... Poochyena
 
-![Kecleon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/352.png)
+![Poochyena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/261.png)
 
 <details>
-<summary>Additional info about Kecleon</summary>
+<summary>Additional info about Poochyena</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kecleon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/352.png) |
-| back_shiny | ![Kecleon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/352.png) |
-| front_default | ![Kecleon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png) | </details>
+| back_default | ![Poochyena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/261.png) |
+| back_shiny | ![Poochyena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/261.png) |
+| front_default | ![Poochyena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png) | </details>
