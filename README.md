@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nincada
+# Today's random Pokemon is... Solosis
 
-![Nincada shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/290.png)
+![Solosis shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/577.png)
 
 <details>
-<summary>Additional info about Nincada</summary>
+<summary>Additional info about Solosis</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nincada back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/290.png) |
-| back_shiny | ![Nincada back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/290.png) |
-| front_default | ![Nincada front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png) | </details>
+| back_default | ![Solosis back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/577.png) |
+| back_shiny | ![Solosis back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/577.png) |
+| front_default | ![Solosis front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png) | </details>
