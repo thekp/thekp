@@ -1,10 +1,12 @@
-# Today's random Pokemon is... Vivillon
+# Today's random Pokemon is... Togetic
 
-![Vivillon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/666.png)
+![Togetic shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/176.png)
 
 <details>
-<summary>Additional info about Vivillon</summary>
+<summary>Additional info about Togetic</summary>
 
 | srpite type | image |
 |------|------|
-| front_default | ![Vivillon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png) | </details>
+| back_default | ![Togetic back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/176.png) |
+| back_shiny | ![Togetic back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/176.png) |
+| front_default | ![Togetic front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png) | </details>
