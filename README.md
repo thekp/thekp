@@ -1,12 +1,10 @@
-# Today's random Pokemon is... Patrat
+# Today's random Pokemon is... Floette
 
-![Patrat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/504.png)
+![Floette shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/670.png)
 
 <details>
-<summary>Additional info about Patrat</summary>
+<summary>Additional info about Floette</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Patrat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/504.png) |
-| back_shiny | ![Patrat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/504.png) |
-| front_default | ![Patrat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png) | </details>
+| front_default | ![Floette front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png) | </details>
