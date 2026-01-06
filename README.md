@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Carnivine
+# Today's random Pokemon is... Vigoroth
 
-![Carnivine shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/455.png)
+![Vigoroth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/288.png)
 
 <details>
-<summary>Additional info about Carnivine</summary>
+<summary>Additional info about Vigoroth</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Carnivine back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/455.png) |
-| back_shiny | ![Carnivine back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/455.png) |
-| front_default | ![Carnivine front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png) | </details>
+| back_default | ![Vigoroth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/288.png) |
+| back_shiny | ![Vigoroth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/288.png) |
+| front_default | ![Vigoroth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | </details>
