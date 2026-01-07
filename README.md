@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Vigoroth
+# Today's random Pokemon is... Swablu
 
-![Vigoroth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/288.png)
+![Swablu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/333.png)
 
 <details>
-<summary>Additional info about Vigoroth</summary>
+<summary>Additional info about Swablu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Vigoroth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/288.png) |
-| back_shiny | ![Vigoroth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/288.png) |
-| front_default | ![Vigoroth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png) | </details>
+| back_default | ![Swablu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/333.png) |
+| back_shiny | ![Swablu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/333.png) |
+| front_default | ![Swablu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png) | </details>
