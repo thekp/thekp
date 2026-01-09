@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dewpider
+# Today's random Pokemon is... Kingdra
 
-![Dewpider shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/751.png)
+![Kingdra shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/230.png)
 
 <details>
-<summary>Additional info about Dewpider</summary>
+<summary>Additional info about Kingdra</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dewpider back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/751.png) |
-| back_shiny | ![Dewpider back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/751.png) |
-| front_default | ![Dewpider front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png) | </details>
+| back_default | ![Kingdra back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/230.png) |
+| back_shiny | ![Kingdra back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/230.png) |
+| front_default | ![Kingdra front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png) | </details>
