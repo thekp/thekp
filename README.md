@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lunatone
+# Today's random Pokemon is... Leavanny
 
-![Lunatone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/337.png)
+![Leavanny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/542.png)
 
 <details>
-<summary>Additional info about Lunatone</summary>
+<summary>Additional info about Leavanny</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lunatone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/337.png) |
-| back_shiny | ![Lunatone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/337.png) |
-| front_default | ![Lunatone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png) | </details>
+| back_default | ![Leavanny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/542.png) |
+| back_shiny | ![Leavanny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/542.png) |
+| front_default | ![Leavanny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png) | </details>
