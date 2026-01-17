@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Meditite
+# Today's random Pokemon is... Seel
 
-![Meditite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/307.png)
+![Seel shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/86.png)
 
 <details>
-<summary>Additional info about Meditite</summary>
+<summary>Additional info about Seel</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Meditite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/307.png) |
-| back_female | ![Meditite back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/307.png) |
-| back_shiny | ![Meditite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/307.png) |
-| back_shiny_female | ![Meditite back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/307.png) |
-| front_default | ![Meditite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png) |
-| front_female | ![Meditite front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/307.png) |
-| front_shiny_female | ![Meditite front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/307.png) | </details>
+| back_default | ![Seel back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/86.png) |
+| back_shiny | ![Seel back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/86.png) |
+| front_default | ![Seel front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png) | </details>
