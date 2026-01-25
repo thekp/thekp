@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Corsola
+# Today's random Pokemon is... Fraxure
 
-![Corsola shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/222.png)
+![Fraxure shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/611.png)
 
 <details>
-<summary>Additional info about Corsola</summary>
+<summary>Additional info about Fraxure</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Corsola back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png) |
-| back_shiny | ![Corsola back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/222.png) |
-| front_default | ![Corsola front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png) | </details>
+| back_default | ![Fraxure back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/611.png) |
+| back_shiny | ![Fraxure back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/611.png) |
+| front_default | ![Fraxure front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | </details>
