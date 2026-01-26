@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Fraxure
+# Today's random Pokemon is... Ho-oh
 
-![Fraxure shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/611.png)
+![Ho-oh shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/250.png)
 
 <details>
-<summary>Additional info about Fraxure</summary>
+<summary>Additional info about Ho-oh</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Fraxure back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/611.png) |
-| back_shiny | ![Fraxure back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/611.png) |
-| front_default | ![Fraxure front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | </details>
+| back_default | ![Ho-oh back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/250.png) |
+| back_shiny | ![Ho-oh back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/250.png) |
+| front_default | ![Ho-oh front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png) | </details>
