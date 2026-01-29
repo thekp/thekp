@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wailmer
+# Today's random Pokemon is... Dhelmise
 
-![Wailmer shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/320.png)
+![Dhelmise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/781.png)
 
 <details>
-<summary>Additional info about Wailmer</summary>
+<summary>Additional info about Dhelmise</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Wailmer back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/320.png) |
-| back_shiny | ![Wailmer back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/320.png) |
-| front_default | ![Wailmer front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png) | </details>
+| back_default | ![Dhelmise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/781.png) |
+| back_shiny | ![Dhelmise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/781.png) |
+| front_default | ![Dhelmise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png) | </details>
