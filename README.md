@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Tangrowth
+# Today's random Pokemon is... Panpour
 
-![Tangrowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/465.png)
+![Panpour shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/515.png)
 
 <details>
-<summary>Additional info about Tangrowth</summary>
+<summary>Additional info about Panpour</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tangrowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/465.png) |
-| back_female | ![Tangrowth back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/465.png) |
-| back_shiny | ![Tangrowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/465.png) |
-| back_shiny_female | ![Tangrowth back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/465.png) |
-| front_default | ![Tangrowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png) |
-| front_female | ![Tangrowth front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/465.png) |
-| front_shiny_female | ![Tangrowth front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/465.png) | </details>
+| back_default | ![Panpour back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/515.png) |
+| back_shiny | ![Panpour back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/515.png) |
+| front_default | ![Panpour front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png) | </details>
