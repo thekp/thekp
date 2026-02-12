@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Nosepass
+# Today's random Pokemon is... Pelipper
 
-![Nosepass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/299.png)
+![Pelipper shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/279.png)
 
 <details>
-<summary>Additional info about Nosepass</summary>
+<summary>Additional info about Pelipper</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Nosepass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/299.png) |
-| back_shiny | ![Nosepass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/299.png) |
-| front_default | ![Nosepass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png) | </details>
+| back_default | ![Pelipper back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/279.png) |
+| back_shiny | ![Pelipper back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/279.png) |
+| front_default | ![Pelipper front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png) | </details>
