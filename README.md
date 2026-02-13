@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pelipper
+# Today's random Pokemon is... Ralts
 
-![Pelipper shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/279.png)
+![Ralts shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/280.png)
 
 <details>
-<summary>Additional info about Pelipper</summary>
+<summary>Additional info about Ralts</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pelipper back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/279.png) |
-| back_shiny | ![Pelipper back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/279.png) |
-| front_default | ![Pelipper front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png) | </details>
+| back_default | ![Ralts back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/280.png) |
+| back_shiny | ![Ralts back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/280.png) |
+| front_default | ![Ralts front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png) | </details>
