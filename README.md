@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ralts
+# Today's random Pokemon is... Arbok
 
-![Ralts shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/280.png)
+![Arbok shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/24.png)
 
 <details>
-<summary>Additional info about Ralts</summary>
+<summary>Additional info about Arbok</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ralts back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/280.png) |
-| back_shiny | ![Ralts back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/280.png) |
-| front_default | ![Ralts front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png) | </details>
+| back_default | ![Arbok back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png) |
+| back_shiny | ![Arbok back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/24.png) |
+| front_default | ![Arbok front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png) | </details>
