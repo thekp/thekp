@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Arbok
+# Today's random Pokemon is... Purugly
 
-![Arbok shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/24.png)
+![Purugly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/432.png)
 
 <details>
-<summary>Additional info about Arbok</summary>
+<summary>Additional info about Purugly</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Arbok back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png) |
-| back_shiny | ![Arbok back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/24.png) |
-| front_default | ![Arbok front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png) | </details>
+| back_default | ![Purugly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/432.png) |
+| back_shiny | ![Purugly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/432.png) |
+| front_default | ![Purugly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png) | </details>
