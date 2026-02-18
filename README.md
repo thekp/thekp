@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Oshawott
+# Today's random Pokemon is... Bruxish
 
-![Oshawott shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/501.png)
+![Bruxish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/779.png)
 
 <details>
-<summary>Additional info about Oshawott</summary>
+<summary>Additional info about Bruxish</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Oshawott back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/501.png) |
-| back_shiny | ![Oshawott back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/501.png) |
-| front_default | ![Oshawott front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png) | </details>
+| back_default | ![Bruxish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/779.png) |
+| back_shiny | ![Bruxish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/779.png) |
+| front_default | ![Bruxish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png) | </details>
