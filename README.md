@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tyranitar
+# Today's random Pokemon is... Tapu-bulu
 
-![Tyranitar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/248.png)
+![Tapu-bulu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/787.png)
 
 <details>
-<summary>Additional info about Tyranitar</summary>
+<summary>Additional info about Tapu-bulu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tyranitar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/248.png) |
-| back_shiny | ![Tyranitar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/248.png) |
-| front_default | ![Tyranitar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png) | </details>
+| back_default | ![Tapu-bulu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/787.png) |
+| back_shiny | ![Tapu-bulu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/787.png) |
+| front_default | ![Tapu-bulu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png) | </details>
