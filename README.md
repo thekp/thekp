@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kartana
+# Today's random Pokemon is... Ribombee
 
-![Kartana shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/798.png)
+![Ribombee shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/743.png)
 
 <details>
-<summary>Additional info about Kartana</summary>
+<summary>Additional info about Ribombee</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kartana back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/798.png) |
-| back_shiny | ![Kartana back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/798.png) |
-| front_default | ![Kartana front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png) | </details>
+| back_default | ![Ribombee back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/743.png) |
+| back_shiny | ![Ribombee back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/743.png) |
+| front_default | ![Ribombee front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png) | </details>
