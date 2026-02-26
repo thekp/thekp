@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Marshtomp
+# Today's random Pokemon is... Lillipup
 
-![Marshtomp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/259.png)
+![Lillipup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/506.png)
 
 <details>
-<summary>Additional info about Marshtomp</summary>
+<summary>Additional info about Lillipup</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Marshtomp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/259.png) |
-| back_shiny | ![Marshtomp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/259.png) |
-| front_default | ![Marshtomp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png) | </details>
+| back_default | ![Lillipup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/506.png) |
+| back_shiny | ![Lillipup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/506.png) |
+| front_default | ![Lillipup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | </details>
