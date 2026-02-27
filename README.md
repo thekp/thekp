@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lillipup
+# Today's random Pokemon is... Bellsprout
 
-![Lillipup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/506.png)
+![Bellsprout shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/69.png)
 
 <details>
-<summary>Additional info about Lillipup</summary>
+<summary>Additional info about Bellsprout</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lillipup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/506.png) |
-| back_shiny | ![Lillipup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/506.png) |
-| front_default | ![Lillipup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png) | </details>
+| back_default | ![Bellsprout back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png) |
+| back_shiny | ![Bellsprout back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/69.png) |
+| front_default | ![Bellsprout front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png) | </details>
