@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Haxorus
+# Today's random Pokemon is... Klinklang
 
-![Haxorus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/612.png)
+![Klinklang shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/601.png)
 
 <details>
-<summary>Additional info about Haxorus</summary>
+<summary>Additional info about Klinklang</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Haxorus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/612.png) |
-| back_shiny | ![Haxorus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/612.png) |
-| front_default | ![Haxorus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png) | </details>
+| back_default | ![Klinklang back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/601.png) |
+| back_shiny | ![Klinklang back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/601.png) |
+| front_default | ![Klinklang front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png) | </details>
