@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Deerling
+# Today's random Pokemon is... Bruxish
 
-![Deerling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/585.png)
+![Bruxish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/779.png)
 
 <details>
-<summary>Additional info about Deerling</summary>
+<summary>Additional info about Bruxish</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Deerling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/585.png) |
-| back_shiny | ![Deerling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/585.png) |
-| front_default | ![Deerling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png) | </details>
+| back_default | ![Bruxish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/779.png) |
+| back_shiny | ![Bruxish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/779.png) |
+| front_default | ![Bruxish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png) | </details>
