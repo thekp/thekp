@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bruxish
+# Today's random Pokemon is... Porygon
 
-![Bruxish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/779.png)
+![Porygon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/137.png)
 
 <details>
-<summary>Additional info about Bruxish</summary>
+<summary>Additional info about Porygon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bruxish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/779.png) |
-| back_shiny | ![Bruxish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/779.png) |
-| front_default | ![Bruxish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png) | </details>
+| back_default | ![Porygon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/137.png) |
+| back_shiny | ![Porygon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/137.png) |
+| front_default | ![Porygon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png) | </details>
