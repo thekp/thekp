@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lileep
+# Today's random Pokemon is... Kyurem
 
-![Lileep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/345.png)
+![Kyurem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/646.png)
 
 <details>
-<summary>Additional info about Lileep</summary>
+<summary>Additional info about Kyurem</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lileep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/345.png) |
-| back_shiny | ![Lileep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/345.png) |
-| front_default | ![Lileep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png) | </details>
+| back_default | ![Kyurem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/646.png) |
+| back_shiny | ![Kyurem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/646.png) |
+| front_default | ![Kyurem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png) | </details>
