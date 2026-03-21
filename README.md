@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cubone
+# Today's random Pokemon is... Dwebble
 
-![Cubone shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/104.png)
+![Dwebble shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/557.png)
 
 <details>
-<summary>Additional info about Cubone</summary>
+<summary>Additional info about Dwebble</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cubone back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png) |
-| back_shiny | ![Cubone back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/104.png) |
-| front_default | ![Cubone front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png) | </details>
+| back_default | ![Dwebble back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/557.png) |
+| back_shiny | ![Dwebble back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/557.png) |
+| front_default | ![Dwebble front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png) | </details>
