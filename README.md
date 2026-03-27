@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Aurorus
+# Today's random Pokemon is... Giratina-altered
 
-![Aurorus shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/699.png)
+![Giratina-altered shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/487.png)
 
 <details>
-<summary>Additional info about Aurorus</summary>
+<summary>Additional info about Giratina-altered</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Aurorus back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/699.png) |
-| back_shiny | ![Aurorus back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/699.png) |
-| front_default | ![Aurorus front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png) | </details>
+| back_default | ![Giratina-altered back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/487.png) |
+| back_shiny | ![Giratina-altered back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/487.png) |
+| front_default | ![Giratina-altered front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png) | </details>
