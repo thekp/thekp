@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Piplup
+# Today's random Pokemon is... Toxicroak
 
-![Piplup shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/393.png)
+![Toxicroak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/454.png)
 
 <details>
-<summary>Additional info about Piplup</summary>
+<summary>Additional info about Toxicroak</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Piplup back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/393.png) |
-| back_shiny | ![Piplup back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/393.png) |
-| front_default | ![Piplup front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png) | </details>
+| back_default | ![Toxicroak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/454.png) |
+| back_female | ![Toxicroak back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/454.png) |
+| back_shiny | ![Toxicroak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/454.png) |
+| back_shiny_female | ![Toxicroak back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/454.png) |
+| front_default | ![Toxicroak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png) |
+| front_female | ![Toxicroak front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/454.png) |
+| front_shiny_female | ![Toxicroak front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/454.png) | </details>
