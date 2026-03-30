@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bellsprout
+# Today's random Pokemon is... Plusle
 
-![Bellsprout shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/69.png)
+![Plusle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/311.png)
 
 <details>
-<summary>Additional info about Bellsprout</summary>
+<summary>Additional info about Plusle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bellsprout back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png) |
-| back_shiny | ![Bellsprout back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/69.png) |
-| front_default | ![Bellsprout front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png) | </details>
+| back_default | ![Plusle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/311.png) |
+| back_shiny | ![Plusle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/311.png) |
+| front_default | ![Plusle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png) | </details>
