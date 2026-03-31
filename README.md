@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Plusle
+# Today's random Pokemon is... Litten
 
-![Plusle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/311.png)
+![Litten shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/725.png)
 
 <details>
-<summary>Additional info about Plusle</summary>
+<summary>Additional info about Litten</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Plusle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/311.png) |
-| back_shiny | ![Plusle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/311.png) |
-| front_default | ![Plusle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png) | </details>
+| back_default | ![Litten back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/725.png) |
+| back_shiny | ![Litten back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/725.png) |
+| front_default | ![Litten front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png) | </details>
