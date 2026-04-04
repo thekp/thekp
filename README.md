@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hydreigon
+# Today's random Pokemon is... Dragalge
 
-![Hydreigon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/635.png)
+![Dragalge shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/691.png)
 
 <details>
-<summary>Additional info about Hydreigon</summary>
+<summary>Additional info about Dragalge</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hydreigon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/635.png) |
-| back_shiny | ![Hydreigon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/635.png) |
-| front_default | ![Hydreigon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png) | </details>
+| back_default | ![Dragalge back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/691.png) |
+| back_shiny | ![Dragalge back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/691.png) |
+| front_default | ![Dragalge front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png) | </details>
