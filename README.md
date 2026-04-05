@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dragalge
+# Today's random Pokemon is... Huntail
 
-![Dragalge shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/691.png)
+![Huntail shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/367.png)
 
 <details>
-<summary>Additional info about Dragalge</summary>
+<summary>Additional info about Huntail</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dragalge back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/691.png) |
-| back_shiny | ![Dragalge back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/691.png) |
-| front_default | ![Dragalge front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png) | </details>
+| back_default | ![Huntail back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/367.png) |
+| back_shiny | ![Huntail back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/367.png) |
+| front_default | ![Huntail front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png) | </details>
