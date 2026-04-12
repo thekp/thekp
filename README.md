@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Medicham
+# Today's random Pokemon is... Meloetta-aria
 
-![Medicham shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/308.png)
+![Meloetta-aria shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/648.png)
 
 <details>
-<summary>Additional info about Medicham</summary>
+<summary>Additional info about Meloetta-aria</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Medicham back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/308.png) |
-| back_female | ![Medicham back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/308.png) |
-| back_shiny | ![Medicham back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/308.png) |
-| back_shiny_female | ![Medicham back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/308.png) |
-| front_default | ![Medicham front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png) |
-| front_female | ![Medicham front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/308.png) |
-| front_shiny_female | ![Medicham front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/308.png) | </details>
+| back_default | ![Meloetta-aria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/648.png) |
+| back_shiny | ![Meloetta-aria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/648.png) |
+| front_default | ![Meloetta-aria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png) | </details>
