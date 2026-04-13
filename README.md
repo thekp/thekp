@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Meloetta-aria
+# Today's random Pokemon is... Ninetales
 
-![Meloetta-aria shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/648.png)
+![Ninetales shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/38.png)
 
 <details>
-<summary>Additional info about Meloetta-aria</summary>
+<summary>Additional info about Ninetales</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Meloetta-aria back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/648.png) |
-| back_shiny | ![Meloetta-aria back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/648.png) |
-| front_default | ![Meloetta-aria front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png) | </details>
+| back_default | ![Ninetales back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png) |
+| back_shiny | ![Ninetales back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/38.png) |
+| front_default | ![Ninetales front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png) | </details>
