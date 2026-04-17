@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Latios
+# Today's random Pokemon is... Bayleef
 
-![Latios shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/381.png)
+![Bayleef shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/153.png)
 
 <details>
-<summary>Additional info about Latios</summary>
+<summary>Additional info about Bayleef</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Latios back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/381.png) |
-| back_shiny | ![Latios back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/381.png) |
-| front_default | ![Latios front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png) | </details>
+| back_default | ![Bayleef back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/153.png) |
+| back_shiny | ![Bayleef back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/153.png) |
+| front_default | ![Bayleef front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png) | </details>
