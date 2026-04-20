@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kabutops
+# Today's random Pokemon is... Goomy
 
-![Kabutops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/141.png)
+![Goomy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/704.png)
 
 <details>
-<summary>Additional info about Kabutops</summary>
+<summary>Additional info about Goomy</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Kabutops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png) |
-| back_shiny | ![Kabutops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/141.png) |
-| front_default | ![Kabutops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png) | </details>
+| back_default | ![Goomy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/704.png) |
+| back_shiny | ![Goomy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/704.png) |
+| front_default | ![Goomy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png) | </details>
