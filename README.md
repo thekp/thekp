@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Goomy
+# Today's random Pokemon is... Tympole
 
-![Goomy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/704.png)
+![Tympole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/535.png)
 
 <details>
-<summary>Additional info about Goomy</summary>
+<summary>Additional info about Tympole</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Goomy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/704.png) |
-| back_shiny | ![Goomy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/704.png) |
-| front_default | ![Goomy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png) | </details>
+| back_default | ![Tympole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/535.png) |
+| back_shiny | ![Tympole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/535.png) |
+| front_default | ![Tympole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png) | </details>
