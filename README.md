@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tympole
+# Today's random Pokemon is... Suicune
 
-![Tympole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/535.png)
+![Suicune shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/245.png)
 
 <details>
-<summary>Additional info about Tympole</summary>
+<summary>Additional info about Suicune</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tympole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/535.png) |
-| back_shiny | ![Tympole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/535.png) |
-| front_default | ![Tympole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png) | </details>
+| back_default | ![Suicune back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/245.png) |
+| back_shiny | ![Suicune back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/245.png) |
+| front_default | ![Suicune front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png) | </details>
