@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Darumaka
+# Today's random Pokemon is... Gurdurr
 
-![Darumaka shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/554.png)
+![Gurdurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/533.png)
 
 <details>
-<summary>Additional info about Darumaka</summary>
+<summary>Additional info about Gurdurr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Darumaka back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/554.png) |
-| back_shiny | ![Darumaka back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/554.png) |
-| front_default | ![Darumaka front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png) | </details>
+| back_default | ![Gurdurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/533.png) |
+| back_shiny | ![Gurdurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/533.png) |
+| front_default | ![Gurdurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png) | </details>
