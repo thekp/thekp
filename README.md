@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Gurdurr
+# Today's random Pokemon is... Probopass
 
-![Gurdurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/533.png)
+![Probopass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/476.png)
 
 <details>
-<summary>Additional info about Gurdurr</summary>
+<summary>Additional info about Probopass</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Gurdurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/533.png) |
-| back_shiny | ![Gurdurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/533.png) |
-| front_default | ![Gurdurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png) | </details>
+| back_default | ![Probopass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/476.png) |
+| back_shiny | ![Probopass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/476.png) |
+| front_default | ![Probopass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | </details>
