@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Probopass
+# Today's random Pokemon is... Bruxish
 
-![Probopass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/476.png)
+![Bruxish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/779.png)
 
 <details>
-<summary>Additional info about Probopass</summary>
+<summary>Additional info about Bruxish</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Probopass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/476.png) |
-| back_shiny | ![Probopass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/476.png) |
-| front_default | ![Probopass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | </details>
+| back_default | ![Bruxish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/779.png) |
+| back_shiny | ![Bruxish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/779.png) |
+| front_default | ![Bruxish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png) | </details>
