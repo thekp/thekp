@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bruxish
+# Today's random Pokemon is... Infernape
 
-![Bruxish shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/779.png)
+![Infernape shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/392.png)
 
 <details>
-<summary>Additional info about Bruxish</summary>
+<summary>Additional info about Infernape</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bruxish back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/779.png) |
-| back_shiny | ![Bruxish back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/779.png) |
-| front_default | ![Bruxish front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png) | </details>
+| back_default | ![Infernape back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/392.png) |
+| back_shiny | ![Infernape back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/392.png) |
+| front_default | ![Infernape front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png) | </details>
