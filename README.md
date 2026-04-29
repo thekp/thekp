@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ninetales
+# Today's random Pokemon is... Musharna
 
-![Ninetales shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/38.png)
+![Musharna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/518.png)
 
 <details>
-<summary>Additional info about Ninetales</summary>
+<summary>Additional info about Musharna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ninetales back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png) |
-| back_shiny | ![Ninetales back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/38.png) |
-| front_default | ![Ninetales front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png) | </details>
+| back_default | ![Musharna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/518.png) |
+| back_shiny | ![Musharna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/518.png) |
+| front_default | ![Musharna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png) | </details>
