@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Exeggutor
+# Today's random Pokemon is... Glalie
 
-![Exeggutor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/103.png)
+![Glalie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/362.png)
 
 <details>
-<summary>Additional info about Exeggutor</summary>
+<summary>Additional info about Glalie</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Exeggutor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png) |
-| back_shiny | ![Exeggutor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/103.png) |
-| front_default | ![Exeggutor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png) | </details>
+| back_default | ![Glalie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/362.png) |
+| back_shiny | ![Glalie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/362.png) |
+| front_default | ![Glalie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png) | </details>
