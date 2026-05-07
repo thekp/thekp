@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Goomy
+# Today's random Pokemon is... Entei
 
-![Goomy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/704.png)
+![Entei shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/244.png)
 
 <details>
-<summary>Additional info about Goomy</summary>
+<summary>Additional info about Entei</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Goomy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/704.png) |
-| back_shiny | ![Goomy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/704.png) |
-| front_default | ![Goomy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png) | </details>
+| back_default | ![Entei back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/244.png) |
+| back_shiny | ![Entei back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/244.png) |
+| front_default | ![Entei front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png) | </details>
