@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Entei
+# Today's random Pokemon is... Blastoise
 
-![Entei shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/244.png)
+![Blastoise shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/9.png)
 
 <details>
-<summary>Additional info about Entei</summary>
+<summary>Additional info about Blastoise</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Entei back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/244.png) |
-| back_shiny | ![Entei back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/244.png) |
-| front_default | ![Entei front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png) | </details>
+| back_default | ![Blastoise back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png) |
+| back_shiny | ![Blastoise back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/9.png) |
+| front_default | ![Blastoise front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png) | </details>
