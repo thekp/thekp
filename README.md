@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Starmie
+# Today's random Pokemon is... Fearow
 
-![Starmie shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/121.png)
+![Fearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png)
 
 <details>
-<summary>Additional info about Starmie</summary>
+<summary>Additional info about Fearow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Starmie back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png) |
-| back_shiny | ![Starmie back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/121.png) |
-| front_default | ![Starmie front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png) | </details>
+| back_default | ![Fearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png) |
+| back_shiny | ![Fearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/22.png) |
+| front_default | ![Fearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png) | </details>
