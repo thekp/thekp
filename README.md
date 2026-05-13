@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electabuzz
+# Today's random Pokemon is... Clauncher
 
-![Electabuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/125.png)
+![Clauncher shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/692.png)
 
 <details>
-<summary>Additional info about Electabuzz</summary>
+<summary>Additional info about Clauncher</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Electabuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png) |
-| back_shiny | ![Electabuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/125.png) |
-| front_default | ![Electabuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png) | </details>
+| back_default | ![Clauncher back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/692.png) |
+| back_shiny | ![Clauncher back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/692.png) |
+| front_default | ![Clauncher front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png) | </details>
