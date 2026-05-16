@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cryogonal
+# Today's random Pokemon is... Seismitoad
 
-![Cryogonal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/615.png)
+![Seismitoad shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/537.png)
 
 <details>
-<summary>Additional info about Cryogonal</summary>
+<summary>Additional info about Seismitoad</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cryogonal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/615.png) |
-| back_shiny | ![Cryogonal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/615.png) |
-| front_default | ![Cryogonal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png) | </details>
+| back_default | ![Seismitoad back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/537.png) |
+| back_shiny | ![Seismitoad back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/537.png) |
+| front_default | ![Seismitoad front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png) | </details>
