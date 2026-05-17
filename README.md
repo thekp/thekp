@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Seismitoad
+# Today's random Pokemon is... Minccino
 
-![Seismitoad shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/537.png)
+![Minccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/572.png)
 
 <details>
-<summary>Additional info about Seismitoad</summary>
+<summary>Additional info about Minccino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Seismitoad back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/537.png) |
-| back_shiny | ![Seismitoad back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/537.png) |
-| front_default | ![Seismitoad front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png) | </details>
+| back_default | ![Minccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/572.png) |
+| back_shiny | ![Minccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/572.png) |
+| front_default | ![Minccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png) | </details>
