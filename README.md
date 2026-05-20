@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Carvanha
+# Today's random Pokemon is... Mankey
 
-![Carvanha shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/318.png)
+![Mankey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/56.png)
 
 <details>
-<summary>Additional info about Carvanha</summary>
+<summary>Additional info about Mankey</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Carvanha back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/318.png) |
-| back_shiny | ![Carvanha back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/318.png) |
-| front_default | ![Carvanha front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png) | </details>
+| back_default | ![Mankey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png) |
+| back_shiny | ![Mankey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/56.png) |
+| front_default | ![Mankey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png) | </details>
