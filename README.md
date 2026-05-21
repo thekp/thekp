@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mankey
+# Today's random Pokemon is... Fraxure
 
-![Mankey shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/56.png)
+![Fraxure shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/611.png)
 
 <details>
-<summary>Additional info about Mankey</summary>
+<summary>Additional info about Fraxure</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mankey back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png) |
-| back_shiny | ![Mankey back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/56.png) |
-| front_default | ![Mankey front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png) | </details>
+| back_default | ![Fraxure back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/611.png) |
+| back_shiny | ![Fraxure back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/611.png) |
+| front_default | ![Fraxure front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png) | </details>
