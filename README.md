@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mareep
+# Today's random Pokemon is... Sandygast
 
-![Mareep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/179.png)
+![Sandygast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/769.png)
 
 <details>
-<summary>Additional info about Mareep</summary>
+<summary>Additional info about Sandygast</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mareep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/179.png) |
-| back_shiny | ![Mareep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/179.png) |
-| front_default | ![Mareep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png) | </details>
+| back_default | ![Sandygast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/769.png) |
+| back_shiny | ![Sandygast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/769.png) |
+| front_default | ![Sandygast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png) | </details>
