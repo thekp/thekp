@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sandygast
+# Today's random Pokemon is... Bounsweet
 
-![Sandygast shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/769.png)
+![Bounsweet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/761.png)
 
 <details>
-<summary>Additional info about Sandygast</summary>
+<summary>Additional info about Bounsweet</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Sandygast back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/769.png) |
-| back_shiny | ![Sandygast back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/769.png) |
-| front_default | ![Sandygast front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png) | </details>
+| back_default | ![Bounsweet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/761.png) |
+| back_shiny | ![Bounsweet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/761.png) |
+| front_default | ![Bounsweet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png) | </details>
