@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bounsweet
+# Today's random Pokemon is... Metapod
 
-![Bounsweet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/761.png)
+![Metapod shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/11.png)
 
 <details>
-<summary>Additional info about Bounsweet</summary>
+<summary>Additional info about Metapod</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bounsweet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/761.png) |
-| back_shiny | ![Bounsweet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/761.png) |
-| front_default | ![Bounsweet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png) | </details>
+| back_default | ![Metapod back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png) |
+| back_shiny | ![Metapod back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/11.png) |
+| front_default | ![Metapod front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png) | </details>
