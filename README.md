@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bronzor
+# Today's random Pokemon is... Kakuna
 
-![Bronzor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/436.png)
+![Kakuna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/14.png)
 
 <details>
-<summary>Additional info about Bronzor</summary>
+<summary>Additional info about Kakuna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bronzor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/436.png) |
-| back_shiny | ![Bronzor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/436.png) |
-| front_default | ![Bronzor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png) | </details>
+| back_default | ![Kakuna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png) |
+| back_shiny | ![Kakuna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/14.png) |
+| front_default | ![Kakuna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png) | </details>
