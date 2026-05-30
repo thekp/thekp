@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Klink
+# Today's random Pokemon is... Sealeo
 
-![Klink shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/599.png)
+![Sealeo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/364.png)
 
 <details>
-<summary>Additional info about Klink</summary>
+<summary>Additional info about Sealeo</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Klink back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/599.png) |
-| back_shiny | ![Klink back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/599.png) |
-| front_default | ![Klink front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png) | </details>
+| back_default | ![Sealeo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/364.png) |
+| back_shiny | ![Sealeo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/364.png) |
+| front_default | ![Sealeo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png) | </details>
