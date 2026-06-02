@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pikipek
+# Today's random Pokemon is... Tapu-bulu
 
-![Pikipek shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/731.png)
+![Tapu-bulu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/787.png)
 
 <details>
-<summary>Additional info about Pikipek</summary>
+<summary>Additional info about Tapu-bulu</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pikipek back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/731.png) |
-| back_shiny | ![Pikipek back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/731.png) |
-| front_default | ![Pikipek front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/731.png) | </details>
+| back_default | ![Tapu-bulu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/787.png) |
+| back_shiny | ![Tapu-bulu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/787.png) |
+| front_default | ![Tapu-bulu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png) | </details>
