@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Mareep
+# Today's random Pokemon is... Malamar
 
-![Mareep shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/179.png)
+![Malamar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png)
 
 <details>
-<summary>Additional info about Mareep</summary>
+<summary>Additional info about Malamar</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Mareep back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/179.png) |
-| back_shiny | ![Mareep back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/179.png) |
-| front_default | ![Mareep front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png) | </details>
+| back_default | ![Malamar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/687.png) |
+| back_shiny | ![Malamar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/687.png) |
+| front_default | ![Malamar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png) | </details>
