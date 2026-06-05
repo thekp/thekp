@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Malamar
+# Today's random Pokemon is... Pineco
 
-![Malamar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/687.png)
+![Pineco shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/204.png)
 
 <details>
-<summary>Additional info about Malamar</summary>
+<summary>Additional info about Pineco</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Malamar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/687.png) |
-| back_shiny | ![Malamar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/687.png) |
-| front_default | ![Malamar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png) | </details>
+| back_default | ![Pineco back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/204.png) |
+| back_shiny | ![Pineco back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/204.png) |
+| front_default | ![Pineco front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png) | </details>
