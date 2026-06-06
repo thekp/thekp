@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pineco
+# Today's random Pokemon is... Gardevoir
 
-![Pineco shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/204.png)
+![Gardevoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png)
 
 <details>
-<summary>Additional info about Pineco</summary>
+<summary>Additional info about Gardevoir</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pineco back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/204.png) |
-| back_shiny | ![Pineco back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/204.png) |
-| front_default | ![Pineco front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png) | </details>
+| back_default | ![Gardevoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/282.png) |
+| back_shiny | ![Gardevoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/282.png) |
+| front_default | ![Gardevoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png) | </details>
