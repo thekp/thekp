@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Psyduck
+# Today's random Pokemon is... Slugma
 
-![Psyduck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/54.png)
+![Slugma shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/218.png)
 
 <details>
-<summary>Additional info about Psyduck</summary>
+<summary>Additional info about Slugma</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Psyduck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png) |
-| back_shiny | ![Psyduck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/54.png) |
-| front_default | ![Psyduck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png) | </details>
+| back_default | ![Slugma back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/218.png) |
+| back_shiny | ![Slugma back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/218.png) |
+| front_default | ![Slugma front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png) | </details>
