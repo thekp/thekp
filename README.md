@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Guzzlord
+# Today's random Pokemon is... Ninetales
 
-![Guzzlord shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/799.png)
+![Ninetales shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/38.png)
 
 <details>
-<summary>Additional info about Guzzlord</summary>
+<summary>Additional info about Ninetales</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Guzzlord back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/799.png) |
-| back_shiny | ![Guzzlord back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/799.png) |
-| front_default | ![Guzzlord front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png) | </details>
+| back_default | ![Ninetales back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png) |
+| back_shiny | ![Ninetales back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/38.png) |
+| front_default | ![Ninetales front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png) | </details>
