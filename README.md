@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Porygon2
+# Today's random Pokemon is... Cinccino
 
-![Porygon2 shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/233.png)
+![Cinccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/573.png)
 
 <details>
-<summary>Additional info about Porygon2</summary>
+<summary>Additional info about Cinccino</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Porygon2 back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/233.png) |
-| back_shiny | ![Porygon2 back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/233.png) |
-| front_default | ![Porygon2 front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png) | </details>
+| back_default | ![Cinccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/573.png) |
+| back_shiny | ![Cinccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/573.png) |
+| front_default | ![Cinccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png) | </details>
