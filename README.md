@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cinccino
+# Today's random Pokemon is... Furret
 
-![Cinccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/573.png)
+![Furret shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/162.png)
 
 <details>
-<summary>Additional info about Cinccino</summary>
+<summary>Additional info about Furret</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cinccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/573.png) |
-| back_shiny | ![Cinccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/573.png) |
-| front_default | ![Cinccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png) | </details>
+| back_default | ![Furret back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/162.png) |
+| back_shiny | ![Furret back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/162.png) |
+| front_default | ![Furret front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png) | </details>
