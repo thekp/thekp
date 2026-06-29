@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Stantler
+# Today's random Pokemon is... Onix
 
-![Stantler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png)
+![Onix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/95.png)
 
 <details>
-<summary>Additional info about Stantler</summary>
+<summary>Additional info about Onix</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Stantler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png) |
-| back_shiny | ![Stantler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png) |
-| front_default | ![Stantler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png) | </details>
+| back_default | ![Onix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png) |
+| back_shiny | ![Onix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/95.png) |
+| front_default | ![Onix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png) | </details>
