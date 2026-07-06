@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cosmog
+# Today's random Pokemon is... Torkoal
 
-![Cosmog shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/789.png)
+![Torkoal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/324.png)
 
 <details>
-<summary>Additional info about Cosmog</summary>
+<summary>Additional info about Torkoal</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Cosmog back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/789.png) |
-| back_shiny | ![Cosmog back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/789.png) |
-| front_default | ![Cosmog front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png) | </details>
+| back_default | ![Torkoal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/324.png) |
+| back_shiny | ![Torkoal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/324.png) |
+| front_default | ![Torkoal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png) | </details>
