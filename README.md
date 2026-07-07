@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Torkoal
+# Today's random Pokemon is... Poochyena
 
-![Torkoal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/324.png)
+![Poochyena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/261.png)
 
 <details>
-<summary>Additional info about Torkoal</summary>
+<summary>Additional info about Poochyena</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Torkoal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/324.png) |
-| back_shiny | ![Torkoal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/324.png) |
-| front_default | ![Torkoal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png) | </details>
+| back_default | ![Poochyena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/261.png) |
+| back_shiny | ![Poochyena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/261.png) |
+| front_default | ![Poochyena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png) | </details>
