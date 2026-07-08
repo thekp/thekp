@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Poochyena
+# Today's random Pokemon is... Lanturn
 
-![Poochyena shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/261.png)
+![Lanturn shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/171.png)
 
 <details>
-<summary>Additional info about Poochyena</summary>
+<summary>Additional info about Lanturn</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Poochyena back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/261.png) |
-| back_shiny | ![Poochyena back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/261.png) |
-| front_default | ![Poochyena front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png) | </details>
+| back_default | ![Lanturn back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/171.png) |
+| back_shiny | ![Lanturn back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/171.png) |
+| front_default | ![Lanturn front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png) | </details>
