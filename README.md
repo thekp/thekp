@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lanturn
+# Today's random Pokemon is... Fearow
 
-![Lanturn shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/171.png)
+![Fearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png)
 
 <details>
-<summary>Additional info about Lanturn</summary>
+<summary>Additional info about Fearow</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Lanturn back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/171.png) |
-| back_shiny | ![Lanturn back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/171.png) |
-| front_default | ![Lanturn front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png) | </details>
+| back_default | ![Fearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png) |
+| back_shiny | ![Fearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/22.png) |
+| front_default | ![Fearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png) | </details>
