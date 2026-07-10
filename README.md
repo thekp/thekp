@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Fearow
+# Today's random Pokemon is... Muk
 
-![Fearow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/22.png)
+![Muk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/89.png)
 
 <details>
-<summary>Additional info about Fearow</summary>
+<summary>Additional info about Muk</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Fearow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png) |
-| back_shiny | ![Fearow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/22.png) |
-| front_default | ![Fearow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png) | </details>
+| back_default | ![Muk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/89.png) |
+| back_shiny | ![Muk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/89.png) |
+| front_default | ![Muk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png) | </details>
