@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Amaura
+# Today's random Pokemon is... Klink
 
-![Amaura shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/698.png)
+![Klink shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/599.png)
 
 <details>
-<summary>Additional info about Amaura</summary>
+<summary>Additional info about Klink</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Amaura back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/698.png) |
-| back_shiny | ![Amaura back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/698.png) |
-| front_default | ![Amaura front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png) | </details>
+| back_default | ![Klink back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/599.png) |
+| back_shiny | ![Klink back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/599.png) |
+| front_default | ![Klink front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png) | </details>
