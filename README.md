@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Basculin-red-striped
+# Today's random Pokemon is... Bunnelby
 
-![Basculin-red-striped shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/550.png)
+![Bunnelby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/659.png)
 
 <details>
-<summary>Additional info about Basculin-red-striped</summary>
+<summary>Additional info about Bunnelby</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Basculin-red-striped back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/550.png) |
-| back_shiny | ![Basculin-red-striped back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/550.png) |
-| front_default | ![Basculin-red-striped front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png) | </details>
+| back_default | ![Bunnelby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/659.png) |
+| back_shiny | ![Bunnelby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/659.png) |
+| front_default | ![Bunnelby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png) | </details>
