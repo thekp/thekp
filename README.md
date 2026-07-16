@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Bunnelby
+# Today's random Pokemon is... Beldum
 
-![Bunnelby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/659.png)
+![Beldum shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/374.png)
 
 <details>
-<summary>Additional info about Bunnelby</summary>
+<summary>Additional info about Beldum</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Bunnelby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/659.png) |
-| back_shiny | ![Bunnelby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/659.png) |
-| front_default | ![Bunnelby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png) | </details>
+| back_default | ![Beldum back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/374.png) |
+| back_shiny | ![Beldum back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/374.png) |
+| front_default | ![Beldum front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png) | </details>
