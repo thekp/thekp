@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Ledian
+# Today's random Pokemon is... Chikorita
 
-![Ledian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/166.png)
+![Chikorita shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/152.png)
 
 <details>
-<summary>Additional info about Ledian</summary>
+<summary>Additional info about Chikorita</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ledian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/166.png) |
-| back_female | ![Ledian back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/166.png) |
-| back_shiny | ![Ledian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/166.png) |
-| back_shiny_female | ![Ledian back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/166.png) |
-| front_default | ![Ledian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png) |
-| front_female | ![Ledian front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/166.png) |
-| front_shiny_female | ![Ledian front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/166.png) | </details>
+| back_default | ![Chikorita back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/152.png) |
+| back_shiny | ![Chikorita back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/152.png) |
+| front_default | ![Chikorita front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png) | </details>
