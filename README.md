@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swirlix
+# Today's random Pokemon is... Moltres
 
-![Swirlix shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/684.png)
+![Moltres shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/146.png)
 
 <details>
-<summary>Additional info about Swirlix</summary>
+<summary>Additional info about Moltres</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Swirlix back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/684.png) |
-| back_shiny | ![Swirlix back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/684.png) |
-| front_default | ![Swirlix front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png) | </details>
+| back_default | ![Moltres back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png) |
+| back_shiny | ![Moltres back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/146.png) |
+| front_default | ![Moltres front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png) | </details>
