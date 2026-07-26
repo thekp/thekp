@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Deerling
+# Today's random Pokemon is... Timburr
 
-![Deerling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/585.png)
+![Timburr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/532.png)
 
 <details>
-<summary>Additional info about Deerling</summary>
+<summary>Additional info about Timburr</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Deerling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/585.png) |
-| back_shiny | ![Deerling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/585.png) |
-| front_default | ![Deerling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png) | </details>
+| back_default | ![Timburr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/532.png) |
+| back_shiny | ![Timburr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/532.png) |
+| front_default | ![Timburr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png) | </details>
