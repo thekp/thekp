@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pichu
+# Today's random Pokemon is... Hydreigon
 
-![Pichu shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/172.png)
+![Hydreigon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/635.png)
 
 <details>
-<summary>Additional info about Pichu</summary>
+<summary>Additional info about Hydreigon</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Pichu back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/172.png) |
-| back_shiny | ![Pichu back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/172.png) |
-| front_default | ![Pichu front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png) | </details>
+| back_default | ![Hydreigon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/635.png) |
+| back_shiny | ![Hydreigon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/635.png) |
+| front_default | ![Hydreigon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png) | </details>
