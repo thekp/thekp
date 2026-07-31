@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Hydreigon
+# Today's random Pokemon is... Munna
 
-![Hydreigon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/635.png)
+![Munna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/517.png)
 
 <details>
-<summary>Additional info about Hydreigon</summary>
+<summary>Additional info about Munna</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Hydreigon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/635.png) |
-| back_shiny | ![Hydreigon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/635.png) |
-| front_default | ![Hydreigon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png) | </details>
+| back_default | ![Munna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/517.png) |
+| back_shiny | ![Munna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/517.png) |
+| front_default | ![Munna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png) | </details>
