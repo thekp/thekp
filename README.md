@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shedinja
+# Today's random Pokemon is... Meowth
 
-![Shedinja shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/292.png)
+![Meowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/52.png)
 
 <details>
-<summary>Additional info about Shedinja</summary>
+<summary>Additional info about Meowth</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Shedinja back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/292.png) |
-| back_shiny | ![Shedinja back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/292.png) |
-| front_default | ![Shedinja front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png) | </details>
+| back_default | ![Meowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png) |
+| back_shiny | ![Meowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/52.png) |
+| front_default | ![Meowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | </details>
