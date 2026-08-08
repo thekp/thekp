@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Meowth
+# Today's random Pokemon is... Dusclops
 
-![Meowth shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/52.png)
+![Dusclops shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/356.png)
 
 <details>
-<summary>Additional info about Meowth</summary>
+<summary>Additional info about Dusclops</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Meowth back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png) |
-| back_shiny | ![Meowth back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/52.png) |
-| front_default | ![Meowth front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png) | </details>
+| back_default | ![Dusclops back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/356.png) |
+| back_shiny | ![Dusclops back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/356.png) |
+| front_default | ![Dusclops front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png) | </details>
