@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Ferroseed
+# Today's random Pokemon is... Weedle
 
-![Ferroseed shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/597.png)
+![Weedle shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/13.png)
 
 <details>
-<summary>Additional info about Ferroseed</summary>
+<summary>Additional info about Weedle</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Ferroseed back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/597.png) |
-| back_shiny | ![Ferroseed back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/597.png) |
-| front_default | ![Ferroseed front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png) | </details>
+| back_default | ![Weedle back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png) |
+| back_shiny | ![Weedle back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/13.png) |
+| front_default | ![Weedle front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png) | </details>
