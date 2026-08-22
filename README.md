@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Regigigas
+# Today's random Pokemon is... Gliscor
 
-![Regigigas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/486.png)
+![Gliscor shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/472.png)
 
 <details>
-<summary>Additional info about Regigigas</summary>
+<summary>Additional info about Gliscor</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Regigigas back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/486.png) |
-| back_shiny | ![Regigigas back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/486.png) |
-| front_default | ![Regigigas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png) | </details>
+| back_default | ![Gliscor back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/472.png) |
+| back_shiny | ![Gliscor back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/472.png) |
+| front_default | ![Gliscor front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png) | </details>
