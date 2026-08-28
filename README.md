@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Dialga
+# Today's random Pokemon is... Tympole
 
-![Dialga shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/483.png)
+![Tympole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/535.png)
 
 <details>
-<summary>Additional info about Dialga</summary>
+<summary>Additional info about Tympole</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Dialga back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/483.png) |
-| back_shiny | ![Dialga back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/483.png) |
-| front_default | ![Dialga front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png) | </details>
+| back_default | ![Tympole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/535.png) |
+| back_shiny | ![Tympole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/535.png) |
+| front_default | ![Tympole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png) | </details>
