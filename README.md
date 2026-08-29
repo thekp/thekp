@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Tympole
+# Today's random Pokemon is... Persian
 
-![Tympole shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/535.png)
+![Persian shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/53.png)
 
 <details>
-<summary>Additional info about Tympole</summary>
+<summary>Additional info about Persian</summary>
 
 | srpite type | image |
 |------|------|
-| back_default | ![Tympole back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/535.png) |
-| back_shiny | ![Tympole back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/535.png) |
-| front_default | ![Tympole front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png) | </details>
+| back_shiny | ![Persian back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/53.png) |
+| back_default | ![Persian back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/53.png) |
+| front_default | ![Persian front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png) | </details>
