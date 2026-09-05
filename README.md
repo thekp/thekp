@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Kartana
+# Today's random Pokemon is... Inkay
 
-![Kartana shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/798.png)
+![Inkay shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/686.png)
 
 <details>
-<summary>Additional info about Kartana</summary>
+<summary>Additional info about Inkay</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Kartana back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/798.png) |
-| back_default | ![Kartana back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/798.png) |
-| front_default | ![Kartana front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png) | </details>
+| back_shiny | ![Inkay back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/686.png) |
+| back_default | ![Inkay back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/686.png) |
+| front_default | ![Inkay front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/686.png) | </details>
