@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Zebstrika
+# Today's random Pokemon is... Happiny
 
-![Zebstrika shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/523.png)
+![Happiny shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/440.png)
 
 <details>
-<summary>Additional info about Zebstrika</summary>
+<summary>Additional info about Happiny</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Zebstrika back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/523.png) |
-| back_default | ![Zebstrika back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/523.png) |
-| front_default | ![Zebstrika front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png) | </details>
+| back_shiny | ![Happiny back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/440.png) |
+| back_female | ![Happiny back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/440.png) |
+| back_default | ![Happiny back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/440.png) |
+| front_female | ![Happiny front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png) |
+| front_default | ![Happiny front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png) |
+| back_shiny_female | ![Happiny back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/440.png) |
+| front_shiny_female | ![Happiny front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/440.png) | </details>
