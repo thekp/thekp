@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Haunter
+# Today's random Pokemon is... Shellder
 
-![Haunter shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/93.png)
+![Shellder shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/90.png)
 
 <details>
-<summary>Additional info about Haunter</summary>
+<summary>Additional info about Shellder</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Haunter back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/93.png) |
-| back_default | ![Haunter back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/93.png) |
-| front_default | ![Haunter front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png) | </details>
+| back_shiny | ![Shellder back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/90.png) |
+| back_default | ![Shellder back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/90.png) |
+| front_default | ![Shellder front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png) | </details>
