@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Shellder
+# Today's random Pokemon is... Clefairy
 
-![Shellder shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/90.png)
+![Clefairy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/35.png)
 
 <details>
-<summary>Additional info about Shellder</summary>
+<summary>Additional info about Clefairy</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Shellder back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/90.png) |
-| back_default | ![Shellder back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/90.png) |
-| front_default | ![Shellder front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png) | </details>
+| back_shiny | ![Clefairy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/35.png) |
+| back_default | ![Clefairy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png) |
+| front_default | ![Clefairy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png) | </details>
