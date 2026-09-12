@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Clefairy
+# Today's random Pokemon is... Swanna
 
-![Clefairy shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/35.png)
+![Swanna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/581.png)
 
 <details>
-<summary>Additional info about Clefairy</summary>
+<summary>Additional info about Swanna</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Clefairy back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/35.png) |
-| back_default | ![Clefairy back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png) |
-| front_default | ![Clefairy front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png) | </details>
+| back_shiny | ![Swanna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/581.png) |
+| back_default | ![Swanna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/581.png) |
+| front_default | ![Swanna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png) | </details>
