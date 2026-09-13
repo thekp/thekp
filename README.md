@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swanna
+# Today's random Pokemon is... Masquerain
 
-![Swanna shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/581.png)
+![Masquerain shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/284.png)
 
 <details>
-<summary>Additional info about Swanna</summary>
+<summary>Additional info about Masquerain</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Swanna back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/581.png) |
-| back_default | ![Swanna back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/581.png) |
-| front_default | ![Swanna front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png) | </details>
+| back_shiny | ![Masquerain back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/284.png) |
+| back_default | ![Masquerain back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/284.png) |
+| front_default | ![Masquerain front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png) | </details>
