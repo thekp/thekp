@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Growlithe
+# Today's random Pokemon is... Porygon-z
 
-![Growlithe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/58.png)
+![Porygon-z shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/474.png)
 
 <details>
-<summary>Additional info about Growlithe</summary>
+<summary>Additional info about Porygon-z</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Growlithe back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/58.png) |
-| back_default | ![Growlithe back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/58.png) |
-| front_default | ![Growlithe front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png) | </details>
+| back_shiny | ![Porygon-z back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/474.png) |
+| back_default | ![Porygon-z back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/474.png) |
+| front_default | ![Porygon-z front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png) | </details>
