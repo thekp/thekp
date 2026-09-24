@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Floette
+# Today's random Pokemon is... Electrike
 
-![Floette shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/670.png)
+![Electrike shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/309.png)
 
 <details>
-<summary>Additional info about Floette</summary>
+<summary>Additional info about Electrike</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Floette back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/670.png) |
-| back_female | ![Floette back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/670.png) |
-| back_default | ![Floette back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/670.png) |
-| front_female | ![Floette front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png) |
-| front_default | ![Floette front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png) |
-| back_shiny_female | ![Floette back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/670.png) |
-| front_shiny_female | ![Floette front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/670.png) | </details>
+| back_shiny | ![Electrike back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/309.png) |
+| back_default | ![Electrike back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/309.png) |
+| front_default | ![Electrike front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png) | </details>
