@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Electrike
+# Today's random Pokemon is... Sunflora
 
-![Electrike shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/309.png)
+![Sunflora shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/192.png)
 
 <details>
-<summary>Additional info about Electrike</summary>
+<summary>Additional info about Sunflora</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Electrike back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/309.png) |
-| back_default | ![Electrike back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/309.png) |
-| front_default | ![Electrike front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png) | </details>
+| back_shiny | ![Sunflora back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/192.png) |
+| back_default | ![Sunflora back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/192.png) |
+| front_default | ![Sunflora front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png) | </details>
