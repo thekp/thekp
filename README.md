@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sunflora
+# Today's random Pokemon is... Slowking
 
-![Sunflora shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/192.png)
+![Slowking shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/199.png)
 
 <details>
-<summary>Additional info about Sunflora</summary>
+<summary>Additional info about Slowking</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Sunflora back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/192.png) |
-| back_default | ![Sunflora back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/192.png) |
-| front_default | ![Sunflora front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png) | </details>
+| back_shiny | ![Slowking back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/199.png) |
+| back_default | ![Slowking back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/199.png) |
+| front_default | ![Slowking front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png) | </details>
