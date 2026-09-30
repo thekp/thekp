@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Golduck
+# Today's random Pokemon is... Swampert
 
-![Golduck shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/55.png)
+![Swampert shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/260.png)
 
 <details>
-<summary>Additional info about Golduck</summary>
+<summary>Additional info about Swampert</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Golduck back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/55.png) |
-| back_default | ![Golduck back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/55.png) |
-| front_default | ![Golduck front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png) | </details>
+| back_shiny | ![Swampert back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/260.png) |
+| back_default | ![Swampert back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/260.png) |
+| front_default | ![Swampert front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | </details>
