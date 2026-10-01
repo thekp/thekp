@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swampert
+# Today's random Pokemon is... Oshawott
 
-![Swampert shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/260.png)
+![Oshawott shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/501.png)
 
 <details>
-<summary>Additional info about Swampert</summary>
+<summary>Additional info about Oshawott</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Swampert back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/260.png) |
-| back_default | ![Swampert back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/260.png) |
-| front_default | ![Swampert front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png) | </details>
+| back_shiny | ![Oshawott back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/501.png) |
+| back_default | ![Oshawott back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/501.png) |
+| front_default | ![Oshawott front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png) | </details>
