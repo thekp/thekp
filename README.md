@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Oshawott
+# Today's random Pokemon is... Torkoal
 
-![Oshawott shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/501.png)
+![Torkoal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/324.png)
 
 <details>
-<summary>Additional info about Oshawott</summary>
+<summary>Additional info about Torkoal</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Oshawott back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/501.png) |
-| back_default | ![Oshawott back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/501.png) |
-| front_default | ![Oshawott front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png) | </details>
+| back_shiny | ![Torkoal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/324.png) |
+| back_default | ![Torkoal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/324.png) |
+| front_default | ![Torkoal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png) | </details>
