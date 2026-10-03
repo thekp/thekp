@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Torkoal
+# Today's random Pokemon is... Genesect
 
-![Torkoal shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/324.png)
+![Genesect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/649.png)
 
 <details>
-<summary>Additional info about Torkoal</summary>
+<summary>Additional info about Genesect</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Torkoal back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/324.png) |
-| back_default | ![Torkoal back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/324.png) |
-| front_default | ![Torkoal front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png) | </details>
+| back_shiny | ![Genesect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/649.png) |
+| back_default | ![Genesect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/649.png) |
+| front_default | ![Genesect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png) | </details>
