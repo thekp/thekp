@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Genesect
+# Today's random Pokemon is... Shelmet
 
-![Genesect shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/649.png)
+![Shelmet shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/616.png)
 
 <details>
-<summary>Additional info about Genesect</summary>
+<summary>Additional info about Shelmet</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Genesect back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/649.png) |
-| back_default | ![Genesect back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/649.png) |
-| front_default | ![Genesect front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png) | </details>
+| back_shiny | ![Shelmet back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/616.png) |
+| back_default | ![Shelmet back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/616.png) |
+| front_default | ![Shelmet front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png) | </details>
