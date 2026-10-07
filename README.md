@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Quagsire
+# Today's random Pokemon is... Flabebe
 
-![Quagsire shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/195.png)
+![Flabebe shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/669.png)
 
 <details>
-<summary>Additional info about Quagsire</summary>
+<summary>Additional info about Flabebe</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Quagsire back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/195.png) |
-| back_female | ![Quagsire back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/195.png) |
-| back_default | ![Quagsire back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/195.png) |
-| front_female | ![Quagsire front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/195.png) |
-| front_default | ![Quagsire front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png) |
-| back_shiny_female | ![Quagsire back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/195.png) |
-| front_shiny_female | ![Quagsire front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/195.png) | </details>
+| back_shiny | ![Flabebe back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/669.png) |
+| back_female | ![Flabebe back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/669.png) |
+| back_default | ![Flabebe back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/669.png) |
+| front_female | ![Flabebe front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png) |
+| front_default | ![Flabebe front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png) |
+| back_shiny_female | ![Flabebe back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/669.png) |
+| front_shiny_female | ![Flabebe front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/669.png) | </details>
