@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Skorupi
+# Today's random Pokemon is... Bronzong
 
-![Skorupi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/451.png)
+![Bronzong shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/437.png)
 
 <details>
-<summary>Additional info about Skorupi</summary>
+<summary>Additional info about Bronzong</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Skorupi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/451.png) |
-| back_default | ![Skorupi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/451.png) |
-| front_default | ![Skorupi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png) | </details>
+| back_shiny | ![Bronzong back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/437.png) |
+| back_default | ![Bronzong back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/437.png) |
+| front_default | ![Bronzong front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png) | </details>
