@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Heliolisk
+# Today's random Pokemon is... Chimecho
 
-![Heliolisk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/695.png)
+![Chimecho shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/358.png)
 
 <details>
-<summary>Additional info about Heliolisk</summary>
+<summary>Additional info about Chimecho</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Heliolisk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/695.png) |
-| back_default | ![Heliolisk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/695.png) |
-| front_default | ![Heliolisk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png) | </details>
+| back_shiny | ![Chimecho back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/358.png) |
+| back_default | ![Chimecho back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/358.png) |
+| front_default | ![Chimecho front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png) | </details>
