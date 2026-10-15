@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pheromosa
+# Today's random Pokemon is... Chingling
 
-![Pheromosa shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/795.png)
+![Chingling shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/433.png)
 
 <details>
-<summary>Additional info about Pheromosa</summary>
+<summary>Additional info about Chingling</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Pheromosa back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/795.png) |
-| back_default | ![Pheromosa back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/795.png) |
-| front_default | ![Pheromosa front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png) | </details>
+| back_shiny | ![Chingling back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/433.png) |
+| back_default | ![Chingling back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/433.png) |
+| front_default | ![Chingling front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png) | </details>
