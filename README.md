@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Elgyem
+# Today's random Pokemon is... Panpour
 
-![Elgyem shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/605.png)
+![Panpour shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/515.png)
 
 <details>
-<summary>Additional info about Elgyem</summary>
+<summary>Additional info about Panpour</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Elgyem back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/605.png) |
-| back_default | ![Elgyem back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/605.png) |
-| front_default | ![Elgyem front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png) | </details>
+| back_shiny | ![Panpour back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/515.png) |
+| back_default | ![Panpour back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/515.png) |
+| front_default | ![Panpour front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png) | </details>
