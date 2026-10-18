@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Panpour
+# Today's random Pokemon is... Skorupi
 
-![Panpour shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/515.png)
+![Skorupi shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/451.png)
 
 <details>
-<summary>Additional info about Panpour</summary>
+<summary>Additional info about Skorupi</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Panpour back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/515.png) |
-| back_default | ![Panpour back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/515.png) |
-| front_default | ![Panpour front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png) | </details>
+| back_shiny | ![Skorupi back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/451.png) |
+| back_default | ![Skorupi back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/451.png) |
+| front_default | ![Skorupi front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png) | </details>
