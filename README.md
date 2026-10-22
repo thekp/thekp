@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Lugia
+# Today's random Pokemon is... Charizard
 
-![Lugia shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/249.png)
+![Charizard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png)
 
 <details>
-<summary>Additional info about Lugia</summary>
+<summary>Additional info about Charizard</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Lugia back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/249.png) |
-| back_default | ![Lugia back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/249.png) |
-| front_default | ![Lugia front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png) | </details>
+| back_shiny | ![Charizard back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/6.png) |
+| back_default | ![Charizard back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png) |
+| front_default | ![Charizard front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png) | </details>
