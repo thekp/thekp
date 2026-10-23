@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Charizard
+# Today's random Pokemon is... Beautifly
 
-![Charizard shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png)
+![Beautifly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/267.png)
 
 <details>
-<summary>Additional info about Charizard</summary>
+<summary>Additional info about Beautifly</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Charizard back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/6.png) |
-| back_default | ![Charizard back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png) |
-| front_default | ![Charizard front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png) | </details>
+| back_shiny | ![Beautifly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/267.png) |
+| back_female | ![Beautifly back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/267.png) |
+| back_default | ![Beautifly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/267.png) |
+| front_female | ![Beautifly front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/267.png) |
+| front_default | ![Beautifly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png) |
+| back_shiny_female | ![Beautifly back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/267.png) |
+| front_shiny_female | ![Beautifly front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/267.png) | </details>
