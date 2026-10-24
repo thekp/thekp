@@ -1,16 +1,16 @@
-# Today's random Pokemon is... Beautifly
+# Today's random Pokemon is... Ludicolo
 
-![Beautifly shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/267.png)
+![Ludicolo shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/272.png)
 
 <details>
-<summary>Additional info about Beautifly</summary>
+<summary>Additional info about Ludicolo</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Beautifly back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/267.png) |
-| back_female | ![Beautifly back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/267.png) |
-| back_default | ![Beautifly back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/267.png) |
-| front_female | ![Beautifly front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/267.png) |
-| front_default | ![Beautifly front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png) |
-| back_shiny_female | ![Beautifly back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/267.png) |
-| front_shiny_female | ![Beautifly front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/267.png) | </details>
+| back_shiny | ![Ludicolo back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/272.png) |
+| back_female | ![Ludicolo back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/272.png) |
+| back_default | ![Ludicolo back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/272.png) |
+| front_female | ![Ludicolo front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/272.png) |
+| front_default | ![Ludicolo front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png) |
+| back_shiny_female | ![Ludicolo back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/272.png) |
+| front_shiny_female | ![Ludicolo front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/272.png) | </details>
