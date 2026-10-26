@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Cacnea
+# Today's random Pokemon is... Croconaw
 
-![Cacnea shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/331.png)
+![Croconaw shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/159.png)
 
 <details>
-<summary>Additional info about Cacnea</summary>
+<summary>Additional info about Croconaw</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Cacnea back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/331.png) |
-| back_default | ![Cacnea back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/331.png) |
-| front_default | ![Cacnea front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png) | </details>
+| back_shiny | ![Croconaw back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/159.png) |
+| back_default | ![Croconaw back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/159.png) |
+| front_default | ![Croconaw front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png) | </details>
