@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Croconaw
+# Today's random Pokemon is... Mandibuzz
 
-![Croconaw shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/159.png)
+![Mandibuzz shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/630.png)
 
 <details>
-<summary>Additional info about Croconaw</summary>
+<summary>Additional info about Mandibuzz</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Croconaw back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/159.png) |
-| back_default | ![Croconaw back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/159.png) |
-| front_default | ![Croconaw front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png) | </details>
+| back_shiny | ![Mandibuzz back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/630.png) |
+| back_female | ![Mandibuzz back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/630.png) |
+| back_default | ![Mandibuzz back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/630.png) |
+| front_female | ![Mandibuzz front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png) |
+| front_default | ![Mandibuzz front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png) |
+| back_shiny_female | ![Mandibuzz back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/630.png) |
+| front_shiny_female | ![Mandibuzz front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/630.png) | </details>
