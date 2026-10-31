@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Swellow
+# Today's random Pokemon is... Loudred
 
-![Swellow shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/277.png)
+![Loudred shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/294.png)
 
 <details>
-<summary>Additional info about Swellow</summary>
+<summary>Additional info about Loudred</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Swellow back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/277.png) |
-| back_default | ![Swellow back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/277.png) |
-| front_default | ![Swellow front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png) | </details>
+| back_shiny | ![Loudred back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/294.png) |
+| back_default | ![Loudred back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/294.png) |
+| front_default | ![Loudred front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png) | </details>
