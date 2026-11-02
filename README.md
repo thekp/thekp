@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Vullaby
+# Today's random Pokemon is... Spinarak
 
-![Vullaby shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/629.png)
+![Spinarak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/167.png)
 
 <details>
-<summary>Additional info about Vullaby</summary>
+<summary>Additional info about Spinarak</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Vullaby back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/629.png) |
-| back_female | ![Vullaby back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/629.png) |
-| back_default | ![Vullaby back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/629.png) |
-| front_female | ![Vullaby front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png) |
-| front_default | ![Vullaby front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png) |
-| back_shiny_female | ![Vullaby back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/629.png) |
-| front_shiny_female | ![Vullaby front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/629.png) | </details>
+| back_shiny | ![Spinarak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/167.png) |
+| back_default | ![Spinarak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/167.png) |
+| front_default | ![Spinarak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png) | </details>
