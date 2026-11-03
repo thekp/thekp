@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Spinarak
+# Today's random Pokemon is... Bisharp
 
-![Spinarak shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/167.png)
+![Bisharp shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/625.png)
 
 <details>
-<summary>Additional info about Spinarak</summary>
+<summary>Additional info about Bisharp</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Spinarak back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/167.png) |
-| back_default | ![Spinarak back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/167.png) |
-| front_default | ![Spinarak front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png) | </details>
+| back_shiny | ![Bisharp back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/625.png) |
+| back_default | ![Bisharp back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/625.png) |
+| front_default | ![Bisharp front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png) | </details>
