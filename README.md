@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Xerneas
+# Today's random Pokemon is... Machop
 
-![Xerneas shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/716.png)
+![Machop shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/66.png)
 
 <details>
-<summary>Additional info about Xerneas</summary>
+<summary>Additional info about Machop</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Xerneas back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/716.png) |
-| back_default | ![Xerneas back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/716.png) |
-| front_default | ![Xerneas front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png) | </details>
+| back_shiny | ![Machop back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/66.png) |
+| back_default | ![Machop back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png) |
+| front_default | ![Machop front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png) | </details>
