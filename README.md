@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Machop
+# Today's random Pokemon is... Wigglytuff
 
-![Machop shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/66.png)
+![Wigglytuff shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/40.png)
 
 <details>
-<summary>Additional info about Machop</summary>
+<summary>Additional info about Wigglytuff</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Machop back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/66.png) |
-| back_default | ![Machop back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png) |
-| front_default | ![Machop front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png) | </details>
+| back_shiny | ![Wigglytuff back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/40.png) |
+| back_default | ![Wigglytuff back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png) |
+| front_default | ![Wigglytuff front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png) | </details>
