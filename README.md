@@ -1,12 +1,16 @@
-# Today's random Pokemon is... Wigglytuff
+# Today's random Pokemon is... Golbat
 
-![Wigglytuff shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/40.png)
+![Golbat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/42.png)
 
 <details>
-<summary>Additional info about Wigglytuff</summary>
+<summary>Additional info about Golbat</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Wigglytuff back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/40.png) |
-| back_default | ![Wigglytuff back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png) |
-| front_default | ![Wigglytuff front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png) | </details>
+| back_shiny | ![Golbat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/42.png) |
+| back_female | ![Golbat back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/42.png) |
+| back_default | ![Golbat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png) |
+| front_female | ![Golbat front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/42.png) |
+| front_default | ![Golbat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png) |
+| back_shiny_female | ![Golbat back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/42.png) |
+| front_shiny_female | ![Golbat front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/42.png) | </details>
