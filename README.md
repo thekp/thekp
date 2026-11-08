@@ -1,16 +1,12 @@
-# Today's random Pokemon is... Golbat
+# Today's random Pokemon is... Cinccino
 
-![Golbat shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/42.png)
+![Cinccino shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/573.png)
 
 <details>
-<summary>Additional info about Golbat</summary>
+<summary>Additional info about Cinccino</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Golbat back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/42.png) |
-| back_female | ![Golbat back_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/42.png) |
-| back_default | ![Golbat back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png) |
-| front_female | ![Golbat front_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/42.png) |
-| front_default | ![Golbat front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png) |
-| back_shiny_female | ![Golbat back_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/42.png) |
-| front_shiny_female | ![Golbat front_shiny_female sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/42.png) | </details>
+| back_shiny | ![Cinccino back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/573.png) |
+| back_default | ![Cinccino back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/573.png) |
+| front_default | ![Cinccino front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png) | </details>
