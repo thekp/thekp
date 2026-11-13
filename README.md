@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Wynaut
+# Today's random Pokemon is... Probopass
 
-![Wynaut shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/360.png)
+![Probopass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/476.png)
 
 <details>
-<summary>Additional info about Wynaut</summary>
+<summary>Additional info about Probopass</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Wynaut back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/360.png) |
-| back_default | ![Wynaut back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/360.png) |
-| front_default | ![Wynaut front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png) | </details>
+| back_shiny | ![Probopass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/476.png) |
+| back_default | ![Probopass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/476.png) |
+| front_default | ![Probopass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | </details>
