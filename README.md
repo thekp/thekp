@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Probopass
+# Today's random Pokemon is... Conkeldurr
 
-![Probopass shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/476.png)
+![Conkeldurr shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/534.png)
 
 <details>
-<summary>Additional info about Probopass</summary>
+<summary>Additional info about Conkeldurr</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Probopass back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/476.png) |
-| back_default | ![Probopass back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/476.png) |
-| front_default | ![Probopass front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png) | </details>
+| back_shiny | ![Conkeldurr back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/534.png) |
+| back_default | ![Conkeldurr back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/534.png) |
+| front_default | ![Conkeldurr front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png) | </details>
