@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Sigilyph
+# Today's random Pokemon is... Bulbasaur
 
-![Sigilyph shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/561.png)
+![Bulbasaur shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png)
 
 <details>
-<summary>Additional info about Sigilyph</summary>
+<summary>Additional info about Bulbasaur</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Sigilyph back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/561.png) |
-| back_default | ![Sigilyph back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/561.png) |
-| front_default | ![Sigilyph front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png) | </details>
+| back_shiny | ![Bulbasaur back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/1.png) |
+| back_default | ![Bulbasaur back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png) |
+| front_default | ![Bulbasaur front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png) | </details>
