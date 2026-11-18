@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Chatot
+# Today's random Pokemon is... Archen
 
-![Chatot shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/441.png)
+![Archen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/566.png)
 
 <details>
-<summary>Additional info about Chatot</summary>
+<summary>Additional info about Archen</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Chatot back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/441.png) |
-| back_default | ![Chatot back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/441.png) |
-| front_default | ![Chatot front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png) | </details>
+| back_shiny | ![Archen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/566.png) |
+| back_default | ![Archen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/566.png) |
+| front_default | ![Archen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png) | </details>
