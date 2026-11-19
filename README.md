@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Archen
+# Today's random Pokemon is... Bergmite
 
-![Archen shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/566.png)
+![Bergmite shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/712.png)
 
 <details>
-<summary>Additional info about Archen</summary>
+<summary>Additional info about Bergmite</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Archen back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/566.png) |
-| back_default | ![Archen back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/566.png) |
-| front_default | ![Archen front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png) | </details>
+| back_shiny | ![Bergmite back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/712.png) |
+| back_default | ![Bergmite back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/712.png) |
+| front_default | ![Bergmite front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png) | </details>
