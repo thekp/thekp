@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Pupitar
+# Today's random Pokemon is... Charmeleon
 
-![Pupitar shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/247.png)
+![Charmeleon shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/5.png)
 
 <details>
-<summary>Additional info about Pupitar</summary>
+<summary>Additional info about Charmeleon</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Pupitar back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/247.png) |
-| back_default | ![Pupitar back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/247.png) |
-| front_default | ![Pupitar front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png) | </details>
+| back_shiny | ![Charmeleon back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/5.png) |
+| back_default | ![Charmeleon back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png) |
+| front_default | ![Charmeleon front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png) | </details>
