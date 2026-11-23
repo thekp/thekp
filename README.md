@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Rayquaza
+# Today's random Pokemon is... Stantler
 
-![Rayquaza shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/384.png)
+![Stantler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png)
 
 <details>
-<summary>Additional info about Rayquaza</summary>
+<summary>Additional info about Stantler</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Rayquaza back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/384.png) |
-| back_default | ![Rayquaza back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/384.png) |
-| front_default | ![Rayquaza front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png) | </details>
+| back_shiny | ![Stantler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png) |
+| back_default | ![Stantler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png) |
+| front_default | ![Stantler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png) | </details>
