@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Stantler
+# Today's random Pokemon is... Herdier
 
-![Stantler shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/234.png)
+![Herdier shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/507.png)
 
 <details>
-<summary>Additional info about Stantler</summary>
+<summary>Additional info about Herdier</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Stantler back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/234.png) |
-| back_default | ![Stantler back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png) |
-| front_default | ![Stantler front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png) | </details>
+| back_shiny | ![Herdier back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/507.png) |
+| back_default | ![Herdier back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/507.png) |
+| front_default | ![Herdier front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png) | </details>
