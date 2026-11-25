@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Herdier
+# Today's random Pokemon is... Klinklang
 
-![Herdier shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/507.png)
+![Klinklang shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/601.png)
 
 <details>
-<summary>Additional info about Herdier</summary>
+<summary>Additional info about Klinklang</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Herdier back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/507.png) |
-| back_default | ![Herdier back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/507.png) |
-| front_default | ![Herdier front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png) | </details>
+| back_shiny | ![Klinklang back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/601.png) |
+| back_default | ![Klinklang back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/601.png) |
+| front_default | ![Klinklang front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png) | </details>
