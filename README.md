@@ -1,12 +1,12 @@
-# Today's random Pokemon is... Heliolisk
+# Today's random Pokemon is... Dusknoir
 
-![Heliolisk shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/695.png)
+![Dusknoir shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/477.png)
 
 <details>
-<summary>Additional info about Heliolisk</summary>
+<summary>Additional info about Dusknoir</summary>
 
 | srpite type | image |
 |------|------|
-| back_shiny | ![Heliolisk back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/695.png) |
-| back_default | ![Heliolisk back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/695.png) |
-| front_default | ![Heliolisk front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png) | </details>
+| back_shiny | ![Dusknoir back_shiny sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/477.png) |
+| back_default | ![Dusknoir back_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/477.png) |
+| front_default | ![Dusknoir front_default sprite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png) | </details>
